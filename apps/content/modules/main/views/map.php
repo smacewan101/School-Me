@@ -7,27 +7,36 @@
 	/*#map-canvas { height: 800px }
 */</style>
 
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#dropOuts').change(function() {
+        $('#mycheckboxdiv').toggle();
+    });
+});
+</script>
+
 <div class='container-fluid'>
 	<div class='row-fluid'>
 	<!--sidebar -->
 	 <div class="span3">
-          <div class="well sidebar-nav">
+          <div class="well sidebar-nav collapse-group">
             <ul class="nav nav-list">
               <li class="nav-header">Parameters</li>
-              <div class='accordion-heading'>
-              	<li><label class="checkbox"><input type="checkbox" name='dropOuts' value="">Drop outs by year</label></li>
-              	<a class='accordion-toggle' data-toggle='collapse' data-parent='#accordionParent' href="#collapseone">
-              		<div class='btn-group'>
+              	<li><label class="checkbox"><input type="checkbox" name='dropOuts' id='dropOuts' value="">Dropouts by year</label></li>
+              		<div id="mycheckboxdiv" style="display:none">
+              			<div class='btn-group'>
               			<a class='btn dropdown-toggle' data-toggle='dropdown'href="#">
               			Select Year
               			<span class='caret'></span>
               			</a>
               			<ul class='dropdown-menu'>
-              				<!--Dropdown menu links -->	
-              			</ul>
+              				Dropdown menu links 
+
+              			</ul>   
+              			</div>
+              			
               		</div>
-              	</a>   
-              </div>
+           
 
               <li><label class='checkbox'><input type='checkbox' value=''>Necap Scores</label></li>
               <li><a href="#">Link</a></li>
