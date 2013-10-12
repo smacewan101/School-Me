@@ -11,7 +11,7 @@
 
 <div class='main-form'>
 	<div class='row-fliud'>
-		<div class='span4'>
+		<div class='span3 offset4'>
 			<form>
 				<fieldset>
 					<legend>Legend</legend>
@@ -26,6 +26,7 @@
 						<option>School1</option>
 					</select>
 				</fieldset>
+				<button class='btn'>Go!</button>
 			</form>
 		</div>
 	</div>
