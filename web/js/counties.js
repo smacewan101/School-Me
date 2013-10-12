@@ -568,7 +568,7 @@ new google.maps.LatLng(44.48605,-72.38242),
 new google.maps.LatLng(44.50289,-72.42625)
 ];
 
-var chittidenPoints = [
+var chittendenPoints = [
 	new google.maps.LatLng(44.515,-72.82696),
 	new google.maps.LatLng(44.50937,-72.81205),
 	new google.maps.LatLng(44.50657,-72.80462),
