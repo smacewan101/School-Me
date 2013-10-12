@@ -1,59 +1,71 @@
-School-Me
-=========
-Built on top of the dinkly framwork. Hurray.
-
-Basic Setup
------------
-
-1. Install dependencies with composer:
-
-    `php composer.phar install`
-
-2. Update models, create basic admin table:
-
-    `php tools/gen_models.php -s=dinkly -i`
-
-3. Create a basic admin user (which can be changed in config/fixtures/dinkly/AdminUser.yml):
-
-    `php tools/load_fixtures.php -s=dinkly`
-
-    *Unless changed, the default credentials that shipa with Dinkly are bfett/password*
-
-4. Update base href value in config/config.yml as needed.
+School Me
+========================================================================
 
 
-Dinkly CLI Tools
-----------------
+Rest Resources
+------------------------------------------------------------------------
 
-Generate all Dinkly datamodel files (*will not* overwrite existing custom classes). Use the '-s' option to use the appropriate schema. To insert/update model sql, use the '-i' option.
+All REST resources support GET,POST,PUT and DELETE methods. To retrieve 
+a resource by id do: 
 
-	php tools/gen_models.php -s=<schema name> [-i]
+    METHOD /api/api/resource_name_here/id/{the resource id}
 
-Generate a single Dinkly datamodel file. Use the '-s' option to use the appropriate schema. To insert model sql, use the '-i' option.
+For example to retrieve a county with id of 1:
 
-	php tools/gen_model.php -s=<schema name> -m=<model name> [-i]
+    GET /api/api/county/id/1
 
-Load fixtures (preloads tables with data stored in yml files under config/fixtures)
+All REST objects also support collections by querying with the following
+convention.
 
-	php tools/load_fixtures.php -s=<schema name>
+    GET /api/api/resource_name_here/
 
-Generate a new Dinkly application.
+To create or update resources use POST to create and PUT to update. Use
+JSON to create the form data. For example, to create a County:
 
-	php tools/gen_app.php -a=<app name>
-
-Generate a new Dinkly module for a given application.
-
-	php tools/gen_module.php -a=<app name> -m=<module name>
-
-
-License
--------
-
-Dinkly is open-sourced software licensed under the MIT License.
+    POST /api/api/county/
+    { 
+        "name" : "Test Name"
+    }
 
 
-Contact
--------
 
-  - lewsid@lewsid.com
-  - github.com/lewsid
+###County
+
+County has the following fields: 
+<table>
+    <thead>
+        <tr>
+            <th>Field</th>
+            <th>Description</th>
+        </tr>               
+    </thead>
+    <tbody>
+        <tr>
+            <td>name</td>
+            <td>The name of the County</td>
+        </tr>           
+    </tbody>
+</table>
+
+
+###District
+
+District has the following fields: 
+<table>
+    <thead>
+        <tr>
+            <th>Field</th>
+            <th>Description</th>
+        </tr>               
+    </thead>
+    <tbody>
+        <tr>
+            <td>name</td>
+            <td>The name of the District</td>
+        </tr>           
+        <tr>
+            <td>county_id</td>
+            <td>The id of the County this District belongs to</td>
+        </tr>           
+    </tbody>
+</table>
