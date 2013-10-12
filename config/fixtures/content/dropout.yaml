@@ -1,0 +1,3749 @@
+school: PA003
+	name: Lyndon Institute
+	year: 2005
+		seventhru12: 0.0277
+		ninethru12: 0.0277
+	year: 2006
+		seventhru12: 0.0234
+		ninethru12: 0.0234
+	year: 2007
+		seventhru12: 0.0158
+		ninethru12: 0.0158
+	year: 2008
+		seventhru12: 0.028
+		ninethru12: 0.028
+	year: 2009
+		seventhru12: 0.0054
+		ninethru12: 0.0054
+	year: 2010
+		seventhru12: 0.0317
+		ninethru12: 0.0317
+	year: 2011
+		seventhru12: 0.0294
+		ninethru12: 0.0294
+school: PS051
+	name: Burke Town School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS066
+	name: Champlain Valley UHSD #15
+	year: 2005
+		seventhru12: 0.0015
+		ninethru12: 0.0015
+	year: 2006
+		seventhru12: 0.0088
+		ninethru12: 0.0088
+	year: 2007
+		seventhru12: 0.0052
+		ninethru12: 0.0052
+	year: 2008
+		seventhru12: 0.0059
+		ninethru12: 0.0059
+	year: 2009
+		seventhru12: 0.0067
+		ninethru12: 0.0067
+	year: 2010
+		seventhru12: 0.0065
+		ninethru12: 0.0065
+	year: 2011
+		seventhru12: 0.0123
+		ninethru12: 0.0123
+school: PS201
+	name: Newark School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS122
+	name: Grand Isle Elem. School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0.0182
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS015
+	name: Bakersfield School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS209
+	name: North Hero Elem. School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 
+		ninethru12: 
+	year: 2010
+		seventhru12: 
+		ninethru12: 
+	year: 2011
+		seventhru12: 
+		ninethru12: 
+school: PS085
+	name: Dorset School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.0164
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS322
+	name: Washington Village School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS215
+	name: Orange Center School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS173
+	name: Main Street School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS368
+	name: Woodstock Union Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS348
+	name: Windsor High School
+	year: 2005
+		seventhru12: 0.0361
+		ninethru12: 0.047
+	year: 2006
+		seventhru12: 0.0268
+		ninethru12: 0.0282
+	year: 2007
+		seventhru12: 0.0269
+		ninethru12: 0.035
+	year: 2008
+		seventhru12: 0.027
+		ninethru12: 0.0356
+	year: 2009
+		seventhru12: 0.0376
+		ninethru12: 0.0418
+	year: 2010
+		seventhru12: 0.0438
+		ninethru12: 0.0438
+	year: 2011
+		seventhru12: 0.0644
+		ninethru12: 0.0644
+school: PS186
+	name: Milton Sr High School
+	year: 2005
+		seventhru12: 0.0166
+		ninethru12: 0.0166
+	year: 2006
+		seventhru12: 0.0308
+		ninethru12: 0.0308
+	year: 2007
+		seventhru12: 0.0325
+		ninethru12: 0.0325
+	year: 2008
+		seventhru12: 0.02
+		ninethru12: 0.02
+	year: 2009
+		seventhru12: 0.0155
+		ninethru12: 0.0155
+	year: 2010
+		seventhru12: 0.0165
+		ninethru12: 0.0165
+	year: 2011
+		seventhru12: 0.0183
+		ninethru12: 0.0183
+school: PS177
+	name: Marlboro Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS044
+	name: Brighton Elementary School
+	year: 2005
+		seventhru12: 0.0227
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS304
+	name: Twinfield USD #33
+	year: 2005
+		seventhru12: 0.0164
+		ninethru12: 0.0245
+	year: 2006
+		seventhru12: 0.0502
+		ninethru12: 0.064
+	year: 2007
+		seventhru12: 0.0446
+		ninethru12: 0.0523
+	year: 2008
+		seventhru12: 0.0495
+		ninethru12: 0.0685
+	year: 2009
+		seventhru12: 0.0313
+		ninethru12: 0.0423
+	year: 2010
+		seventhru12: 0.0053
+		ninethru12: 0.0076
+	year: 2011
+		seventhru12: 0.0162
+		ninethru12: 0.0236
+school: PS134
+	name: Hartford High School
+	year: 2005
+		seventhru12: 0.0302
+		ninethru12: 0.0302
+	year: 2006
+		seventhru12: 0.0238
+		ninethru12: 0.0238
+	year: 2007
+		seventhru12: 0.03
+		ninethru12: 0.03
+	year: 2008
+		seventhru12: 0.0327
+		ninethru12: 0.0327
+	year: 2009
+		seventhru12: 0.0227
+		ninethru12: 0.0227
+	year: 2010
+		seventhru12: 0.0187
+		ninethru12: 0.0187
+	year: 2011
+		seventhru12: 0.0258
+		ninethru12: 0.0258
+school: PS007
+	name: Albany Community School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS253
+	name: Rutland Senior High School
+	year: 2005
+		seventhru12: 0.0203
+		ninethru12: 0.0203
+	year: 2006
+		seventhru12: 0.037
+		ninethru12: 0.037
+	year: 2007
+		seventhru12: 0.0339
+		ninethru12: 0.0339
+	year: 2008
+		seventhru12: 0.0383
+		ninethru12: 0.0383
+	year: 2009
+		seventhru12: 0.0312
+		ninethru12: 0.0312
+	year: 2010
+		seventhru12: 0.0516
+		ninethru12: 0.0516
+	year: 2011
+		seventhru12: 0.0322
+		ninethru12: 0.0322
+school: PS195
+	name: Mount Abraham UHSD #28
+	year: 2005
+		seventhru12: 0.0083
+		ninethru12: 0.0126
+	year: 2006
+		seventhru12: 0.0104
+		ninethru12: 0.0138
+	year: 2007
+		seventhru12: 0.0167
+		ninethru12: 0.024
+	year: 2008
+		seventhru12: 0.0271
+		ninethru12: 0.0388
+	year: 2009
+		seventhru12: 0.0231
+		ninethru12: 0.0328
+	year: 2010
+		seventhru12: 0.0279
+		ninethru12: 0.0383
+	year: 2011
+		seventhru12: 0.022
+		ninethru12: 0.0282
+school: PS295
+	name: Swanton Schools
+	year: 2005
+		seventhru12: 
+		ninethru12: 
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 
+		ninethru12: 
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 
+		ninethru12: 
+	year: 2011
+		seventhru12: 
+		ninethru12: 
+school: PS087
+	name: Dummerston Schools
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS018
+	name: Barnet Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS040
+	name: Brattleboro Sr. UHSD #6
+	year: 2005
+		seventhru12: 0.0048
+		ninethru12: 0.0048
+	year: 2006
+		seventhru12: 0.0442
+		ninethru12: 0.0442
+	year: 2007
+		seventhru12: 0.0411
+		ninethru12: 0.0411
+	year: 2008
+		seventhru12: 0.0481
+		ninethru12: 0.0481
+	year: 2009
+		seventhru12: 0.0493
+		ninethru12: 0.0493
+	year: 2010
+		seventhru12: 0.0651
+		ninethru12: 0.0651
+	year: 2011
+		seventhru12: 0.0456
+		ninethru12: 0.0456
+school: PS361
+	name: Weathersfield Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 
+		ninethru12: 
+	year: 2010
+		seventhru12: 
+		ninethru12: 
+	year: 2011
+		seventhru12: 
+		ninethru12: 
+school: PS316
+	name: Walden School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PA005
+	name: Thetford Academy
+	year: 2005
+		seventhru12: 0.0107
+		ninethru12: 0.0138
+	year: 2006
+		seventhru12: 0.0156
+		ninethru12: 0.0195
+	year: 2007
+		seventhru12: 0.0101
+		ninethru12: 0.0128
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0111
+		ninethru12: 0.0143
+	year: 2010
+		seventhru12: 0.0253
+		ninethru12: 0.0288
+	year: 2011
+		seventhru12: 0.0168
+		ninethru12: 0.0207
+school: PS218
+	name: Orwell Village School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS324
+	name: Waterford Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS273
+	name: Frederick H. Tuttle Middle Sch
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.0026
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0.0109
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS098
+	name: Enosburg Falls Jr/Sr High Sch
+	year: 2005
+		seventhru12: 0.0479
+		ninethru12: 0.059
+	year: 2006
+		seventhru12: 0.0338
+		ninethru12: 0.0424
+	year: 2007
+		seventhru12: 0.0302
+		ninethru12: 0.0375
+	year: 2008
+		seventhru12: 0.0552
+		ninethru12: 0.0665
+	year: 2009
+		seventhru12: 0.0398
+		ninethru12: 0.0455
+	year: 2010
+		seventhru12: 0.0355
+		ninethru12: 0.0365
+	year: 2011
+		seventhru12: 0.0386
+		ninethru12: 0.0472
+school: PS404
+	name: Lamoille Union Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PI004
+	name: Rivendell Academy
+	year: 2005
+		seventhru12: 0.0369
+		ninethru12: 0.0532
+	year: 2006
+		seventhru12: 0.0337
+		ninethru12: 0.0464
+	year: 2007
+		seventhru12: 0.0165
+		ninethru12: 0.0183
+	year: 2008
+		seventhru12: 0.0037
+		ninethru12: 0.0058
+	year: 2009
+		seventhru12: 0.0125
+		ninethru12: 0.0186
+	year: 2010
+		seventhru12: 0.0129
+		ninethru12: 0.0184
+	year: 2011
+		seventhru12: 0.0239
+		ninethru12: 0.0235
+school: PS233
+	name: Proctor Jr/Sr High School
+	year: 2005
+		seventhru12: 0.0204
+		ninethru12: 0.0297
+	year: 2006
+		seventhru12: 0.0067
+		ninethru12: 0.009
+	year: 2007
+		seventhru12: 0.0123
+		ninethru12: 0.0174
+	year: 2008
+		seventhru12: 0.018
+		ninethru12: 0.0306
+	year: 2009
+		seventhru12: 0.0182
+		ninethru12: 0.0291
+	year: 2010
+		seventhru12: 0.0125
+		ninethru12: 0.0179
+	year: 2011
+		seventhru12: 0.0069
+		ninethru12: 0.0097
+school: PS073
+	name: Colchester Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS407
+	name: Weathersfield School
+	year: 2005
+		seventhru12: 
+		ninethru12: 
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 
+		ninethru12: 
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS400
+	name: St Johnsbury School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0.0068
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0073
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0.008
+		ninethru12: 0
+school: PS095
+	name: Edmunds Middle School
+	year: 2005
+		seventhru12: 0.0087
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0.008
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.0039
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0041
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0.0079
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS068
+	name: Charlotte Central School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PA002
+	name: Burr And Burton Academy
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.0028
+		ninethru12: 0.0028
+	year: 2008
+		seventhru12: 0.0029
+		ninethru12: 0.0029
+	year: 2009
+		seventhru12: 0.0085
+		ninethru12: 0.0085
+	year: 2010
+		seventhru12: 0.0104
+		ninethru12: 0.0104
+	year: 2011
+		seventhru12: 0.0032
+		ninethru12: 0.0032
+school: PS247
+	name: Rochester Elem/High School
+	year: 2005
+		seventhru12: 0.0331
+		ninethru12: 0.049
+	year: 2006
+		seventhru12: 0.0127
+		ninethru12: 0.0202
+	year: 2007
+		seventhru12: 0.019
+		ninethru12: 0.0288
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0397
+		ninethru12: 0.05
+	year: 2010
+		seventhru12: 0.0086
+		ninethru12: 0.0122
+	year: 2011
+		seventhru12: 0.0098
+		ninethru12: 0
+school: PS220
+	name: Oxbow UHSD #30
+	year: 2005
+		seventhru12: 0.0311
+		ninethru12: 0.0412
+	year: 2006
+		seventhru12: 0.0291
+		ninethru12: 0.0401
+	year: 2007
+		seventhru12: 0.0215
+		ninethru12: 0.0291
+	year: 2008
+		seventhru12: 0.036
+		ninethru12: 0.0478
+	year: 2009
+		seventhru12: 0.0366
+		ninethru12: 0.0488
+	year: 2010
+		seventhru12: 0.0248
+		ninethru12: 0.0319
+	year: 2011
+		seventhru12: 0.0205
+		ninethru12: 0.028
+school: PS118
+	name: Glover Village School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS196
+	name: Mt. Anthony Sr. UHSD #14
+	year: 2005
+		seventhru12: 0.0523
+		ninethru12: 0.0523
+	year: 2006
+		seventhru12: 0.0623
+		ninethru12: 0.0623
+	year: 2007
+		seventhru12: 0.0836
+		ninethru12: 0.0836
+	year: 2008
+		seventhru12: 0.0626
+		ninethru12: 0.0626
+	year: 2009
+		seventhru12: 0.0548
+		ninethru12: 0.0548
+	year: 2010
+		seventhru12: 0.048
+		ninethru12: 0.048
+	year: 2011
+		seventhru12: 0.0389
+		ninethru12: 0.0389
+school: PS021
+	name: Barstow Memorial School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS071
+	name: Clarendon Elementary School
+	year: 2005
+		seventhru12: 
+		ninethru12: 
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 
+		ninethru12: 
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 
+		ninethru12: 
+	year: 2011
+		seventhru12: 
+		ninethru12: 
+school: PS242
+	name: Richford Jr/Sr High School
+	year: 2005
+		seventhru12: 0.0346
+		ninethru12: 0.0476
+	year: 2006
+		seventhru12: 0.024
+		ninethru12: 0.0331
+	year: 2007
+		seventhru12: 0.0239
+		ninethru12: 0.0316
+	year: 2008
+		seventhru12: 0.0203
+		ninethru12: 0.0282
+	year: 2009
+		seventhru12: 0.004
+		ninethru12: 0.0054
+	year: 2010
+		seventhru12: 0.0375
+		ninethru12: 0.0498
+	year: 2011
+		seventhru12: 0.0474
+		ninethru12: 0.0622
+school: PS055
+	name: Cabot School
+	year: 2005
+		seventhru12: 0.0077
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0.027
+		ninethru12: 0.0366
+	year: 2007
+		seventhru12: 0.0333
+		ninethru12: 0.0323
+	year: 2008
+		seventhru12: 0.0459
+		ninethru12: 0.0588
+	year: 2009
+		seventhru12: 0.042
+		ninethru12: 0.0562
+	year: 2010
+		seventhru12: 0.0388
+		ninethru12: 0.0423
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS101
+	name: Essex Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS112
+	name: Folsom Ed. And Community Ctr
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS183
+	name: Mill River USD #40
+	year: 2005
+		seventhru12: 0.0126
+		ninethru12: 0.0159
+	year: 2006
+		seventhru12: 0.0168
+		ninethru12: 0.0229
+	year: 2007
+		seventhru12: 0.017
+		ninethru12: 0.024
+	year: 2008
+		seventhru12: 0.0343
+		ninethru12: 0.0457
+	year: 2009
+		seventhru12: 0.0218
+		ninethru12: 0.03
+	year: 2010
+		seventhru12: 0.0276
+		ninethru12: 0.0404
+	year: 2011
+		seventhru12: 0.0124
+		ninethru12: 0.0175
+school: PS240
+	name: Readsboro Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS303
+	name: Tunbridge Central School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS067
+	name: Charleston Elem. School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS011
+	name: Arlington Memorial
+	year: 2005
+		seventhru12: 0.0043
+		ninethru12: 0.0063
+	year: 2006
+		seventhru12: 0.0093
+		ninethru12: 0.0127
+	year: 2007
+		seventhru12: 0.0299
+		ninethru12: 0.0327
+	year: 2008
+		seventhru12: 0.0107
+		ninethru12: 0.0149
+	year: 2009
+		seventhru12: 0.0237
+		ninethru12: 0.0331
+	year: 2010
+		seventhru12: 0.0061
+		ninethru12: 0.0092
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS027
+	name: Bellows Free Academy (Fairfax)
+	year: 2005
+		seventhru12: 0.0058
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS158
+	name: Lamoille UHSD #18
+	year: 2005
+		seventhru12: 0.024
+		ninethru12: 0.024
+	year: 2006
+		seventhru12: 0.032
+		ninethru12: 0.032
+	year: 2007
+		seventhru12: 0.0203
+		ninethru12: 0.0203
+	year: 2008
+		seventhru12: 0.0463
+		ninethru12: 0.0463
+	year: 2009
+		seventhru12: 0.0117
+		ninethru12: 0.0117
+	year: 2010
+		seventhru12: 0.0224
+		ninethru12: 0.0224
+	year: 2011
+		seventhru12: 0.0276
+		ninethru12: 0.0276
+school: PS217
+	name: Orleans Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS206
+	name: Newton Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS405
+	name: Bellows Free Academy (Fairfax)
+	year: 2005
+		seventhru12: 0.014
+		ninethru12: 0.014
+	year: 2006
+		seventhru12: 0.0199
+		ninethru12: 0.0199
+	year: 2007
+		seventhru12: 0.0232
+		ninethru12: 0.0232
+	year: 2008
+		seventhru12: 0.0155
+		ninethru12: 0.0155
+	year: 2009
+		seventhru12: 0.0208
+		ninethru12: 0.0208
+	year: 2010
+		seventhru12: 0.0124
+		ninethru12: 0.0124
+	year: 2011
+		seventhru12: 0.0197
+		ninethru12: 0.0197
+school: PS147
+	name: Irasburg Village School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS069
+	name: Chelsea Elem. High School
+	year: 2005
+		seventhru12: 0.0188
+		ninethru12: 0.0165
+	year: 2006
+		seventhru12: 0.0155
+		ninethru12: 0.0192
+	year: 2007
+		seventhru12: 0.0351
+		ninethru12: 0.0417
+	year: 2008
+		seventhru12: 0.0225
+		ninethru12: 0.0247
+	year: 2009
+		seventhru12: 0.0674
+		ninethru12: 0.0857
+	year: 2010
+		seventhru12: 0.0225
+		ninethru12: 0.0313
+	year: 2011
+		seventhru12: 0.0345
+		ninethru12: 0.0492
+school: PS104
+	name: Fair Haven UHSD #16
+	year: 2005
+		seventhru12: 0.0331
+		ninethru12: 0.0331
+	year: 2006
+		seventhru12: 0.0344
+		ninethru12: 0.0344
+	year: 2007
+		seventhru12: 0.0436
+		ninethru12: 0.0436
+	year: 2008
+		seventhru12: 0.0508
+		ninethru12: 0.0508
+	year: 2009
+		seventhru12: 0.0325
+		ninethru12: 0.0325
+	year: 2010
+		seventhru12: 0.0283
+		ninethru12: 0.0283
+	year: 2011
+		seventhru12: 0.0232
+		ninethru12: 0.0232
+school: PS180
+	name: Middlebury Sr. UHSD #3
+	year: 2005
+		seventhru12: 0.0186
+		ninethru12: 0.0186
+	year: 2006
+		seventhru12: 0.0144
+		ninethru12: 0.0144
+	year: 2007
+		seventhru12: 0.0161
+		ninethru12: 0.0161
+	year: 2008
+		seventhru12: 0.0198
+		ninethru12: 0.0198
+	year: 2009
+		seventhru12: 0.0061
+		ninethru12: 0.0061
+	year: 2010
+		seventhru12: 0.0214
+		ninethru12: 0.0214
+	year: 2011
+		seventhru12: 0.0204
+		ninethru12: 0.0204
+school: PS035
+	name: Black River USD #39
+	year: 2005
+		seventhru12: 0.0127
+		ninethru12: 0.0176
+	year: 2006
+		seventhru12: 0.0169
+		ninethru12: 0.024
+	year: 2007
+		seventhru12: 0.0385
+		ninethru12: 0.0563
+	year: 2008
+		seventhru12: 0.0355
+		ninethru12: 0.0435
+	year: 2009
+		seventhru12: 0.026
+		ninethru12: 0.0391
+	year: 2010
+		seventhru12: 0.0552
+		ninethru12: 0.0775
+	year: 2011
+		seventhru12: 0.0211
+		ninethru12: 0.0308
+school: PS394
+	name: Peoples Academy Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS166
+	name: Lowell Graded School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS020
+	name: Barre Town Middle And Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS049
+	name: Brownington Central School
+	year: 2005
+		seventhru12: 
+		ninethru12: 
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 
+		ninethru12: 
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 
+		ninethru12: 
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 
+		ninethru12: 
+school: PS190
+	name: Montgomery Center School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS031
+	name: Benson Village School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS124
+	name: Green Mountain UHSD #35
+	year: 2005
+		seventhru12: 0.0336
+		ninethru12: 0.0464
+	year: 2006
+		seventhru12: 0.0302
+		ninethru12: 0.0429
+	year: 2007
+		seventhru12: 0.0406
+		ninethru12: 0.0576
+	year: 2008
+		seventhru12: 0.0266
+		ninethru12: 0.038
+	year: 2009
+		seventhru12: 0.011
+		ninethru12: 0.0157
+	year: 2010
+		seventhru12: 0.0163
+		ninethru12: 0.0203
+	year: 2011
+		seventhru12: 0.0497
+		ninethru12: 0.0681
+school: PS288
+	name: St Albans City School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS184
+	name: Millers Run USD #37
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS022
+	name: Barton Graded School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS401
+	name: Winooski Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0.0087
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS169
+	name: Lyman C. Hunt Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0.0077
+		ninethru12: 0
+school: PS025
+	name: Bellows Falls UHSD #27
+	year: 2005
+		seventhru12: 0.0457
+		ninethru12: 0.0457
+	year: 2006
+		seventhru12: 0.0611
+		ninethru12: 0.0611
+	year: 2007
+		seventhru12: 0.0573
+		ninethru12: 0.0573
+	year: 2008
+		seventhru12: 0.0701
+		ninethru12: 0.0701
+	year: 2009
+		seventhru12: 0.0511
+		ninethru12: 0.0511
+	year: 2010
+		seventhru12: 0.0443
+		ninethru12: 0.0443
+	year: 2011
+		seventhru12: 0.0462
+		ninethru12: 0.0462
+school: PS349
+	name: Windsor State Street School
+	year: 2005
+		seventhru12: 
+		ninethru12: 
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 
+		ninethru12: 
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 
+		ninethru12: 
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS266
+	name: Sheldon Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS139
+	name: Hazen UHSD #26
+	year: 2005
+		seventhru12: 0.03
+		ninethru12: 0.0446
+	year: 2006
+		seventhru12: 0.008
+		ninethru12: 0.0127
+	year: 2007
+		seventhru12: 0.024
+		ninethru12: 0.0361
+	year: 2008
+		seventhru12: 0.0258
+		ninethru12: 0.038
+	year: 2009
+		seventhru12: 0.0282
+		ninethru12: 0.0413
+	year: 2010
+		seventhru12: 0.0133
+		ninethru12: 0.0196
+	year: 2011
+		seventhru12: 0.0079
+		ninethru12: 0.0083
+school: PS351
+	name: Winooski High School
+	year: 2005
+		seventhru12: 0.0542
+		ninethru12: 0.0542
+	year: 2006
+		seventhru12: 0.0274
+		ninethru12: 0.0274
+	year: 2007
+		seventhru12: 0.075
+		ninethru12: 0.075
+	year: 2008
+		seventhru12: 0.0543
+		ninethru12: 0.0543
+	year: 2009
+		seventhru12: 0.0905
+		ninethru12: 0.0905
+	year: 2010
+		seventhru12: 0.0293
+		ninethru12: 0.0293
+	year: 2011
+		seventhru12: 0.0749
+		ninethru12: 0.0749
+school: PS059
+	name: Canaan Schools
+	year: 2005
+		seventhru12: 0.0303
+		ninethru12: 0.0435
+	year: 2006
+		seventhru12: 0.0124
+		ninethru12: 0.0169
+	year: 2007
+		seventhru12: 0.0255
+		ninethru12: 0.036
+	year: 2008
+		seventhru12: 0.0204
+		ninethru12: 0.0268
+	year: 2009
+		seventhru12: 0.0526
+		ninethru12: 0.0667
+	year: 2010
+		seventhru12: 0.0182
+		ninethru12: 0.0241
+	year: 2011
+		seventhru12: 0.0192
+		ninethru12: 0.0253
+school: PS264
+	name: Shelburne Community School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS305
+	name: U-32 High School (UHSD #32)
+	year: 2005
+		seventhru12: 0.0205
+		ninethru12: 0.0303
+	year: 2006
+		seventhru12: 0.018
+		ninethru12: 0.0257
+	year: 2007
+		seventhru12: 0.0156
+		ninethru12: 0.021
+	year: 2008
+		seventhru12: 0.0202
+		ninethru12: 0.0281
+	year: 2009
+		seventhru12: 0.0184
+		ninethru12: 0.0255
+	year: 2010
+		seventhru12: 0.0178
+		ninethru12: 0.0253
+	year: 2011
+		seventhru12: 0.0138
+		ninethru12: 0.0198
+school: Preliminary Report"
+	name: 
+	year: 2005
+		seventhru12: 
+		ninethru12: 
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 
+		ninethru12: 
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 
+		ninethru12: 
+	year: 2010
+		seventhru12: 
+		ninethru12: 
+	year: 2011
+		seventhru12: 
+		ninethru12: 
+school: PS117
+	name: Georgia Elem/Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS245
+	name: Riverside School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS074
+	name: Concord Schools
+	year: 2005
+		seventhru12: 0.0388
+		ninethru12: 0.0543
+	year: 2006
+		seventhru12: 0.028
+		ninethru12: 0.0385
+	year: 2007
+		seventhru12: 0.0182
+		ninethru12: 0.0115
+	year: 2008
+		seventhru12: 0.0381
+		ninethru12: 0.05
+	year: 2009
+		seventhru12: 0.0103
+		ninethru12: 0.0135
+	year: 2010
+		seventhru12: 0.0238
+		ninethru12: 0.0339
+	year: 2011
+		seventhru12: 0.0641
+		ninethru12: 0.1087
+school: PS237
+	name: Randolph UHSD #2
+	year: 2005
+		seventhru12: 0.0174
+		ninethru12: 0.0247
+	year: 2006
+		seventhru12: 0.0246
+		ninethru12: 0.0312
+	year: 2007
+		seventhru12: 0.0256
+		ninethru12: 0.0377
+	year: 2008
+		seventhru12: 0.0283
+		ninethru12: 0.0429
+	year: 2009
+		seventhru12: 0.0125
+		ninethru12: 0.0188
+	year: 2010
+		seventhru12: 0.0225
+		ninethru12: 0.0293
+	year: 2011
+		seventhru12: 0.0381
+		ninethru12: 0.057
+school: PS185
+	name: Milton Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS234
+	name: Putney Central School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS367
+	name: Bratt. Area Middle Sch UHSD #6
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0035
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS135
+	name: Hartford Mem. Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS061
+	name: Castleton-Hubbardton USD #42
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS170
+	name: Lyndon Town School
+	year: 2005
+		seventhru12: 0.0069
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.0073
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS381
+	name: Barre City Elem/Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS208
+	name: North Country Sr UHSD #22
+	year: 2005
+		seventhru12: 0.0253
+		ninethru12: 0.0253
+	year: 2006
+		seventhru12: 0.0417
+		ninethru12: 0.0417
+	year: 2007
+		seventhru12: 0.058
+		ninethru12: 0.058
+	year: 2008
+		seventhru12: 0.057
+		ninethru12: 0.057
+	year: 2009
+		seventhru12: 0.0552
+		ninethru12: 0.0552
+	year: 2010
+		seventhru12: 0.0272
+		ninethru12: 0.0272
+	year: 2011
+		seventhru12: 0.0163
+		ninethru12: 0.0163
+school: PS090
+	name: East Haven School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS393
+	name: Harwood Union Middle UHSD #19
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS105
+	name: Fairfield Center School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS161
+	name: Leland And Gray UHSD #34
+	year: 2005
+		seventhru12: 0.0386
+		ninethru12: 0.0554
+	year: 2006
+		seventhru12: 0.0541
+		ninethru12: 0.0763
+	year: 2007
+		seventhru12: 0.0182
+		ninethru12: 0.0271
+	year: 2008
+		seventhru12: 0.0207
+		ninethru12: 0.0301
+	year: 2009
+		seventhru12: 0.0175
+		ninethru12: 0.027
+	year: 2010
+		seventhru12: 0.0278
+		ninethru12: 0.0437
+	year: 2011
+		seventhru12: 0.0177
+		ninethru12: 0.0258
+school: PS344
+	name: Williamstown Middle/High Sch
+	year: 2005
+		seventhru12: 0.0244
+		ninethru12: 0.0368
+	year: 2006
+		seventhru12: 0.0391
+		ninethru12: 0.05
+	year: 2007
+		seventhru12: 0.0185
+		ninethru12: 0.0253
+	year: 2008
+		seventhru12: 0.0471
+		ninethru12: 0.0674
+	year: 2009
+		seventhru12: 0.0502
+		ninethru12: 0.0745
+	year: 2010
+		seventhru12: 0.0383
+		ninethru12: 0.0559
+	year: 2011
+		seventhru12: 0.0402
+		ninethru12: 0.0606
+school: PA004
+	name: St Johnsbury Academy
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0075
+		ninethru12: 0.0075
+	year: 2010
+		seventhru12: 0.0076
+		ninethru12: 0.0076
+	year: 2011
+		seventhru12: 0.0076
+		ninethru12: 0.0076
+school: PS356
+	name: Woodstock Sr. UHSD #4
+	year: 2005
+		seventhru12: 0.0143
+		ninethru12: 0.0143
+	year: 2006
+		seventhru12: 0.0143
+		ninethru12: 0.0143
+	year: 2007
+		seventhru12: 0.0296
+		ninethru12: 0.0296
+	year: 2008
+		seventhru12: 0.0258
+		ninethru12: 0.0258
+	year: 2009
+		seventhru12: 0.0073
+		ninethru12: 0.0073
+	year: 2010
+		seventhru12: 0.0124
+		ninethru12: 0.0124
+	year: 2011
+		seventhru12: 0.0185
+		ninethru12: 0.0185
+school: PS312
+	name: Vergennes UHSD #5
+	year: 2005
+		seventhru12: 0.0015
+		ninethru12: 0.0022
+	year: 2006
+		seventhru12: 0.0076
+		ninethru12: 0.0108
+	year: 2007
+		seventhru12: 0.0154
+		ninethru12: 0.0218
+	year: 2008
+		seventhru12: 0.0174
+		ninethru12: 0.0256
+	year: 2009
+		seventhru12: 0.0081
+		ninethru12: 0.0119
+	year: 2010
+		seventhru12: 0.0017
+		ninethru12: 0.0024
+	year: 2011
+		seventhru12: 0.0121
+		ninethru12: 0.0174
+school: PS338
+	name: Whitcomb Jr/Sr High School
+	year: 2005
+		seventhru12: 0.0289
+		ninethru12: 0.0385
+	year: 2006
+		seventhru12: 0.04
+		ninethru12: 0.055
+	year: 2007
+		seventhru12: 0.0435
+		ninethru12: 0.0562
+	year: 2008
+		seventhru12: 0.0625
+		ninethru12: 0.0964
+	year: 2009
+		seventhru12: 0.0159
+		ninethru12: 0.0241
+	year: 2010
+		seventhru12: 0.0156
+		ninethru12: 0.0244
+	year: 2011
+		seventhru12: 0.0246
+		ninethru12: 0.0375
+school: PS009
+	name: Albert D. Lawton School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS365
+	name: Rutland Middle School
+	year: 2005
+		seventhru12: 0.0072
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0.0026
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.0056
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0.0111
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0056
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS403
+	name: Twin Valley Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0.0109
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS050
+	name: Browns River Middle USD #17
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS077
+	name: Coventry Village School
+	year: 2005
+		seventhru12: 0.0769
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS103
+	name: Fair Haven Grade School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0.0115
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PA001
+	name: Bellows Free Academy (St. Albans)
+	year: 2005
+		seventhru12: 0.0345
+		ninethru12: 0.0345
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 
+		ninethru12: 
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 
+		ninethru12: 
+	year: 2010
+		seventhru12: 
+		ninethru12: 
+	year: 2011
+		seventhru12: 
+		ninethru12: 
+school: PS111
+	name: Flood Brook USD #20
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0.0147
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0.0156
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0172
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS168
+	name: Lunenburg Schools
+	year: 2005
+		seventhru12: 0.027
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0385
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS274
+	name: So. Royalton Elem/High School
+	year: 2005
+		seventhru12: 0.0149
+		ninethru12: 0.0204
+	year: 2006
+		seventhru12: 0.0117
+		ninethru12: 0.0158
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0.0286
+		ninethru12: 0.0324
+	year: 2009
+		seventhru12: 0.0392
+		ninethru12: 0.0473
+	year: 2010
+		seventhru12: 0.0053
+		ninethru12: 0.007
+	year: 2011
+		seventhru12: 0.0391
+		ninethru12: 0.0526
+school: PS010
+	name: Alburgh Community Ed Center
+	year: 2005
+		seventhru12: 0.0213
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS219
+	name: Otter Valley UHSD #8
+	year: 2005
+		seventhru12: 0.0152
+		ninethru12: 0.0236
+	year: 2006
+		seventhru12: 0.0207
+		ninethru12: 0.0305
+	year: 2007
+		seventhru12: 0.0041
+		ninethru12: 0.0061
+	year: 2008
+		seventhru12: 0.0223
+		ninethru12: 0.0318
+	year: 2009
+		seventhru12: 0.0239
+		ninethru12: 0.0317
+	year: 2010
+		seventhru12: 0.0203
+		ninethru12: 0.0278
+	year: 2011
+		seventhru12: 0.0103
+		ninethru12: 0.0141
+school: PS278
+	name: Springfield High School
+	year: 2005
+		seventhru12: 0.0602
+		ninethru12: 0.0602
+	year: 2006
+		seventhru12: 0.0917
+		ninethru12: 0.0917
+	year: 2007
+		seventhru12: 0.0848
+		ninethru12: 0.0848
+	year: 2008
+		seventhru12: 0.0646
+		ninethru12: 0.0646
+	year: 2009
+		seventhru12: 0.1015
+		ninethru12: 0.1015
+	year: 2010
+		seventhru12: 0.0699
+		ninethru12: 0.0699
+	year: 2011
+		seventhru12: 0.0707
+		ninethru12: 0.0707
+school: PS406
+	name: Bellows Free Academy (St Albans)
+	year: 2005
+		seventhru12: 
+		ninethru12: 
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 0.045
+		ninethru12: 0.045
+	year: 2008
+		seventhru12: 0.0295
+		ninethru12: 0.0295
+	year: 2009
+		seventhru12: 0.0367
+		ninethru12: 0.0367
+	year: 2010
+		seventhru12: 0.0221
+		ninethru12: 0.0221
+	year: 2011
+		seventhru12: 0.0256
+		ninethru12: 0.0256
+school: PS287
+	name: Stowe Middle-High School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0.0085
+		ninethru12: 0.0129
+	year: 2007
+		seventhru12: 0.0085
+		ninethru12: 0.0132
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0029
+		ninethru12: 0.0044
+	year: 2010
+		seventhru12: 0.0088
+		ninethru12: 0.0142
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS258
+	name: Rutland Town Elem School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS289
+	name: St. Albans Town Educ. Center
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.0072
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS078
+	name: Craftsbury Schools
+	year: 2005
+		seventhru12: 0.0275
+		ninethru12: 0.0469
+	year: 2006
+		seventhru12: 0.0108
+		ninethru12: 0.0156
+	year: 2007
+		seventhru12: 0.044
+		ninethru12: 0.0727
+	year: 2008
+		seventhru12: 0.0556
+		ninethru12: 0.0847
+	year: 2009
+		seventhru12: 0.0361
+		ninethru12: 0.05
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS128
+	name: Guilford Central School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS082
+	name: Danville School
+	year: 2005
+		seventhru12: 0.0047
+		ninethru12: 0.007
+	year: 2006
+		seventhru12: 0.0142
+		ninethru12: 0.0194
+	year: 2007
+		seventhru12: 0.0253
+		ninethru12: 0.0288
+	year: 2008
+		seventhru12: 0.0156
+		ninethru12: 0.0214
+	year: 2009
+		seventhru12: 0.0396
+		ninethru12: 0.0544
+	year: 2010
+		seventhru12: 0.0466
+		ninethru12: 0.0584
+	year: 2011
+		seventhru12: 0.0165
+		ninethru12: 0.0231
+school: PS175
+	name: Manchester Elem/Middle School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS197
+	name: Mt. Anthony Union Middle Sch
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0.002
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS224
+	name: Peoples Academy
+	year: 2005
+		seventhru12: 0.0207
+		ninethru12: 0.0207
+	year: 2006
+		seventhru12: 0.0128
+		ninethru12: 0.0128
+	year: 2007
+		seventhru12: 0.0289
+		ninethru12: 0.0289
+	year: 2008
+		seventhru12: 0.0383
+		ninethru12: 0.0383
+	year: 2009
+		seventhru12: 0.0347
+		ninethru12: 0.0347
+	year: 2010
+		seventhru12: 0.027
+		ninethru12: 0.027
+	year: 2011
+		seventhru12: 0.0366
+		ninethru12: 0.0366
+school: PS302
+	name: Troy School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS199
+	name: Mt. Mansfield USD #17
+	year: 2005
+		seventhru12: 0.0075
+		ninethru12: 0.0075
+	year: 2006
+		seventhru12: 0.0125
+		ninethru12: 0.0125
+	year: 2007
+		seventhru12: 0.0112
+		ninethru12: 0.0112
+	year: 2008
+		seventhru12: 0.0124
+		ninethru12: 0.0124
+	year: 2009
+		seventhru12: 0.0084
+		ninethru12: 0.0084
+	year: 2010
+		seventhru12: 0.0082
+		ninethru12: 0.0082
+	year: 2011
+		seventhru12: 0.0113
+		ninethru12: 0.0113
+school: PS230
+	name: Poultney High School
+	year: 2005
+		seventhru12: 0.0139
+		ninethru12: 0.0205
+	year: 2006
+		seventhru12: 0.0175
+		ninethru12: 0.025
+	year: 2007
+		seventhru12: 0.0105
+		ninethru12: 0.0149
+	year: 2008
+		seventhru12: 0.0303
+		ninethru12: 0.0389
+	year: 2009
+		seventhru12: 0.0161
+		ninethru12: 0.0233
+	year: 2010
+		seventhru12: 0.0268
+		ninethru12: 0.04
+	year: 2011
+		seventhru12: 0.027
+		ninethru12: 0.0414
+school: PS388
+	name: Essex Comm. Ed. Ctr. UHSD #46
+	year: 2005
+		seventhru12: 0.0139
+		ninethru12: 0.0139
+	year: 2006
+		seventhru12: 0.0277
+		ninethru12: 0.0277
+	year: 2007
+		seventhru12: 0.02
+		ninethru12: 0.02
+	year: 2008
+		seventhru12: 0.019
+		ninethru12: 0.019
+	year: 2009
+		seventhru12: 0.0093
+		ninethru12: 0.0093
+	year: 2010
+		seventhru12: 0.016
+		ninethru12: 0.016
+	year: 2011
+		seventhru12: 0.0152
+		ninethru12: 0.0152
+school: PS024
+	name: Bellows Falls Middle School
+	year: 2005
+		seventhru12: 0.0101
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0.0057
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.012
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0.0071
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS191
+	name: Montpelier High School
+	year: 2005
+		seventhru12: 0.0286
+		ninethru12: 0.0286
+	year: 2006
+		seventhru12: 0.0252
+		ninethru12: 0.0252
+	year: 2007
+		seventhru12: 0.0314
+		ninethru12: 0.0314
+	year: 2008
+		seventhru12: 0.0214
+		ninethru12: 0.0214
+	year: 2009
+		seventhru12: 0.0152
+		ninethru12: 0.0152
+	year: 2010
+		seventhru12: 0.0151
+		ninethru12: 0.0151
+	year: 2011
+		seventhru12: 0.021
+		ninethru12: 0.021
+school: PS398
+	name: Williston Schools
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS331
+	name: West Rutland School
+	year: 2005
+		seventhru12: 0.0255
+		ninethru12: 0.0388
+	year: 2006
+		seventhru12: 0.0404
+		ninethru12: 0.0615
+	year: 2007
+		seventhru12: 0.0323
+		ninethru12: 0.0488
+	year: 2008
+		seventhru12: 0.0368
+		ninethru12: 0.0513
+	year: 2009
+		seventhru12: 0.0234
+		ninethru12: 0.0333
+	year: 2010
+		seventhru12: 0.0318
+		ninethru12: 0.049
+	year: 2011
+		seventhru12: 0.0309
+		ninethru12: 0.0446
+school: PS369
+	name: Ontop
+	year: 2005
+		seventhru12: 0.1333
+		ninethru12: 0.2
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 
+		ninethru12: 
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 
+		ninethru12: 
+	year: 2010
+		seventhru12: 
+		ninethru12: 
+	year: 2011
+		seventhru12: 
+		ninethru12: 
+school: PS129
+	name: Halifax West School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS187
+	name: Missisquoi Valley UHSD #7
+	year: 2005
+		seventhru12: 0.0299
+		ninethru12: 0.0437
+	year: 2006
+		seventhru12: 0.0246
+		ninethru12: 0.0368
+	year: 2007
+		seventhru12: 0.0366
+		ninethru12: 0.051
+	year: 2008
+		seventhru12: 0.0326
+		ninethru12: 0.0458
+	year: 2009
+		seventhru12: 0.0238
+		ninethru12: 0.0354
+	year: 2010
+		seventhru12: 0.0156
+		ninethru12: 0.0231
+	year: 2011
+		seventhru12: 0.0225
+		ninethru12: 0.0327
+school: PS058
+	name: Camels Hump Middle USD #17
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS364
+	name: North Country Jr UHSD #22
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS036
+	name: Blue Mountain USD #21
+	year: 2005
+		seventhru12: 0.0144
+		ninethru12: 0.0155
+	year: 2006
+		seventhru12: 0.0323
+		ninethru12: 0.0515
+	year: 2007
+		seventhru12: 0.0324
+		ninethru12: 0.0486
+	year: 2008
+		seventhru12: 0.0279
+		ninethru12: 0.0387
+	year: 2009
+		seventhru12: 0.0299
+		ninethru12: 0.0408
+	year: 2010
+		seventhru12: 0.0052
+		ninethru12: 0.0068
+	year: 2011
+		seventhru12: 0.0309
+		ninethru12: 0.042
+school: PS205
+	name: Newport Town School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 
+		ninethru12: 
+	year: 2007
+		seventhru12: 
+		ninethru12: 
+	year: 2008
+		seventhru12: 
+		ninethru12: 
+	year: 2009
+		seventhru12: 
+		ninethru12: 
+	year: 2010
+		seventhru12: 
+		ninethru12: 
+	year: 2011
+		seventhru12: 
+		ninethru12: 
+school: PS284
+	name: Stamford Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS366
+	name: Middlebury Union Middle Sch #3
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS138
+	name: Harwood UHSD #19
+	year: 2005
+		seventhru12: 0.0046
+		ninethru12: 0.0046
+	year: 2006
+		seventhru12: 0.0234
+		ninethru12: 0.0234
+	year: 2007
+		seventhru12: 0.0155
+		ninethru12: 0.0155
+	year: 2008
+		seventhru12: 0.0124
+		ninethru12: 0.0124
+	year: 2009
+		seventhru12: 0.0094
+		ninethru12: 0.0094
+	year: 2010
+		seventhru12: 0.0032
+		ninethru12: 0.0032
+	year: 2011
+		seventhru12: 0.0049
+		ninethru12: 0.0049
+school: PS333
+	name: Westford Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS072
+	name: Colchester High School
+	year: 2005
+		seventhru12: 0.0093
+		ninethru12: 0.0093
+	year: 2006
+		seventhru12: 0.0092
+		ninethru12: 0.0092
+	year: 2007
+		seventhru12: 0.0254
+		ninethru12: 0.0254
+	year: 2008
+		seventhru12: 0.0223
+		ninethru12: 0.0223
+	year: 2009
+		seventhru12: 0.0178
+		ninethru12: 0.0178
+	year: 2010
+		seventhru12: 0.0117
+		ninethru12: 0.0117
+	year: 2011
+		seventhru12: 0.016
+		ninethru12: 0.016
+school: PS346
+	name: Twin Valley High School
+	year: 2005
+		seventhru12: 0.0149
+		ninethru12: 0.015
+	year: 2006
+		seventhru12: 0.0152
+		ninethru12: 0.0152
+	year: 2007
+		seventhru12: 0.0087
+		ninethru12: 0.0087
+	year: 2008
+		seventhru12: 0.0254
+		ninethru12: 0.0254
+	year: 2009
+		seventhru12: 0.038
+		ninethru12: 0.038
+	year: 2010
+		seventhru12: 0.0303
+		ninethru12: 0.0303
+	year: 2011
+		seventhru12: 0.0549
+		ninethru12: 0.0549
+school: PS137
+	name: Hartland Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0.0118
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS294
+	name: Sutton Village School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS143
+	name: Hinesburg Community School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.0076
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS032
+	name: Berkshire Elementary School
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS052
+	name: Burlington Senior High Sch
+	year: 2005
+		seventhru12: 0.0398
+		ninethru12: 0.0398
+	year: 2006
+		seventhru12: 0.0336
+		ninethru12: 0.0336
+	year: 2007
+		seventhru12: 0.0406
+		ninethru12: 0.0406
+	year: 2008
+		seventhru12: 0.0481
+		ninethru12: 0.0481
+	year: 2009
+		seventhru12: 0.0411
+		ninethru12: 0.0411
+	year: 2010
+		seventhru12: 0.0444
+		ninethru12: 0.0444
+	year: 2011
+		seventhru12: 0.0318
+		ninethru12: 0.0318
+school: PS391
+	name: Crossett Brook Middle USD #45
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS276
+	name: Spaulding Hsud #41
+	year: 2005
+		seventhru12: 0.049
+		ninethru12: 0.049
+	year: 2006
+		seventhru12: 0.0462
+		ninethru12: 0.0462
+	year: 2007
+		seventhru12: 0.0335
+		ninethru12: 0.0335
+	year: 2008
+		seventhru12: 0.0323
+		ninethru12: 0.0323
+	year: 2009
+		seventhru12: 0.0285
+		ninethru12: 0.0285
+	year: 2010
+		seventhru12: 0.0359
+		ninethru12: 0.0359
+	year: 2011
+		seventhru12: 0.0223
+		ninethru12: 0.0223
+school: PS157
+	name: Lake Region UHSD #24
+	year: 2005
+		seventhru12: 0.0284
+		ninethru12: 0.0284
+	year: 2006
+		seventhru12: 0.0192
+		ninethru12: 0.0192
+	year: 2007
+		seventhru12: 0.0406
+		ninethru12: 0.0406
+	year: 2008
+		seventhru12: 0.0343
+		ninethru12: 0.0343
+	year: 2009
+		seventhru12: 0.0847
+		ninethru12: 0.0847
+	year: 2010
+		seventhru12: 0.0406
+		ninethru12: 0.0406
+	year: 2011
+		seventhru12: 0.0239
+		ninethru12: 0.0239
+school: PS272
+	name: So. Burlington High School
+	year: 2005
+		seventhru12: 0.0093
+		ninethru12: 0.0093
+	year: 2006
+		seventhru12: 0.0104
+		ninethru12: 0.0104
+	year: 2007
+		seventhru12: 0.0127
+		ninethru12: 0.0127
+	year: 2008
+		seventhru12: 0.0154
+		ninethru12: 0.0154
+	year: 2009
+		seventhru12: 0.01
+		ninethru12: 0.01
+	year: 2010
+		seventhru12: 0.0121
+		ninethru12: 0.0121
+	year: 2011
+		seventhru12: 0.0078
+		ninethru12: 0.0078
+school: PS310
+	name: Waits River Valley USD #36
+	year: 2005
+		seventhru12: 0
+		ninethru12: 0
+	year: 2006
+		seventhru12: 0.0154
+		ninethru12: 0
+	year: 2007
+		seventhru12: 0.0175
+		ninethru12: 0
+	year: 2008
+		seventhru12: 0
+		ninethru12: 0
+	year: 2009
+		seventhru12: 0
+		ninethru12: 0
+	year: 2010
+		seventhru12: 0
+		ninethru12: 0
+	year: 2011
+		seventhru12: 0
+		ninethru12: 0
+school: PS211
+	name: Northfield Middle/High School
+	year: 2005
+		seventhru12: 0.0149
+		ninethru12: 0.0226
+	year: 2006
+		seventhru12: 0.0053
+		ninethru12: 0.0078
+	year: 2007
+		seventhru12: 0.0133
+		ninethru12: 0.0188
+	year: 2008
+		seventhru12: 0.0388
+		ninethru12: 0.056
+	year: 2009
+		seventhru12: 0.0227
+		ninethru12: 0.0333
+	year: 2010
+		seventhru12: 0.0131
+		ninethru12: 0.0199
+	year: 2011
+		seventhru12: 0.0134
+		ninethru12: 0.0199
