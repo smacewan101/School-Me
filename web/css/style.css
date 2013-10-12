@@ -43,3 +43,7 @@ body {
 	height: 600px;
 	border: 1px solid;
 }
+
+.sidebar-nav {
+	margin-top: 45px;
+}
