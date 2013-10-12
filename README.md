@@ -161,3 +161,8 @@ Completion has the following fields:
         </tr>           
     </tbody>
 </table>
+
+
+Wikipedia Scraped by jQuery: 
+for(var i=0; i < 242; i++){ var tr = jQuery('tbody')[0].children[i]; console.log("town: " + tr.children[1].children[0].innerHTML +"||county: " + tr.children[2].children[0].innerHTML)}
+
