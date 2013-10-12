@@ -15,8 +15,8 @@ class Dropout extends BaseDropout
 					'id' => $this->Id,
 					'year' => $this->Year,
 					'school_id' => $this->SchoolId,
-					'nine_2_twelve' => $this->Nine2Twelve,
-					'seven_2_twelve' => $this->Seven2Twelve
+					'nine_2_twelve' => $this->Nine2twelve,
+					'seven_2_twelve' => $this->Seven2twelve
 					);
 	}
 }
