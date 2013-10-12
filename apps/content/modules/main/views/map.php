@@ -4,12 +4,41 @@
 <style type="text/css">
 	html { height: 100% }
 	body { height: 100%; margin: 0; padding: 0 }
-	#map-canvas { height: 800px }
+	/*#map-canvas { height: 800px }*/
 </style>
-<div id="map-canvas"/>
 
-<script type="text/javascript" src="/js/counties.js"></script>
-<script type="text/javascript">
+<div class='container'>
+	<div class='row-fluid'>
+	<!--sidebar -->
+	 <div class="span3">
+	          <div class="well sidebar-nav">
+	            <ul class="nav nav-list">
+	              <li class="nav-header">Sidebar</li>
+	              <li class="active"><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	              <li class="nav-header">Sidebar</li>
+	              <li><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	              <li class="nav-header">Sidebar</li>
+	              <li><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	              <li><a href="#">Link</a></li>
+	            </ul>
+	          </div><!--/.well -->
+	        </div><!--/span-->
+	
+	<!--map-->
+	<div class='span9'>
+	<div class='map-content'>
+	<div id="map-canvas">
+	<script type="text/javascript" src="/js/counties.js"></script>
+	<script type="text/javascript">
 
 	var map;
 	var infoWindow;
@@ -239,3 +268,9 @@
 
 
 </script>
+
+</div>
+</div>
+</div><!--map content -->
+</div>
+</div><!--fluid-->
