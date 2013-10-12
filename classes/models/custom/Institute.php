@@ -13,9 +13,9 @@ class Institute extends BaseInstitute
 	public function to_array(){
 		return array(
 					'id' => $this->Id,
-					'school_id' => $this->SchoolId,
+					'county' => $this->County,
 					'name' => $this->Name,
-					'district_id'=> $this->DistrictId
+					'school_id'=> $this->SchoolId
 					);
 	}
 }

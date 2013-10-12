@@ -507,7 +507,7 @@ class ApiController extends Dinkly
 						$county = new Institute();
 						$county->setName( $request->name );
 						$county->setSchoolId( $request->school_id );
-						$county->setDistrictId( $request->district_id );
+						$county->setCounty( $request->county );
 						if( $county->save() )
 						{
 							$response = $county->to_json();
@@ -532,7 +532,7 @@ class ApiController extends Dinkly
 								{
 									$county->setName( $request->name );
 									$county->setSchoolId( $request->school_id );
-									$county->setDistrictId( $request->district_id );
+									$county->setCounty( $request->county );
 									if( $county->save() )
 										$response = $county->to_json();
 									else
@@ -635,7 +635,7 @@ class ApiController extends Dinkly
 					{
 						$collection = DropoutCollection::getDropoutsByYear($byyear);
 						if(count($collection) > 0)
-							$response = json_encode(array_map(function($c){return $c->to_array();},$collection));
+							$response = json_encode($collection);
 						else
 							$response = "[]";		
 					}
