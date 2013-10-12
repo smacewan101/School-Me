@@ -19,6 +19,46 @@ class ApiController extends Dinkly
 		echo $json;
 	}
 
+	public function loadCounty($params)
+	{
+		if(count($params) > 0)
+			$id = isset($params['id']) ? $params['id'] : $params[0];
+
+		$request = json_decode(file_get_contents('php://input'));
+
+		$response = null;
+		switch($_SERVER['REQUEST_METHOD'])
+		{
+			case 'GET':
+				if (isset($id) ){
+					$county = new County();
+					$county->init($id);
+					$response = $county->to_json();
+				}else{
+					$collection = CountyCollection::getAll();
+					$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
+				}
+				break;
+
+			case 'POST':
+				$response = 'POST received!';
+				break;
+
+			case 'PUT':
+				$response = 'PUT received!';
+				break;
+
+			case 'DELETE':
+				$response = 'DELETE received!';
+				break;
+		}
+
+		$this->handleResponse($response);
+
+		return false;
+
+	}
+
 	public function loadDefault()
 	{	
 		$request = json_decode(file_get_contents('php://input'));
