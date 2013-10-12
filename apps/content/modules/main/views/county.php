@@ -22,23 +22,20 @@
 			<p>
 				Did you know that the average completion rate for the schools within
 				this county are:
-				<table id="data-stuff">
+				<table id="data-stuff" class="span8 table offset2" style="text-align: center;  background-color: #eee;	border-radius: 1em;">
 					<thead>
 						<tr>
 							<th>Year</th><th>Enrollment</th>
 						</tr>
 					</thead>
-					<tbody>
+					<tbody >
 						<?php foreach ($info as $avginfo) { ?>						
 						<tr>
-							<td><?php echo $avginfo['year']; ?></td><td><?php echo $avginfo['avgEnroll']; ?></td>
+							<td><?php echo $avginfo['year']; ?></td><td style="text-align: center;"><?php echo $avginfo['avgEnroll']; ?></td>
 						</tr>
 						<?php } ?>
 					</tbody>
 				</table>
-			</p>
-			<p>
-				This county's rank is <span id="rank">...</span>
 			</p>
 		</div>
 	</div><!-- row-fluid-->
