@@ -1,0 +1,9 @@
+table_name: necap
+registry:
+  - id
+  - created_at
+  - updated_at
+  - year: { type: float, allow_null: false }
+  - test: { type: varchar, length: 75, allow_null: false }
+  - score: { type: varchar, length: 100, allow_null: false }
+  - school_id: {type: varchar, length: 10, allow_null: true}

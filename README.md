@@ -70,9 +70,9 @@ District has the following fields:
     </tbody>
 </table>
 
-###School
+###Institute
 
-School has the following fields:
+Institute has the following fields:
 <table>
     <thead>
         <tr>
@@ -119,6 +119,41 @@ Dropout has the following fields:
         <tr>
             <td>seven2twelve</td>
             <td>Percentage of drop outs that occured between 7-12 grade</td>
+        </tr>           
+        <tr>
+            <td>school_id</td>
+            <td>The id of the school whose drop out rates this record belongs to</td>
+        </tr>           
+    </tbody>
+</table>
+
+
+###Completion
+
+Completion has the following fields:
+<table>
+    <thead>
+        <tr>
+            <th>Field</th>
+            <th>Description</th>
+        </tr>               
+    </thead>
+    <tbody>
+        <tr>
+            <td>year</td>
+            <td>The year for this dropout statistics information</td>
+        </tr>           
+        <tr>
+            <td>enrollment</td>
+            <td>New enrollment for this year</td>
+        </tr>           
+        <tr>
+            <td>eventcomplete</td>
+            <td>Percentage completing their 4 years this year</td>
+        </tr>           
+        <tr>
+            <td>longitcomplete</td>
+            <td>Some type of interesting data point that we don't know about.</td>
         </tr>           
         <tr>
             <td>school_id</td>
