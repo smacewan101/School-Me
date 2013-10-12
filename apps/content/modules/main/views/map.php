@@ -24,12 +24,13 @@ $(document).ready(function() {
 });	
 </script>
 
-<!--<script type="text/javascript">
-	$(document).ready(function(){
-		$('#necaps').change(function() {
-    		$('#mycheckboxdiv').toggle();
-    });
-</script>-->
+<!--populate drop-down menu -->	
+<script type="text/javascript" src="http://www.schoolme.dev/api/api/dropout/year/1">
+	$document.ready(function(){
+
+	});
+
+</script>
 
 <div class='container-fluid'>
 	<div class='row-fluid'>
@@ -46,7 +47,7 @@ $(document).ready(function() {
               			<span class='caret'></span>
               			</a>
               			<ul class='dropdown-menu'>
-              				
+              
               			</ul>   
               			</div>
               			
