@@ -1,0 +1,17 @@
+
+body {
+	height: 100%;
+	background-color: #00BF4B;
+}
+
+/*Set the navbar color to green */ 
+.navbar-inverse .navbar-inner {
+	background-color: #003314;
+	background-image: none;
+}
+
+.main-form {
+	margin-left: auto;
+	text-align: center;
+}
+
