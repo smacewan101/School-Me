@@ -9,7 +9,6 @@ class MainController extends Dinkly
 
 	public function loadMap()
 	{
-		error_log("here");
 		return true;
 	}
 }
