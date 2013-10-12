@@ -1,4 +1,4 @@
-table_name: dropouts
+table_name: dropout
 registry:
   - id
   - created_at
