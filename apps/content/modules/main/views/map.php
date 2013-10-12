@@ -7,6 +7,7 @@
 	/*#map-canvas { height: 800px }
 */</style>
 
+<!--collapse checkboxes	 -->
 <script type="text/javascript">
 $(document).ready(function() {
     $('#dropOuts').change(function() {
@@ -14,6 +15,21 @@ $(document).ready(function() {
     });
 });
 </script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('#necaps').change(function() {
+		$('#mycheckboxdiv').toggle();
+	});
+});	
+</script>
+
+<!--<script type="text/javascript">
+	$(document).ready(function(){
+		$('#necaps').change(function() {
+    		$('#mycheckboxdiv').toggle();
+    });
+</script>-->
 
 <div class='container-fluid'>
 	<div class='row-fluid'>
@@ -30,15 +46,25 @@ $(document).ready(function() {
               			<span class='caret'></span>
               			</a>
               			<ul class='dropdown-menu'>
-              				Dropdown menu links 
-
+              				
               			</ul>   
               			</div>
               			
               		</div>
            
 
-              <li><label class='checkbox'><input type='checkbox' value=''>Necap Scores</label></li>
+              <li><label class='checkbox'><input type='checkbox' name='necaps' id='necaps' value=''>Necap Scores</label></li>
+              	<div id="mycheckboxdiv" style="display:none">
+              		<div class='btn-group'>
+              			<a class='btn dropdown-toggle' data-toggle='dropdown' href="#">
+              				Select Year
+              				<span class='caret'></span>
+              			</a>
+              			<ul class='dropdown-menu'>
+
+              			</ul>
+              		</div>
+              	</div>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
               <li class="nav-header">Sidebar</li>
