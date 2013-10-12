@@ -15,7 +15,7 @@ class Institute extends BaseInstitute
 					'id' => $this->Id,
 					'county' => $this->County,
 					'name' => $this->Name,
-					'district_id'=> $this->DistrictId
+					'school_id'=> $this->SchoolId
 					);
 	}
 }
