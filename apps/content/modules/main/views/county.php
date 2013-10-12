@@ -1,9 +1,12 @@
+<?php $info = Completion::avgCountyCompletion($county->Name); ?>
 <script type="text/javascript"
     src="https://maps.googleapis.com/maps/api/js?key=<?=MAPS_API_KEY?>&sensor=true">
 </script>
 <style type="text/css">
 	html { height: 100% }
 	body { height: 100%; margin: 0; padding: 0 }
+	.pushdown {padding-top: 15%; }
+	#avgCR, #rank {color: #BFBFBF;}
 	/*#map-canvas { height: 800px }
 */</style>
 <div class='container-fluid'>
@@ -14,9 +17,35 @@
 				</div><!--map-canvas-->
 			</div><!--map content -->
 		</div><!--span9 -->
+		<div class="span3 pushdown">
+			<h1>Some County Stats...</h1>
+			<p>
+				Did you know that the average completion rate for the schools within
+				this county are:
+				<table id="data-stuff">
+					<thead>
+						<tr>
+							<th>Year</th><th>Enrollment</th>
+						</tr>
+					</thead>
+					<tbody>
+						<?php foreach ($info as $avginfo) { ?>						
+						<tr>
+							<td><?php echo $avginfo['year']; ?></td><td><?php echo $avginfo['avgEnroll']; ?></td>
+						</tr>
+						<?php } ?>
+					</tbody>
+				</table>
+			</p>
+			<p>
+				This county's rank is <span id="rank">...</span>
+			</p>
+		</div>
 	</div><!-- row-fluid-->
 </div><!-- container-->
 <script type="text/javascript" src="/js/counties.js"></script>
+
+<script type="text/javascript" src="/js/dataTables.bootstrap.js"></script>
 <script type="text/javascript">
 var map;
 var infoWindow;
@@ -49,4 +78,8 @@ function initialize() {
 
 }
 google.maps.event.addDomListener(window, 'load', initialize);
+
+$(document).ready(function(){
+	$('#data-stuff').dataTable();
+})
 </script>

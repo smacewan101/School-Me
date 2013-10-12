@@ -21,5 +21,15 @@ class Completion extends BaseCompletion
         				'longitcomplete' => $this->Longitcomplete
 					);
 	}
+
+	public static function avgCountyCompletion($county)
+	{
+		$query = "select avg(c.enrollment) as avgEnroll, avg(eventcomplete) as avgComp, year, county  from completion c inner join institute i on i.school_id = c.school_id where i.county = '$county' group by year;"	;
+		$db = self::fetchDB();
+		$stmt = $db->prepare($query);
+		$stmt->execute();
+		$result = $stmt->fetchAll(PDO::FETCH_ASSOC);
+		return $result;
+	}
 }
 

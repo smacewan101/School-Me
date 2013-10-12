@@ -10,5 +10,9 @@ class InstituteCollection extends BaseInstituteCollection
 		$result = $stmt->fetchAll(PDO::FETCH_ASSOC);
 		return $result;
 	}
+	public static function getByCounty($county){
+		$peer_object = new Institute();
+		return self::getCollection($peer_object, $peer_object->getSelectQuery() . " WHERE county = '$county'" );
+	}
 }
 
