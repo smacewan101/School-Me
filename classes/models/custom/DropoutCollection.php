@@ -15,5 +15,10 @@ class DropoutCollection extends BaseDropoutCollection
 		$result = $stmt->fetchAll(PDO::FETCH_ASSOC);
 		return $result;
 	}	
+
+	public static function getDropoutsByYear($year){
+		$peer_object = new Dropout();
+		return self::getCollection($peer_object, $peer_object->getSelectQuery() . " WHERE year=$year" );
+	}
 }
 

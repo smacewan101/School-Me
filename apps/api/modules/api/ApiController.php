@@ -355,6 +355,7 @@ class ApiController extends Dinkly
 		if ( is_null($id) )
 			unset($id);
 
+
 		$request = json_decode(file_get_contents('php://input'));
 
 		$response = null;
@@ -586,6 +587,10 @@ class ApiController extends Dinkly
 		if( is_null($years))
 			unset($years);
 
+		$byyear = isset($params['byyear']) ? $params['byyear'] : NULL;
+		if( is_null($byyear) )
+			unset($byyear);
+
 		$request = json_decode(file_get_contents('php://input'));
 
 		$response = null;
@@ -613,6 +618,14 @@ class ApiController extends Dinkly
 							$response = json_encode(array_map(function($c){return $c['year'];},$collection));
 						else
 							$response = "[]";
+					}
+				else if ( isset($byyear) )
+					{
+						$collection = DropoutCollection::getDropoutsByYear($byyear);
+						if(count($collection) > 0)
+							$response = json_encode(array_map(function($c){return $c->to_array();},$collection));
+						else
+							$response = "[]";		
 					}
 				else
 					{

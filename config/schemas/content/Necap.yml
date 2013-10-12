@@ -3,7 +3,8 @@ registry:
   - id
   - created_at
   - updated_at
-  - year: { type: float, allow_null: true }
+  - year: { type: int, allow_null: true }
   - test: { type: varchar, length: 75, allow_null: true }
   - score: { type: varchar, length: 100, allow_null: true }
   - school_id: {type: varchar, length: 10, allow_null: true}
+  - percent: {type :float, allow_null: true}
