@@ -1,0 +1,5707 @@
+table_name: dropout
+records:    
+    -
+        school_id: PA003
+        year: 2005
+        seven2twelve: 0.0277
+        nine2twelve: 0.0277
+    -
+        school_id: PA003
+        year: 2006
+        seven2twelve: 0.0234
+        nine2twelve: 0.0234
+    -
+        school_id: PA003
+        year: 2007
+        seven2twelve: 0.0158
+        nine2twelve: 0.0158
+    -
+        school_id: PA003
+        year: 2008
+        seven2twelve: 0.028
+        nine2twelve: 0.028
+    -
+        school_id: PA003
+        year: 2009
+        seven2twelve: 0.0054
+        nine2twelve: 0.0054
+    -
+        school_id: PA003
+        year: 2010
+        seven2twelve: 0.0317
+        nine2twelve: 0.0317
+    -
+        school_id: PA003
+        year: 2011
+        seven2twelve: 0.0294
+        nine2twelve: 0.0294
+    -
+        school_id: PS051
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS051
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS051
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS051
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS051
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS051
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS051
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS066
+        year: 2005
+        seven2twelve: 0.0015
+        nine2twelve: 0.0015
+    -
+        school_id: PS066
+        year: 2006
+        seven2twelve: 0.0088
+        nine2twelve: 0.0088
+    -
+        school_id: PS066
+        year: 2007
+        seven2twelve: 0.0052
+        nine2twelve: 0.0052
+    -
+        school_id: PS066
+        year: 2008
+        seven2twelve: 0.0059
+        nine2twelve: 0.0059
+    -
+        school_id: PS066
+        year: 2009
+        seven2twelve: 0.0067
+        nine2twelve: 0.0067
+    -
+        school_id: PS066
+        year: 2010
+        seven2twelve: 0.0065
+        nine2twelve: 0.0065
+    -
+        school_id: PS066
+        year: 2011
+        seven2twelve: 0.0123
+        nine2twelve: 0.0123
+    -
+        school_id: PS201
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS201
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS201
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS201
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS201
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS201
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS201
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS122
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS122
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS122
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS122
+        year: 2008
+        seven2twelve: 0.0182
+        nine2twelve: 0
+    -
+        school_id: PS122
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS122
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS122
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS015
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS015
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS015
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS015
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS015
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS015
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS015
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS209
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS209
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS209
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS209
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS209
+        year: 2009
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS209
+        year: 2010
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS209
+        year: 2011
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS085
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS085
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS085
+        year: 2007
+        seven2twelve: 0.0164
+        nine2twelve: 0
+    -
+        school_id: PS085
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS085
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS085
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS085
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS322
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS322
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS322
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS322
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS322
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS322
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS322
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS215
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS215
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS215
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS215
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS215
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS215
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS215
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS173
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS173
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS173
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS173
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS173
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS173
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS173
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS368
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS368
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS368
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS368
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS368
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS368
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS368
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS348
+        year: 2005
+        seven2twelve: 0.0361
+        nine2twelve: 0.047
+    -
+        school_id: PS348
+        year: 2006
+        seven2twelve: 0.0268
+        nine2twelve: 0.0282
+    -
+        school_id: PS348
+        year: 2007
+        seven2twelve: 0.0269
+        nine2twelve: 0.035
+    -
+        school_id: PS348
+        year: 2008
+        seven2twelve: 0.027
+        nine2twelve: 0.0356
+    -
+        school_id: PS348
+        year: 2009
+        seven2twelve: 0.0376
+        nine2twelve: 0.0418
+    -
+        school_id: PS348
+        year: 2010
+        seven2twelve: 0.0438
+        nine2twelve: 0.0438
+    -
+        school_id: PS348
+        year: 2011
+        seven2twelve: 0.0644
+        nine2twelve: 0.0644
+    -
+        school_id: PS186
+        year: 2005
+        seven2twelve: 0.0166
+        nine2twelve: 0.0166
+    -
+        school_id: PS186
+        year: 2006
+        seven2twelve: 0.0308
+        nine2twelve: 0.0308
+    -
+        school_id: PS186
+        year: 2007
+        seven2twelve: 0.0325
+        nine2twelve: 0.0325
+    -
+        school_id: PS186
+        year: 2008
+        seven2twelve: 0.02
+        nine2twelve: 0.02
+    -
+        school_id: PS186
+        year: 2009
+        seven2twelve: 0.0155
+        nine2twelve: 0.0155
+    -
+        school_id: PS186
+        year: 2010
+        seven2twelve: 0.0165
+        nine2twelve: 0.0165
+    -
+        school_id: PS186
+        year: 2011
+        seven2twelve: 0.0183
+        nine2twelve: 0.0183
+    -
+        school_id: PS177
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS177
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS177
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS177
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS177
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS177
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS177
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS044
+        year: 2005
+        seven2twelve: 0.0227
+        nine2twelve: 0
+    -
+        school_id: PS044
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS044
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS044
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS044
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS044
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS044
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS304
+        year: 2005
+        seven2twelve: 0.0164
+        nine2twelve: 0.0245
+    -
+        school_id: PS304
+        year: 2006
+        seven2twelve: 0.0502
+        nine2twelve: 0.064
+    -
+        school_id: PS304
+        year: 2007
+        seven2twelve: 0.0446
+        nine2twelve: 0.0523
+    -
+        school_id: PS304
+        year: 2008
+        seven2twelve: 0.0495
+        nine2twelve: 0.0685
+    -
+        school_id: PS304
+        year: 2009
+        seven2twelve: 0.0313
+        nine2twelve: 0.0423
+    -
+        school_id: PS304
+        year: 2010
+        seven2twelve: 0.0053
+        nine2twelve: 0.0076
+    -
+        school_id: PS304
+        year: 2011
+        seven2twelve: 0.0162
+        nine2twelve: 0.0236
+    -
+        school_id: PS134
+        year: 2005
+        seven2twelve: 0.0302
+        nine2twelve: 0.0302
+    -
+        school_id: PS134
+        year: 2006
+        seven2twelve: 0.0238
+        nine2twelve: 0.0238
+    -
+        school_id: PS134
+        year: 2007
+        seven2twelve: 0.03
+        nine2twelve: 0.03
+    -
+        school_id: PS134
+        year: 2008
+        seven2twelve: 0.0327
+        nine2twelve: 0.0327
+    -
+        school_id: PS134
+        year: 2009
+        seven2twelve: 0.0227
+        nine2twelve: 0.0227
+    -
+        school_id: PS134
+        year: 2010
+        seven2twelve: 0.0187
+        nine2twelve: 0.0187
+    -
+        school_id: PS134
+        year: 2011
+        seven2twelve: 0.0258
+        nine2twelve: 0.0258
+    -
+        school_id: PS007
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS007
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS007
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS007
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS007
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS007
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS007
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS253
+        year: 2005
+        seven2twelve: 0.0203
+        nine2twelve: 0.0203
+    -
+        school_id: PS253
+        year: 2006
+        seven2twelve: 0.037
+        nine2twelve: 0.037
+    -
+        school_id: PS253
+        year: 2007
+        seven2twelve: 0.0339
+        nine2twelve: 0.0339
+    -
+        school_id: PS253
+        year: 2008
+        seven2twelve: 0.0383
+        nine2twelve: 0.0383
+    -
+        school_id: PS253
+        year: 2009
+        seven2twelve: 0.0312
+        nine2twelve: 0.0312
+    -
+        school_id: PS253
+        year: 2010
+        seven2twelve: 0.0516
+        nine2twelve: 0.0516
+    -
+        school_id: PS253
+        year: 2011
+        seven2twelve: 0.0322
+        nine2twelve: 0.0322
+    -
+        school_id: PS195
+        year: 2005
+        seven2twelve: 0.0083
+        nine2twelve: 0.0126
+    -
+        school_id: PS195
+        year: 2006
+        seven2twelve: 0.0104
+        nine2twelve: 0.0138
+    -
+        school_id: PS195
+        year: 2007
+        seven2twelve: 0.0167
+        nine2twelve: 0.024
+    -
+        school_id: PS195
+        year: 2008
+        seven2twelve: 0.0271
+        nine2twelve: 0.0388
+    -
+        school_id: PS195
+        year: 2009
+        seven2twelve: 0.0231
+        nine2twelve: 0.0328
+    -
+        school_id: PS195
+        year: 2010
+        seven2twelve: 0.0279
+        nine2twelve: 0.0383
+    -
+        school_id: PS195
+        year: 2011
+        seven2twelve: 0.022
+        nine2twelve: 0.0282
+    -
+        school_id: PS295
+        year: 2005
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS295
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS295
+        year: 2007
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS295
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS295
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS295
+        year: 2010
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS295
+        year: 2011
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS087
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS087
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS087
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS087
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS087
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS087
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS087
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS018
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS018
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS018
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS018
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS018
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS018
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS018
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS040
+        year: 2005
+        seven2twelve: 0.0048
+        nine2twelve: 0.0048
+    -
+        school_id: PS040
+        year: 2006
+        seven2twelve: 0.0442
+        nine2twelve: 0.0442
+    -
+        school_id: PS040
+        year: 2007
+        seven2twelve: 0.0411
+        nine2twelve: 0.0411
+    -
+        school_id: PS040
+        year: 2008
+        seven2twelve: 0.0481
+        nine2twelve: 0.0481
+    -
+        school_id: PS040
+        year: 2009
+        seven2twelve: 0.0493
+        nine2twelve: 0.0493
+    -
+        school_id: PS040
+        year: 2010
+        seven2twelve: 0.0651
+        nine2twelve: 0.0651
+    -
+        school_id: PS040
+        year: 2011
+        seven2twelve: 0.0456
+        nine2twelve: 0.0456
+    -
+        school_id: PS361
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS361
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS361
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS361
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS361
+        year: 2009
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS361
+        year: 2010
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS361
+        year: 2011
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS316
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS316
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS316
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS316
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS316
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS316
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS316
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA005
+        year: 2005
+        seven2twelve: 0.0107
+        nine2twelve: 0.0138
+    -
+        school_id: PA005
+        year: 2006
+        seven2twelve: 0.0156
+        nine2twelve: 0.0195
+    -
+        school_id: PA005
+        year: 2007
+        seven2twelve: 0.0101
+        nine2twelve: 0.0128
+    -
+        school_id: PA005
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA005
+        year: 2009
+        seven2twelve: 0.0111
+        nine2twelve: 0.0143
+    -
+        school_id: PA005
+        year: 2010
+        seven2twelve: 0.0253
+        nine2twelve: 0.0288
+    -
+        school_id: PA005
+        year: 2011
+        seven2twelve: 0.0168
+        nine2twelve: 0.0207
+    -
+        school_id: PS218
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS218
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS218
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS218
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS218
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS218
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS218
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS324
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS324
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS324
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS324
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS324
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS324
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS324
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS273
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS273
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS273
+        year: 2007
+        seven2twelve: 0.0026
+        nine2twelve: 0
+    -
+        school_id: PS273
+        year: 2008
+        seven2twelve: 0.0109
+        nine2twelve: 0
+    -
+        school_id: PS273
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS273
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS273
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS098
+        year: 2005
+        seven2twelve: 0.0479
+        nine2twelve: 0.059
+    -
+        school_id: PS098
+        year: 2006
+        seven2twelve: 0.0338
+        nine2twelve: 0.0424
+    -
+        school_id: PS098
+        year: 2007
+        seven2twelve: 0.0302
+        nine2twelve: 0.0375
+    -
+        school_id: PS098
+        year: 2008
+        seven2twelve: 0.0552
+        nine2twelve: 0.0665
+    -
+        school_id: PS098
+        year: 2009
+        seven2twelve: 0.0398
+        nine2twelve: 0.0455
+    -
+        school_id: PS098
+        year: 2010
+        seven2twelve: 0.0355
+        nine2twelve: 0.0365
+    -
+        school_id: PS098
+        year: 2011
+        seven2twelve: 0.0386
+        nine2twelve: 0.0472
+    -
+        school_id: PS404
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS404
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS404
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS404
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS404
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS404
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS404
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PI004
+        year: 2005
+        seven2twelve: 0.0369
+        nine2twelve: 0.0532
+    -
+        school_id: PI004
+        year: 2006
+        seven2twelve: 0.0337
+        nine2twelve: 0.0464
+    -
+        school_id: PI004
+        year: 2007
+        seven2twelve: 0.0165
+        nine2twelve: 0.0183
+    -
+        school_id: PI004
+        year: 2008
+        seven2twelve: 0.0037
+        nine2twelve: 0.0058
+    -
+        school_id: PI004
+        year: 2009
+        seven2twelve: 0.0125
+        nine2twelve: 0.0186
+    -
+        school_id: PI004
+        year: 2010
+        seven2twelve: 0.0129
+        nine2twelve: 0.0184
+    -
+        school_id: PI004
+        year: 2011
+        seven2twelve: 0.0239
+        nine2twelve: 0.0235
+    -
+        school_id: PS233
+        year: 2005
+        seven2twelve: 0.0204
+        nine2twelve: 0.0297
+    -
+        school_id: PS233
+        year: 2006
+        seven2twelve: 0.0067
+        nine2twelve: 0.009
+    -
+        school_id: PS233
+        year: 2007
+        seven2twelve: 0.0123
+        nine2twelve: 0.0174
+    -
+        school_id: PS233
+        year: 2008
+        seven2twelve: 0.018
+        nine2twelve: 0.0306
+    -
+        school_id: PS233
+        year: 2009
+        seven2twelve: 0.0182
+        nine2twelve: 0.0291
+    -
+        school_id: PS233
+        year: 2010
+        seven2twelve: 0.0125
+        nine2twelve: 0.0179
+    -
+        school_id: PS233
+        year: 2011
+        seven2twelve: 0.0069
+        nine2twelve: 0.0097
+    -
+        school_id: PS073
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS073
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS073
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS073
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS073
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS073
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS073
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS407
+        year: 2005
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS407
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS407
+        year: 2007
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS407
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS407
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS407
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS407
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS400
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS400
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS400
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS400
+        year: 2008
+        seven2twelve: 0.0068
+        nine2twelve: 0
+    -
+        school_id: PS400
+        year: 2009
+        seven2twelve: 0.0073
+        nine2twelve: 0
+    -
+        school_id: PS400
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS400
+        year: 2011
+        seven2twelve: 0.008
+        nine2twelve: 0
+    -
+        school_id: PS095
+        year: 2005
+        seven2twelve: 0.0087
+        nine2twelve: 0
+    -
+        school_id: PS095
+        year: 2006
+        seven2twelve: 0.008
+        nine2twelve: 0
+    -
+        school_id: PS095
+        year: 2007
+        seven2twelve: 0.0039
+        nine2twelve: 0
+    -
+        school_id: PS095
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS095
+        year: 2009
+        seven2twelve: 0.0041
+        nine2twelve: 0
+    -
+        school_id: PS095
+        year: 2010
+        seven2twelve: 0.0079
+        nine2twelve: 0
+    -
+        school_id: PS095
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS068
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS068
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS068
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS068
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS068
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS068
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS068
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA002
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA002
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA002
+        year: 2007
+        seven2twelve: 0.0028
+        nine2twelve: 0.0028
+    -
+        school_id: PA002
+        year: 2008
+        seven2twelve: 0.0029
+        nine2twelve: 0.0029
+    -
+        school_id: PA002
+        year: 2009
+        seven2twelve: 0.0085
+        nine2twelve: 0.0085
+    -
+        school_id: PA002
+        year: 2010
+        seven2twelve: 0.0104
+        nine2twelve: 0.0104
+    -
+        school_id: PA002
+        year: 2011
+        seven2twelve: 0.0032
+        nine2twelve: 0.0032
+    -
+        school_id: PS247
+        year: 2005
+        seven2twelve: 0.0331
+        nine2twelve: 0.049
+    -
+        school_id: PS247
+        year: 2006
+        seven2twelve: 0.0127
+        nine2twelve: 0.0202
+    -
+        school_id: PS247
+        year: 2007
+        seven2twelve: 0.019
+        nine2twelve: 0.0288
+    -
+        school_id: PS247
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS247
+        year: 2009
+        seven2twelve: 0.0397
+        nine2twelve: 0.05
+    -
+        school_id: PS247
+        year: 2010
+        seven2twelve: 0.0086
+        nine2twelve: 0.0122
+    -
+        school_id: PS247
+        year: 2011
+        seven2twelve: 0.0098
+        nine2twelve: 0
+    -
+        school_id: PS220
+        year: 2005
+        seven2twelve: 0.0311
+        nine2twelve: 0.0412
+    -
+        school_id: PS220
+        year: 2006
+        seven2twelve: 0.0291
+        nine2twelve: 0.0401
+    -
+        school_id: PS220
+        year: 2007
+        seven2twelve: 0.0215
+        nine2twelve: 0.0291
+    -
+        school_id: PS220
+        year: 2008
+        seven2twelve: 0.036
+        nine2twelve: 0.0478
+    -
+        school_id: PS220
+        year: 2009
+        seven2twelve: 0.0366
+        nine2twelve: 0.0488
+    -
+        school_id: PS220
+        year: 2010
+        seven2twelve: 0.0248
+        nine2twelve: 0.0319
+    -
+        school_id: PS220
+        year: 2011
+        seven2twelve: 0.0205
+        nine2twelve: 0.028
+    -
+        school_id: PS118
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS118
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS118
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS118
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS118
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS118
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS118
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS196
+        year: 2005
+        seven2twelve: 0.0523
+        nine2twelve: 0.0523
+    -
+        school_id: PS196
+        year: 2006
+        seven2twelve: 0.0623
+        nine2twelve: 0.0623
+    -
+        school_id: PS196
+        year: 2007
+        seven2twelve: 0.0836
+        nine2twelve: 0.0836
+    -
+        school_id: PS196
+        year: 2008
+        seven2twelve: 0.0626
+        nine2twelve: 0.0626
+    -
+        school_id: PS196
+        year: 2009
+        seven2twelve: 0.0548
+        nine2twelve: 0.0548
+    -
+        school_id: PS196
+        year: 2010
+        seven2twelve: 0.048
+        nine2twelve: 0.048
+    -
+        school_id: PS196
+        year: 2011
+        seven2twelve: 0.0389
+        nine2twelve: 0.0389
+    -
+        school_id: PS021
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS021
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS021
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS021
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS021
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS021
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS021
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS071
+        year: 2005
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS071
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS071
+        year: 2007
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS071
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS071
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS071
+        year: 2010
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS071
+        year: 2011
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS242
+        year: 2005
+        seven2twelve: 0.0346
+        nine2twelve: 0.0476
+    -
+        school_id: PS242
+        year: 2006
+        seven2twelve: 0.024
+        nine2twelve: 0.0331
+    -
+        school_id: PS242
+        year: 2007
+        seven2twelve: 0.0239
+        nine2twelve: 0.0316
+    -
+        school_id: PS242
+        year: 2008
+        seven2twelve: 0.0203
+        nine2twelve: 0.0282
+    -
+        school_id: PS242
+        year: 2009
+        seven2twelve: 0.004
+        nine2twelve: 0.0054
+    -
+        school_id: PS242
+        year: 2010
+        seven2twelve: 0.0375
+        nine2twelve: 0.0498
+    -
+        school_id: PS242
+        year: 2011
+        seven2twelve: 0.0474
+        nine2twelve: 0.0622
+    -
+        school_id: PS055
+        year: 2005
+        seven2twelve: 0.0077
+        nine2twelve: 0
+    -
+        school_id: PS055
+        year: 2006
+        seven2twelve: 0.027
+        nine2twelve: 0.0366
+    -
+        school_id: PS055
+        year: 2007
+        seven2twelve: 0.0333
+        nine2twelve: 0.0323
+    -
+        school_id: PS055
+        year: 2008
+        seven2twelve: 0.0459
+        nine2twelve: 0.0588
+    -
+        school_id: PS055
+        year: 2009
+        seven2twelve: 0.042
+        nine2twelve: 0.0562
+    -
+        school_id: PS055
+        year: 2010
+        seven2twelve: 0.0388
+        nine2twelve: 0.0423
+    -
+        school_id: PS055
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS101
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS101
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS101
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS101
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS101
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS101
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS101
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS112
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS112
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS112
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS112
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS112
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS112
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS112
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS183
+        year: 2005
+        seven2twelve: 0.0126
+        nine2twelve: 0.0159
+    -
+        school_id: PS183
+        year: 2006
+        seven2twelve: 0.0168
+        nine2twelve: 0.0229
+    -
+        school_id: PS183
+        year: 2007
+        seven2twelve: 0.017
+        nine2twelve: 0.024
+    -
+        school_id: PS183
+        year: 2008
+        seven2twelve: 0.0343
+        nine2twelve: 0.0457
+    -
+        school_id: PS183
+        year: 2009
+        seven2twelve: 0.0218
+        nine2twelve: 0.03
+    -
+        school_id: PS183
+        year: 2010
+        seven2twelve: 0.0276
+        nine2twelve: 0.0404
+    -
+        school_id: PS183
+        year: 2011
+        seven2twelve: 0.0124
+        nine2twelve: 0.0175
+    -
+        school_id: PS240
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS240
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS240
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS240
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS240
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS240
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS240
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS303
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS303
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS303
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS303
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS303
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS303
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS303
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS067
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS067
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS067
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS067
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS067
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS067
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS067
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS011
+        year: 2005
+        seven2twelve: 0.0043
+        nine2twelve: 0.0063
+    -
+        school_id: PS011
+        year: 2006
+        seven2twelve: 0.0093
+        nine2twelve: 0.0127
+    -
+        school_id: PS011
+        year: 2007
+        seven2twelve: 0.0299
+        nine2twelve: 0.0327
+    -
+        school_id: PS011
+        year: 2008
+        seven2twelve: 0.0107
+        nine2twelve: 0.0149
+    -
+        school_id: PS011
+        year: 2009
+        seven2twelve: 0.0237
+        nine2twelve: 0.0331
+    -
+        school_id: PS011
+        year: 2010
+        seven2twelve: 0.0061
+        nine2twelve: 0.0092
+    -
+        school_id: PS011
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS027
+        year: 2005
+        seven2twelve: 0.0058
+        nine2twelve: 0
+    -
+        school_id: PS027
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS027
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS027
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS027
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS027
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS027
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS158
+        year: 2005
+        seven2twelve: 0.024
+        nine2twelve: 0.024
+    -
+        school_id: PS158
+        year: 2006
+        seven2twelve: 0.032
+        nine2twelve: 0.032
+    -
+        school_id: PS158
+        year: 2007
+        seven2twelve: 0.0203
+        nine2twelve: 0.0203
+    -
+        school_id: PS158
+        year: 2008
+        seven2twelve: 0.0463
+        nine2twelve: 0.0463
+    -
+        school_id: PS158
+        year: 2009
+        seven2twelve: 0.0117
+        nine2twelve: 0.0117
+    -
+        school_id: PS158
+        year: 2010
+        seven2twelve: 0.0224
+        nine2twelve: 0.0224
+    -
+        school_id: PS158
+        year: 2011
+        seven2twelve: 0.0276
+        nine2twelve: 0.0276
+    -
+        school_id: PS217
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS217
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS217
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS217
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS217
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS217
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS217
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS206
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS206
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS206
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS206
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS206
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS206
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS206
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS405
+        year: 2005
+        seven2twelve: 0.014
+        nine2twelve: 0.014
+    -
+        school_id: PS405
+        year: 2006
+        seven2twelve: 0.0199
+        nine2twelve: 0.0199
+    -
+        school_id: PS405
+        year: 2007
+        seven2twelve: 0.0232
+        nine2twelve: 0.0232
+    -
+        school_id: PS405
+        year: 2008
+        seven2twelve: 0.0155
+        nine2twelve: 0.0155
+    -
+        school_id: PS405
+        year: 2009
+        seven2twelve: 0.0208
+        nine2twelve: 0.0208
+    -
+        school_id: PS405
+        year: 2010
+        seven2twelve: 0.0124
+        nine2twelve: 0.0124
+    -
+        school_id: PS405
+        year: 2011
+        seven2twelve: 0.0197
+        nine2twelve: 0.0197
+    -
+        school_id: PS147
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS147
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS147
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS147
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS147
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS147
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS147
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS069
+        year: 2005
+        seven2twelve: 0.0188
+        nine2twelve: 0.0165
+    -
+        school_id: PS069
+        year: 2006
+        seven2twelve: 0.0155
+        nine2twelve: 0.0192
+    -
+        school_id: PS069
+        year: 2007
+        seven2twelve: 0.0351
+        nine2twelve: 0.0417
+    -
+        school_id: PS069
+        year: 2008
+        seven2twelve: 0.0225
+        nine2twelve: 0.0247
+    -
+        school_id: PS069
+        year: 2009
+        seven2twelve: 0.0674
+        nine2twelve: 0.0857
+    -
+        school_id: PS069
+        year: 2010
+        seven2twelve: 0.0225
+        nine2twelve: 0.0313
+    -
+        school_id: PS069
+        year: 2011
+        seven2twelve: 0.0345
+        nine2twelve: 0.0492
+    -
+        school_id: PS104
+        year: 2005
+        seven2twelve: 0.0331
+        nine2twelve: 0.0331
+    -
+        school_id: PS104
+        year: 2006
+        seven2twelve: 0.0344
+        nine2twelve: 0.0344
+    -
+        school_id: PS104
+        year: 2007
+        seven2twelve: 0.0436
+        nine2twelve: 0.0436
+    -
+        school_id: PS104
+        year: 2008
+        seven2twelve: 0.0508
+        nine2twelve: 0.0508
+    -
+        school_id: PS104
+        year: 2009
+        seven2twelve: 0.0325
+        nine2twelve: 0.0325
+    -
+        school_id: PS104
+        year: 2010
+        seven2twelve: 0.0283
+        nine2twelve: 0.0283
+    -
+        school_id: PS104
+        year: 2011
+        seven2twelve: 0.0232
+        nine2twelve: 0.0232
+    -
+        school_id: PS180
+        year: 2005
+        seven2twelve: 0.0186
+        nine2twelve: 0.0186
+    -
+        school_id: PS180
+        year: 2006
+        seven2twelve: 0.0144
+        nine2twelve: 0.0144
+    -
+        school_id: PS180
+        year: 2007
+        seven2twelve: 0.0161
+        nine2twelve: 0.0161
+    -
+        school_id: PS180
+        year: 2008
+        seven2twelve: 0.0198
+        nine2twelve: 0.0198
+    -
+        school_id: PS180
+        year: 2009
+        seven2twelve: 0.0061
+        nine2twelve: 0.0061
+    -
+        school_id: PS180
+        year: 2010
+        seven2twelve: 0.0214
+        nine2twelve: 0.0214
+    -
+        school_id: PS180
+        year: 2011
+        seven2twelve: 0.0204
+        nine2twelve: 0.0204
+    -
+        school_id: PS035
+        year: 2005
+        seven2twelve: 0.0127
+        nine2twelve: 0.0176
+    -
+        school_id: PS035
+        year: 2006
+        seven2twelve: 0.0169
+        nine2twelve: 0.024
+    -
+        school_id: PS035
+        year: 2007
+        seven2twelve: 0.0385
+        nine2twelve: 0.0563
+    -
+        school_id: PS035
+        year: 2008
+        seven2twelve: 0.0355
+        nine2twelve: 0.0435
+    -
+        school_id: PS035
+        year: 2009
+        seven2twelve: 0.026
+        nine2twelve: 0.0391
+    -
+        school_id: PS035
+        year: 2010
+        seven2twelve: 0.0552
+        nine2twelve: 0.0775
+    -
+        school_id: PS035
+        year: 2011
+        seven2twelve: 0.0211
+        nine2twelve: 0.0308
+    -
+        school_id: PS394
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS394
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS394
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS394
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS394
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS394
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS394
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS166
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS166
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS166
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS166
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS166
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS166
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS166
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS020
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS020
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS020
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS020
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS020
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS020
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS020
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS049
+        year: 2005
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS049
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS049
+        year: 2007
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS049
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS049
+        year: 2009
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS049
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS049
+        year: 2011
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS190
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS190
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS190
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS190
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS190
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS190
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS190
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS031
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS031
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS031
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS031
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS031
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS031
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS031
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS124
+        year: 2005
+        seven2twelve: 0.0336
+        nine2twelve: 0.0464
+    -
+        school_id: PS124
+        year: 2006
+        seven2twelve: 0.0302
+        nine2twelve: 0.0429
+    -
+        school_id: PS124
+        year: 2007
+        seven2twelve: 0.0406
+        nine2twelve: 0.0576
+    -
+        school_id: PS124
+        year: 2008
+        seven2twelve: 0.0266
+        nine2twelve: 0.038
+    -
+        school_id: PS124
+        year: 2009
+        seven2twelve: 0.011
+        nine2twelve: 0.0157
+    -
+        school_id: PS124
+        year: 2010
+        seven2twelve: 0.0163
+        nine2twelve: 0.0203
+    -
+        school_id: PS124
+        year: 2011
+        seven2twelve: 0.0497
+        nine2twelve: 0.0681
+    -
+        school_id: PS288
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS288
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS288
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS288
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS288
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS288
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS288
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS184
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS184
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS184
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS184
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS184
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS184
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS184
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS022
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS022
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS022
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS022
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS022
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS022
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS022
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS401
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS401
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS401
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS401
+        year: 2008
+        seven2twelve: 0.0087
+        nine2twelve: 0
+    -
+        school_id: PS401
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS401
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS401
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS169
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS169
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS169
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS169
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS169
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS169
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS169
+        year: 2011
+        seven2twelve: 0.0077
+        nine2twelve: 0
+    -
+        school_id: PS025
+        year: 2005
+        seven2twelve: 0.0457
+        nine2twelve: 0.0457
+    -
+        school_id: PS025
+        year: 2006
+        seven2twelve: 0.0611
+        nine2twelve: 0.0611
+    -
+        school_id: PS025
+        year: 2007
+        seven2twelve: 0.0573
+        nine2twelve: 0.0573
+    -
+        school_id: PS025
+        year: 2008
+        seven2twelve: 0.0701
+        nine2twelve: 0.0701
+    -
+        school_id: PS025
+        year: 2009
+        seven2twelve: 0.0511
+        nine2twelve: 0.0511
+    -
+        school_id: PS025
+        year: 2010
+        seven2twelve: 0.0443
+        nine2twelve: 0.0443
+    -
+        school_id: PS025
+        year: 2011
+        seven2twelve: 0.0462
+        nine2twelve: 0.0462
+    -
+        school_id: PS349
+        year: 2005
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS349
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS349
+        year: 2007
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS349
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS349
+        year: 2009
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS349
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS349
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS266
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS266
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS266
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS266
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS266
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS266
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS266
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS139
+        year: 2005
+        seven2twelve: 0.03
+        nine2twelve: 0.0446
+    -
+        school_id: PS139
+        year: 2006
+        seven2twelve: 0.008
+        nine2twelve: 0.0127
+    -
+        school_id: PS139
+        year: 2007
+        seven2twelve: 0.024
+        nine2twelve: 0.0361
+    -
+        school_id: PS139
+        year: 2008
+        seven2twelve: 0.0258
+        nine2twelve: 0.038
+    -
+        school_id: PS139
+        year: 2009
+        seven2twelve: 0.0282
+        nine2twelve: 0.0413
+    -
+        school_id: PS139
+        year: 2010
+        seven2twelve: 0.0133
+        nine2twelve: 0.0196
+    -
+        school_id: PS139
+        year: 2011
+        seven2twelve: 0.0079
+        nine2twelve: 0.0083
+    -
+        school_id: PS351
+        year: 2005
+        seven2twelve: 0.0542
+        nine2twelve: 0.0542
+    -
+        school_id: PS351
+        year: 2006
+        seven2twelve: 0.0274
+        nine2twelve: 0.0274
+    -
+        school_id: PS351
+        year: 2007
+        seven2twelve: 0.075
+        nine2twelve: 0.075
+    -
+        school_id: PS351
+        year: 2008
+        seven2twelve: 0.0543
+        nine2twelve: 0.0543
+    -
+        school_id: PS351
+        year: 2009
+        seven2twelve: 0.0905
+        nine2twelve: 0.0905
+    -
+        school_id: PS351
+        year: 2010
+        seven2twelve: 0.0293
+        nine2twelve: 0.0293
+    -
+        school_id: PS351
+        year: 2011
+        seven2twelve: 0.0749
+        nine2twelve: 0.0749
+    -
+        school_id: PS059
+        year: 2005
+        seven2twelve: 0.0303
+        nine2twelve: 0.0435
+    -
+        school_id: PS059
+        year: 2006
+        seven2twelve: 0.0124
+        nine2twelve: 0.0169
+    -
+        school_id: PS059
+        year: 2007
+        seven2twelve: 0.0255
+        nine2twelve: 0.036
+    -
+        school_id: PS059
+        year: 2008
+        seven2twelve: 0.0204
+        nine2twelve: 0.0268
+    -
+        school_id: PS059
+        year: 2009
+        seven2twelve: 0.0526
+        nine2twelve: 0.0667
+    -
+        school_id: PS059
+        year: 2010
+        seven2twelve: 0.0182
+        nine2twelve: 0.0241
+    -
+        school_id: PS059
+        year: 2011
+        seven2twelve: 0.0192
+        nine2twelve: 0.0253
+    -
+        school_id: PS264
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS264
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS264
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS264
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS264
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS264
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS264
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS305
+        year: 2005
+        seven2twelve: 0.0205
+        nine2twelve: 0.0303
+    -
+        school_id: PS305
+        year: 2006
+        seven2twelve: 0.018
+        nine2twelve: 0.0257
+    -
+        school_id: PS305
+        year: 2007
+        seven2twelve: 0.0156
+        nine2twelve: 0.021
+    -
+        school_id: PS305
+        year: 2008
+        seven2twelve: 0.0202
+        nine2twelve: 0.0281
+    -
+        school_id: PS305
+        year: 2009
+        seven2twelve: 0.0184
+        nine2twelve: 0.0255
+    -
+        school_id: PS305
+        year: 2010
+        seven2twelve: 0.0178
+        nine2twelve: 0.0253
+    -
+        school_id: PS305
+        year: 2011
+        seven2twelve: 0.0138
+        nine2twelve: 0.0198
+    -
+        school_id: Preliminary Report"
+        year: 2005
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: Preliminary Report"
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: Preliminary Report"
+        year: 2007
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: Preliminary Report"
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: Preliminary Report"
+        year: 2009
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: Preliminary Report"
+        year: 2010
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: Preliminary Report"
+        year: 2011
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS117
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS117
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS117
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS117
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS117
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS117
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS117
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS245
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS245
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS245
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS245
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS245
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS245
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS245
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS074
+        year: 2005
+        seven2twelve: 0.0388
+        nine2twelve: 0.0543
+    -
+        school_id: PS074
+        year: 2006
+        seven2twelve: 0.028
+        nine2twelve: 0.0385
+    -
+        school_id: PS074
+        year: 2007
+        seven2twelve: 0.0182
+        nine2twelve: 0.0115
+    -
+        school_id: PS074
+        year: 2008
+        seven2twelve: 0.0381
+        nine2twelve: 0.05
+    -
+        school_id: PS074
+        year: 2009
+        seven2twelve: 0.0103
+        nine2twelve: 0.0135
+    -
+        school_id: PS074
+        year: 2010
+        seven2twelve: 0.0238
+        nine2twelve: 0.0339
+    -
+        school_id: PS074
+        year: 2011
+        seven2twelve: 0.0641
+        nine2twelve: 0.1087
+    -
+        school_id: PS237
+        year: 2005
+        seven2twelve: 0.0174
+        nine2twelve: 0.0247
+    -
+        school_id: PS237
+        year: 2006
+        seven2twelve: 0.0246
+        nine2twelve: 0.0312
+    -
+        school_id: PS237
+        year: 2007
+        seven2twelve: 0.0256
+        nine2twelve: 0.0377
+    -
+        school_id: PS237
+        year: 2008
+        seven2twelve: 0.0283
+        nine2twelve: 0.0429
+    -
+        school_id: PS237
+        year: 2009
+        seven2twelve: 0.0125
+        nine2twelve: 0.0188
+    -
+        school_id: PS237
+        year: 2010
+        seven2twelve: 0.0225
+        nine2twelve: 0.0293
+    -
+        school_id: PS237
+        year: 2011
+        seven2twelve: 0.0381
+        nine2twelve: 0.057
+    -
+        school_id: PS185
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS185
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS185
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS185
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS185
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS185
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS185
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS234
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS234
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS234
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS234
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS234
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS234
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS234
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS367
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS367
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS367
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS367
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS367
+        year: 2009
+        seven2twelve: 0.0035
+        nine2twelve: 0
+    -
+        school_id: PS367
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS367
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS135
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS135
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS135
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS135
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS135
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS135
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS135
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS061
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS061
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS061
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS061
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS061
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS061
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS061
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS170
+        year: 2005
+        seven2twelve: 0.0069
+        nine2twelve: 0
+    -
+        school_id: PS170
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS170
+        year: 2007
+        seven2twelve: 0.0073
+        nine2twelve: 0
+    -
+        school_id: PS170
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS170
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS170
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS170
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS381
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS381
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS381
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS381
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS381
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS381
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS381
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS208
+        year: 2005
+        seven2twelve: 0.0253
+        nine2twelve: 0.0253
+    -
+        school_id: PS208
+        year: 2006
+        seven2twelve: 0.0417
+        nine2twelve: 0.0417
+    -
+        school_id: PS208
+        year: 2007
+        seven2twelve: 0.058
+        nine2twelve: 0.058
+    -
+        school_id: PS208
+        year: 2008
+        seven2twelve: 0.057
+        nine2twelve: 0.057
+    -
+        school_id: PS208
+        year: 2009
+        seven2twelve: 0.0552
+        nine2twelve: 0.0552
+    -
+        school_id: PS208
+        year: 2010
+        seven2twelve: 0.0272
+        nine2twelve: 0.0272
+    -
+        school_id: PS208
+        year: 2011
+        seven2twelve: 0.0163
+        nine2twelve: 0.0163
+    -
+        school_id: PS090
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS090
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS090
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS090
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS090
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS090
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS090
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS393
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS393
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS393
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS393
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS393
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS393
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS393
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS105
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS105
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS105
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS105
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS105
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS105
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS105
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS161
+        year: 2005
+        seven2twelve: 0.0386
+        nine2twelve: 0.0554
+    -
+        school_id: PS161
+        year: 2006
+        seven2twelve: 0.0541
+        nine2twelve: 0.0763
+    -
+        school_id: PS161
+        year: 2007
+        seven2twelve: 0.0182
+        nine2twelve: 0.0271
+    -
+        school_id: PS161
+        year: 2008
+        seven2twelve: 0.0207
+        nine2twelve: 0.0301
+    -
+        school_id: PS161
+        year: 2009
+        seven2twelve: 0.0175
+        nine2twelve: 0.027
+    -
+        school_id: PS161
+        year: 2010
+        seven2twelve: 0.0278
+        nine2twelve: 0.0437
+    -
+        school_id: PS161
+        year: 2011
+        seven2twelve: 0.0177
+        nine2twelve: 0.0258
+    -
+        school_id: PS344
+        year: 2005
+        seven2twelve: 0.0244
+        nine2twelve: 0.0368
+    -
+        school_id: PS344
+        year: 2006
+        seven2twelve: 0.0391
+        nine2twelve: 0.05
+    -
+        school_id: PS344
+        year: 2007
+        seven2twelve: 0.0185
+        nine2twelve: 0.0253
+    -
+        school_id: PS344
+        year: 2008
+        seven2twelve: 0.0471
+        nine2twelve: 0.0674
+    -
+        school_id: PS344
+        year: 2009
+        seven2twelve: 0.0502
+        nine2twelve: 0.0745
+    -
+        school_id: PS344
+        year: 2010
+        seven2twelve: 0.0383
+        nine2twelve: 0.0559
+    -
+        school_id: PS344
+        year: 2011
+        seven2twelve: 0.0402
+        nine2twelve: 0.0606
+    -
+        school_id: PA004
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA004
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA004
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA004
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA004
+        year: 2009
+        seven2twelve: 0.0075
+        nine2twelve: 0.0075
+    -
+        school_id: PA004
+        year: 2010
+        seven2twelve: 0.0076
+        nine2twelve: 0.0076
+    -
+        school_id: PA004
+        year: 2011
+        seven2twelve: 0.0076
+        nine2twelve: 0.0076
+    -
+        school_id: PS356
+        year: 2005
+        seven2twelve: 0.0143
+        nine2twelve: 0.0143
+    -
+        school_id: PS356
+        year: 2006
+        seven2twelve: 0.0143
+        nine2twelve: 0.0143
+    -
+        school_id: PS356
+        year: 2007
+        seven2twelve: 0.0296
+        nine2twelve: 0.0296
+    -
+        school_id: PS356
+        year: 2008
+        seven2twelve: 0.0258
+        nine2twelve: 0.0258
+    -
+        school_id: PS356
+        year: 2009
+        seven2twelve: 0.0073
+        nine2twelve: 0.0073
+    -
+        school_id: PS356
+        year: 2010
+        seven2twelve: 0.0124
+        nine2twelve: 0.0124
+    -
+        school_id: PS356
+        year: 2011
+        seven2twelve: 0.0185
+        nine2twelve: 0.0185
+    -
+        school_id: PS312
+        year: 2005
+        seven2twelve: 0.0015
+        nine2twelve: 0.0022
+    -
+        school_id: PS312
+        year: 2006
+        seven2twelve: 0.0076
+        nine2twelve: 0.0108
+    -
+        school_id: PS312
+        year: 2007
+        seven2twelve: 0.0154
+        nine2twelve: 0.0218
+    -
+        school_id: PS312
+        year: 2008
+        seven2twelve: 0.0174
+        nine2twelve: 0.0256
+    -
+        school_id: PS312
+        year: 2009
+        seven2twelve: 0.0081
+        nine2twelve: 0.0119
+    -
+        school_id: PS312
+        year: 2010
+        seven2twelve: 0.0017
+        nine2twelve: 0.0024
+    -
+        school_id: PS312
+        year: 2011
+        seven2twelve: 0.0121
+        nine2twelve: 0.0174
+    -
+        school_id: PS338
+        year: 2005
+        seven2twelve: 0.0289
+        nine2twelve: 0.0385
+    -
+        school_id: PS338
+        year: 2006
+        seven2twelve: 0.04
+        nine2twelve: 0.055
+    -
+        school_id: PS338
+        year: 2007
+        seven2twelve: 0.0435
+        nine2twelve: 0.0562
+    -
+        school_id: PS338
+        year: 2008
+        seven2twelve: 0.0625
+        nine2twelve: 0.0964
+    -
+        school_id: PS338
+        year: 2009
+        seven2twelve: 0.0159
+        nine2twelve: 0.0241
+    -
+        school_id: PS338
+        year: 2010
+        seven2twelve: 0.0156
+        nine2twelve: 0.0244
+    -
+        school_id: PS338
+        year: 2011
+        seven2twelve: 0.0246
+        nine2twelve: 0.0375
+    -
+        school_id: PS009
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS009
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS009
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS009
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS009
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS009
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS009
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS365
+        year: 2005
+        seven2twelve: 0.0072
+        nine2twelve: 0
+    -
+        school_id: PS365
+        year: 2006
+        seven2twelve: 0.0026
+        nine2twelve: 0
+    -
+        school_id: PS365
+        year: 2007
+        seven2twelve: 0.0056
+        nine2twelve: 0
+    -
+        school_id: PS365
+        year: 2008
+        seven2twelve: 0.0111
+        nine2twelve: 0
+    -
+        school_id: PS365
+        year: 2009
+        seven2twelve: 0.0056
+        nine2twelve: 0
+    -
+        school_id: PS365
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS365
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS403
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS403
+        year: 2006
+        seven2twelve: 0.0109
+        nine2twelve: 0
+    -
+        school_id: PS403
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS403
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS403
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS403
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS403
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS050
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS050
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS050
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS050
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS050
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS050
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS050
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS077
+        year: 2005
+        seven2twelve: 0.0769
+        nine2twelve: 0
+    -
+        school_id: PS077
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS077
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS077
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS077
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS077
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS077
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS103
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS103
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS103
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS103
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS103
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS103
+        year: 2010
+        seven2twelve: 0.0115
+        nine2twelve: 0
+    -
+        school_id: PS103
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PA001
+        year: 2005
+        seven2twelve: 0.0345
+        nine2twelve: 0.0345
+    -
+        school_id: PA001
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PA001
+        year: 2007
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PA001
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PA001
+        year: 2009
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PA001
+        year: 2010
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PA001
+        year: 2011
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS111
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS111
+        year: 2006
+        seven2twelve: 0.0147
+        nine2twelve: 0
+    -
+        school_id: PS111
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS111
+        year: 2008
+        seven2twelve: 0.0156
+        nine2twelve: 0
+    -
+        school_id: PS111
+        year: 2009
+        seven2twelve: 0.0172
+        nine2twelve: 0
+    -
+        school_id: PS111
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS111
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS168
+        year: 2005
+        seven2twelve: 0.027
+        nine2twelve: 0
+    -
+        school_id: PS168
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS168
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS168
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS168
+        year: 2009
+        seven2twelve: 0.0385
+        nine2twelve: 0
+    -
+        school_id: PS168
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS168
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS274
+        year: 2005
+        seven2twelve: 0.0149
+        nine2twelve: 0.0204
+    -
+        school_id: PS274
+        year: 2006
+        seven2twelve: 0.0117
+        nine2twelve: 0.0158
+    -
+        school_id: PS274
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS274
+        year: 2008
+        seven2twelve: 0.0286
+        nine2twelve: 0.0324
+    -
+        school_id: PS274
+        year: 2009
+        seven2twelve: 0.0392
+        nine2twelve: 0.0473
+    -
+        school_id: PS274
+        year: 2010
+        seven2twelve: 0.0053
+        nine2twelve: 0.007
+    -
+        school_id: PS274
+        year: 2011
+        seven2twelve: 0.0391
+        nine2twelve: 0.0526
+    -
+        school_id: PS010
+        year: 2005
+        seven2twelve: 0.0213
+        nine2twelve: 0
+    -
+        school_id: PS010
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS010
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS010
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS010
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS010
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS010
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS219
+        year: 2005
+        seven2twelve: 0.0152
+        nine2twelve: 0.0236
+    -
+        school_id: PS219
+        year: 2006
+        seven2twelve: 0.0207
+        nine2twelve: 0.0305
+    -
+        school_id: PS219
+        year: 2007
+        seven2twelve: 0.0041
+        nine2twelve: 0.0061
+    -
+        school_id: PS219
+        year: 2008
+        seven2twelve: 0.0223
+        nine2twelve: 0.0318
+    -
+        school_id: PS219
+        year: 2009
+        seven2twelve: 0.0239
+        nine2twelve: 0.0317
+    -
+        school_id: PS219
+        year: 2010
+        seven2twelve: 0.0203
+        nine2twelve: 0.0278
+    -
+        school_id: PS219
+        year: 2011
+        seven2twelve: 0.0103
+        nine2twelve: 0.0141
+    -
+        school_id: PS278
+        year: 2005
+        seven2twelve: 0.0602
+        nine2twelve: 0.0602
+    -
+        school_id: PS278
+        year: 2006
+        seven2twelve: 0.0917
+        nine2twelve: 0.0917
+    -
+        school_id: PS278
+        year: 2007
+        seven2twelve: 0.0848
+        nine2twelve: 0.0848
+    -
+        school_id: PS278
+        year: 2008
+        seven2twelve: 0.0646
+        nine2twelve: 0.0646
+    -
+        school_id: PS278
+        year: 2009
+        seven2twelve: 0.1015
+        nine2twelve: 0.1015
+    -
+        school_id: PS278
+        year: 2010
+        seven2twelve: 0.0699
+        nine2twelve: 0.0699
+    -
+        school_id: PS278
+        year: 2011
+        seven2twelve: 0.0707
+        nine2twelve: 0.0707
+    -
+        school_id: PS406
+        year: 2005
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS406
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS406
+        year: 2007
+        seven2twelve: 0.045
+        nine2twelve: 0.045
+    -
+        school_id: PS406
+        year: 2008
+        seven2twelve: 0.0295
+        nine2twelve: 0.0295
+    -
+        school_id: PS406
+        year: 2009
+        seven2twelve: 0.0367
+        nine2twelve: 0.0367
+    -
+        school_id: PS406
+        year: 2010
+        seven2twelve: 0.0221
+        nine2twelve: 0.0221
+    -
+        school_id: PS406
+        year: 2011
+        seven2twelve: 0.0256
+        nine2twelve: 0.0256
+    -
+        school_id: PS287
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS287
+        year: 2006
+        seven2twelve: 0.0085
+        nine2twelve: 0.0129
+    -
+        school_id: PS287
+        year: 2007
+        seven2twelve: 0.0085
+        nine2twelve: 0.0132
+    -
+        school_id: PS287
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS287
+        year: 2009
+        seven2twelve: 0.0029
+        nine2twelve: 0.0044
+    -
+        school_id: PS287
+        year: 2010
+        seven2twelve: 0.0088
+        nine2twelve: 0.0142
+    -
+        school_id: PS287
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS258
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS258
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS258
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS258
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS258
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS258
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS258
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS289
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS289
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS289
+        year: 2007
+        seven2twelve: 0.0072
+        nine2twelve: 0
+    -
+        school_id: PS289
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS289
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS289
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS289
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS078
+        year: 2005
+        seven2twelve: 0.0275
+        nine2twelve: 0.0469
+    -
+        school_id: PS078
+        year: 2006
+        seven2twelve: 0.0108
+        nine2twelve: 0.0156
+    -
+        school_id: PS078
+        year: 2007
+        seven2twelve: 0.044
+        nine2twelve: 0.0727
+    -
+        school_id: PS078
+        year: 2008
+        seven2twelve: 0.0556
+        nine2twelve: 0.0847
+    -
+        school_id: PS078
+        year: 2009
+        seven2twelve: 0.0361
+        nine2twelve: 0.05
+    -
+        school_id: PS078
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS078
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS128
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS128
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS128
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS128
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS128
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS128
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS128
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS082
+        year: 2005
+        seven2twelve: 0.0047
+        nine2twelve: 0.007
+    -
+        school_id: PS082
+        year: 2006
+        seven2twelve: 0.0142
+        nine2twelve: 0.0194
+    -
+        school_id: PS082
+        year: 2007
+        seven2twelve: 0.0253
+        nine2twelve: 0.0288
+    -
+        school_id: PS082
+        year: 2008
+        seven2twelve: 0.0156
+        nine2twelve: 0.0214
+    -
+        school_id: PS082
+        year: 2009
+        seven2twelve: 0.0396
+        nine2twelve: 0.0544
+    -
+        school_id: PS082
+        year: 2010
+        seven2twelve: 0.0466
+        nine2twelve: 0.0584
+    -
+        school_id: PS082
+        year: 2011
+        seven2twelve: 0.0165
+        nine2twelve: 0.0231
+    -
+        school_id: PS175
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS175
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS175
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS175
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS175
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS175
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS175
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS197
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS197
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS197
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS197
+        year: 2008
+        seven2twelve: 0.002
+        nine2twelve: 0
+    -
+        school_id: PS197
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS197
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS197
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS224
+        year: 2005
+        seven2twelve: 0.0207
+        nine2twelve: 0.0207
+    -
+        school_id: PS224
+        year: 2006
+        seven2twelve: 0.0128
+        nine2twelve: 0.0128
+    -
+        school_id: PS224
+        year: 2007
+        seven2twelve: 0.0289
+        nine2twelve: 0.0289
+    -
+        school_id: PS224
+        year: 2008
+        seven2twelve: 0.0383
+        nine2twelve: 0.0383
+    -
+        school_id: PS224
+        year: 2009
+        seven2twelve: 0.0347
+        nine2twelve: 0.0347
+    -
+        school_id: PS224
+        year: 2010
+        seven2twelve: 0.027
+        nine2twelve: 0.027
+    -
+        school_id: PS224
+        year: 2011
+        seven2twelve: 0.0366
+        nine2twelve: 0.0366
+    -
+        school_id: PS302
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS302
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS302
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS302
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS302
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS302
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS302
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS199
+        year: 2005
+        seven2twelve: 0.0075
+        nine2twelve: 0.0075
+    -
+        school_id: PS199
+        year: 2006
+        seven2twelve: 0.0125
+        nine2twelve: 0.0125
+    -
+        school_id: PS199
+        year: 2007
+        seven2twelve: 0.0112
+        nine2twelve: 0.0112
+    -
+        school_id: PS199
+        year: 2008
+        seven2twelve: 0.0124
+        nine2twelve: 0.0124
+    -
+        school_id: PS199
+        year: 2009
+        seven2twelve: 0.0084
+        nine2twelve: 0.0084
+    -
+        school_id: PS199
+        year: 2010
+        seven2twelve: 0.0082
+        nine2twelve: 0.0082
+    -
+        school_id: PS199
+        year: 2011
+        seven2twelve: 0.0113
+        nine2twelve: 0.0113
+    -
+        school_id: PS230
+        year: 2005
+        seven2twelve: 0.0139
+        nine2twelve: 0.0205
+    -
+        school_id: PS230
+        year: 2006
+        seven2twelve: 0.0175
+        nine2twelve: 0.025
+    -
+        school_id: PS230
+        year: 2007
+        seven2twelve: 0.0105
+        nine2twelve: 0.0149
+    -
+        school_id: PS230
+        year: 2008
+        seven2twelve: 0.0303
+        nine2twelve: 0.0389
+    -
+        school_id: PS230
+        year: 2009
+        seven2twelve: 0.0161
+        nine2twelve: 0.0233
+    -
+        school_id: PS230
+        year: 2010
+        seven2twelve: 0.0268
+        nine2twelve: 0.04
+    -
+        school_id: PS230
+        year: 2011
+        seven2twelve: 0.027
+        nine2twelve: 0.0414
+    -
+        school_id: PS388
+        year: 2005
+        seven2twelve: 0.0139
+        nine2twelve: 0.0139
+    -
+        school_id: PS388
+        year: 2006
+        seven2twelve: 0.0277
+        nine2twelve: 0.0277
+    -
+        school_id: PS388
+        year: 2007
+        seven2twelve: 0.02
+        nine2twelve: 0.02
+    -
+        school_id: PS388
+        year: 2008
+        seven2twelve: 0.019
+        nine2twelve: 0.019
+    -
+        school_id: PS388
+        year: 2009
+        seven2twelve: 0.0093
+        nine2twelve: 0.0093
+    -
+        school_id: PS388
+        year: 2010
+        seven2twelve: 0.016
+        nine2twelve: 0.016
+    -
+        school_id: PS388
+        year: 2011
+        seven2twelve: 0.0152
+        nine2twelve: 0.0152
+    -
+        school_id: PS024
+        year: 2005
+        seven2twelve: 0.0101
+        nine2twelve: 0
+    -
+        school_id: PS024
+        year: 2006
+        seven2twelve: 0.0057
+        nine2twelve: 0
+    -
+        school_id: PS024
+        year: 2007
+        seven2twelve: 0.012
+        nine2twelve: 0
+    -
+        school_id: PS024
+        year: 2008
+        seven2twelve: 0.0071
+        nine2twelve: 0
+    -
+        school_id: PS024
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS024
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS024
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS191
+        year: 2005
+        seven2twelve: 0.0286
+        nine2twelve: 0.0286
+    -
+        school_id: PS191
+        year: 2006
+        seven2twelve: 0.0252
+        nine2twelve: 0.0252
+    -
+        school_id: PS191
+        year: 2007
+        seven2twelve: 0.0314
+        nine2twelve: 0.0314
+    -
+        school_id: PS191
+        year: 2008
+        seven2twelve: 0.0214
+        nine2twelve: 0.0214
+    -
+        school_id: PS191
+        year: 2009
+        seven2twelve: 0.0152
+        nine2twelve: 0.0152
+    -
+        school_id: PS191
+        year: 2010
+        seven2twelve: 0.0151
+        nine2twelve: 0.0151
+    -
+        school_id: PS191
+        year: 2011
+        seven2twelve: 0.021
+        nine2twelve: 0.021
+    -
+        school_id: PS398
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS398
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS398
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS398
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS398
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS398
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS398
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS331
+        year: 2005
+        seven2twelve: 0.0255
+        nine2twelve: 0.0388
+    -
+        school_id: PS331
+        year: 2006
+        seven2twelve: 0.0404
+        nine2twelve: 0.0615
+    -
+        school_id: PS331
+        year: 2007
+        seven2twelve: 0.0323
+        nine2twelve: 0.0488
+    -
+        school_id: PS331
+        year: 2008
+        seven2twelve: 0.0368
+        nine2twelve: 0.0513
+    -
+        school_id: PS331
+        year: 2009
+        seven2twelve: 0.0234
+        nine2twelve: 0.0333
+    -
+        school_id: PS331
+        year: 2010
+        seven2twelve: 0.0318
+        nine2twelve: 0.049
+    -
+        school_id: PS331
+        year: 2011
+        seven2twelve: 0.0309
+        nine2twelve: 0.0446
+    -
+        school_id: PS369
+        year: 2005
+        seven2twelve: 0.1333
+        nine2twelve: 0.2
+    -
+        school_id: PS369
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS369
+        year: 2007
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS369
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS369
+        year: 2009
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS369
+        year: 2010
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS369
+        year: 2011
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS129
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS129
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS129
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS129
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS129
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS129
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS129
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS187
+        year: 2005
+        seven2twelve: 0.0299
+        nine2twelve: 0.0437
+    -
+        school_id: PS187
+        year: 2006
+        seven2twelve: 0.0246
+        nine2twelve: 0.0368
+    -
+        school_id: PS187
+        year: 2007
+        seven2twelve: 0.0366
+        nine2twelve: 0.051
+    -
+        school_id: PS187
+        year: 2008
+        seven2twelve: 0.0326
+        nine2twelve: 0.0458
+    -
+        school_id: PS187
+        year: 2009
+        seven2twelve: 0.0238
+        nine2twelve: 0.0354
+    -
+        school_id: PS187
+        year: 2010
+        seven2twelve: 0.0156
+        nine2twelve: 0.0231
+    -
+        school_id: PS187
+        year: 2011
+        seven2twelve: 0.0225
+        nine2twelve: 0.0327
+    -
+        school_id: PS058
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS058
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS058
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS058
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS058
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS058
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS058
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS364
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS364
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS364
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS364
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS364
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS364
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS364
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS036
+        year: 2005
+        seven2twelve: 0.0144
+        nine2twelve: 0.0155
+    -
+        school_id: PS036
+        year: 2006
+        seven2twelve: 0.0323
+        nine2twelve: 0.0515
+    -
+        school_id: PS036
+        year: 2007
+        seven2twelve: 0.0324
+        nine2twelve: 0.0486
+    -
+        school_id: PS036
+        year: 2008
+        seven2twelve: 0.0279
+        nine2twelve: 0.0387
+    -
+        school_id: PS036
+        year: 2009
+        seven2twelve: 0.0299
+        nine2twelve: 0.0408
+    -
+        school_id: PS036
+        year: 2010
+        seven2twelve: 0.0052
+        nine2twelve: 0.0068
+    -
+        school_id: PS036
+        year: 2011
+        seven2twelve: 0.0309
+        nine2twelve: 0.042
+    -
+        school_id: PS205
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS205
+        year: 2006
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS205
+        year: 2007
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS205
+        year: 2008
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS205
+        year: 2009
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS205
+        year: 2010
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS205
+        year: 2011
+        seven2twelve: 
+        nine2twelve: 
+    -
+        school_id: PS284
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS284
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS284
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS284
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS284
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS284
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS284
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS366
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS366
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS366
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS366
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS366
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS366
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS366
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS138
+        year: 2005
+        seven2twelve: 0.0046
+        nine2twelve: 0.0046
+    -
+        school_id: PS138
+        year: 2006
+        seven2twelve: 0.0234
+        nine2twelve: 0.0234
+    -
+        school_id: PS138
+        year: 2007
+        seven2twelve: 0.0155
+        nine2twelve: 0.0155
+    -
+        school_id: PS138
+        year: 2008
+        seven2twelve: 0.0124
+        nine2twelve: 0.0124
+    -
+        school_id: PS138
+        year: 2009
+        seven2twelve: 0.0094
+        nine2twelve: 0.0094
+    -
+        school_id: PS138
+        year: 2010
+        seven2twelve: 0.0032
+        nine2twelve: 0.0032
+    -
+        school_id: PS138
+        year: 2011
+        seven2twelve: 0.0049
+        nine2twelve: 0.0049
+    -
+        school_id: PS333
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS333
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS333
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS333
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS333
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS333
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS333
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS072
+        year: 2005
+        seven2twelve: 0.0093
+        nine2twelve: 0.0093
+    -
+        school_id: PS072
+        year: 2006
+        seven2twelve: 0.0092
+        nine2twelve: 0.0092
+    -
+        school_id: PS072
+        year: 2007
+        seven2twelve: 0.0254
+        nine2twelve: 0.0254
+    -
+        school_id: PS072
+        year: 2008
+        seven2twelve: 0.0223
+        nine2twelve: 0.0223
+    -
+        school_id: PS072
+        year: 2009
+        seven2twelve: 0.0178
+        nine2twelve: 0.0178
+    -
+        school_id: PS072
+        year: 2010
+        seven2twelve: 0.0117
+        nine2twelve: 0.0117
+    -
+        school_id: PS072
+        year: 2011
+        seven2twelve: 0.016
+        nine2twelve: 0.016
+    -
+        school_id: PS346
+        year: 2005
+        seven2twelve: 0.0149
+        nine2twelve: 0.015
+    -
+        school_id: PS346
+        year: 2006
+        seven2twelve: 0.0152
+        nine2twelve: 0.0152
+    -
+        school_id: PS346
+        year: 2007
+        seven2twelve: 0.0087
+        nine2twelve: 0.0087
+    -
+        school_id: PS346
+        year: 2008
+        seven2twelve: 0.0254
+        nine2twelve: 0.0254
+    -
+        school_id: PS346
+        year: 2009
+        seven2twelve: 0.038
+        nine2twelve: 0.038
+    -
+        school_id: PS346
+        year: 2010
+        seven2twelve: 0.0303
+        nine2twelve: 0.0303
+    -
+        school_id: PS346
+        year: 2011
+        seven2twelve: 0.0549
+        nine2twelve: 0.0549
+    -
+        school_id: PS137
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS137
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS137
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS137
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS137
+        year: 2009
+        seven2twelve: 0.0118
+        nine2twelve: 0
+    -
+        school_id: PS137
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS137
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS294
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS294
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS294
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS294
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS294
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS294
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS294
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS143
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS143
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS143
+        year: 2007
+        seven2twelve: 0.0076
+        nine2twelve: 0
+    -
+        school_id: PS143
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS143
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS143
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS143
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS032
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS032
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS032
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS032
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS032
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS032
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS032
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS052
+        year: 2005
+        seven2twelve: 0.0398
+        nine2twelve: 0.0398
+    -
+        school_id: PS052
+        year: 2006
+        seven2twelve: 0.0336
+        nine2twelve: 0.0336
+    -
+        school_id: PS052
+        year: 2007
+        seven2twelve: 0.0406
+        nine2twelve: 0.0406
+    -
+        school_id: PS052
+        year: 2008
+        seven2twelve: 0.0481
+        nine2twelve: 0.0481
+    -
+        school_id: PS052
+        year: 2009
+        seven2twelve: 0.0411
+        nine2twelve: 0.0411
+    -
+        school_id: PS052
+        year: 2010
+        seven2twelve: 0.0444
+        nine2twelve: 0.0444
+    -
+        school_id: PS052
+        year: 2011
+        seven2twelve: 0.0318
+        nine2twelve: 0.0318
+    -
+        school_id: PS391
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS391
+        year: 2006
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS391
+        year: 2007
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS391
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS391
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS391
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS391
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS276
+        year: 2005
+        seven2twelve: 0.049
+        nine2twelve: 0.049
+    -
+        school_id: PS276
+        year: 2006
+        seven2twelve: 0.0462
+        nine2twelve: 0.0462
+    -
+        school_id: PS276
+        year: 2007
+        seven2twelve: 0.0335
+        nine2twelve: 0.0335
+    -
+        school_id: PS276
+        year: 2008
+        seven2twelve: 0.0323
+        nine2twelve: 0.0323
+    -
+        school_id: PS276
+        year: 2009
+        seven2twelve: 0.0285
+        nine2twelve: 0.0285
+    -
+        school_id: PS276
+        year: 2010
+        seven2twelve: 0.0359
+        nine2twelve: 0.0359
+    -
+        school_id: PS276
+        year: 2011
+        seven2twelve: 0.0223
+        nine2twelve: 0.0223
+    -
+        school_id: PS157
+        year: 2005
+        seven2twelve: 0.0284
+        nine2twelve: 0.0284
+    -
+        school_id: PS157
+        year: 2006
+        seven2twelve: 0.0192
+        nine2twelve: 0.0192
+    -
+        school_id: PS157
+        year: 2007
+        seven2twelve: 0.0406
+        nine2twelve: 0.0406
+    -
+        school_id: PS157
+        year: 2008
+        seven2twelve: 0.0343
+        nine2twelve: 0.0343
+    -
+        school_id: PS157
+        year: 2009
+        seven2twelve: 0.0847
+        nine2twelve: 0.0847
+    -
+        school_id: PS157
+        year: 2010
+        seven2twelve: 0.0406
+        nine2twelve: 0.0406
+    -
+        school_id: PS157
+        year: 2011
+        seven2twelve: 0.0239
+        nine2twelve: 0.0239
+    -
+        school_id: PS272
+        year: 2005
+        seven2twelve: 0.0093
+        nine2twelve: 0.0093
+    -
+        school_id: PS272
+        year: 2006
+        seven2twelve: 0.0104
+        nine2twelve: 0.0104
+    -
+        school_id: PS272
+        year: 2007
+        seven2twelve: 0.0127
+        nine2twelve: 0.0127
+    -
+        school_id: PS272
+        year: 2008
+        seven2twelve: 0.0154
+        nine2twelve: 0.0154
+    -
+        school_id: PS272
+        year: 2009
+        seven2twelve: 0.01
+        nine2twelve: 0.01
+    -
+        school_id: PS272
+        year: 2010
+        seven2twelve: 0.0121
+        nine2twelve: 0.0121
+    -
+        school_id: PS272
+        year: 2011
+        seven2twelve: 0.0078
+        nine2twelve: 0.0078
+    -
+        school_id: PS310
+        year: 2005
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS310
+        year: 2006
+        seven2twelve: 0.0154
+        nine2twelve: 0
+    -
+        school_id: PS310
+        year: 2007
+        seven2twelve: 0.0175
+        nine2twelve: 0
+    -
+        school_id: PS310
+        year: 2008
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS310
+        year: 2009
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS310
+        year: 2010
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS310
+        year: 2011
+        seven2twelve: 0
+        nine2twelve: 0
+    -
+        school_id: PS211
+        year: 2005
+        seven2twelve: 0.0149
+        nine2twelve: 0.0226
+    -
+        school_id: PS211
+        year: 2006
+        seven2twelve: 0.0053
+        nine2twelve: 0.0078
+    -
+        school_id: PS211
+        year: 2007
+        seven2twelve: 0.0133
+        nine2twelve: 0.0188
+    -
+        school_id: PS211
+        year: 2008
+        seven2twelve: 0.0388
+        nine2twelve: 0.056
+    -
+        school_id: PS211
+        year: 2009
+        seven2twelve: 0.0227
+        nine2twelve: 0.0333
+    -
+        school_id: PS211
+        year: 2010
+        seven2twelve: 0.0131
+        nine2twelve: 0.0199
+    -
+        school_id: PS211
+        year: 2011
+        seven2twelve: 0.0134
+        nine2twelve: 0.0199

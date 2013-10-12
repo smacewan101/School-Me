@@ -1,4 +1,4 @@
-table_name: school
+table_name: institute
 records:
     -
         school_id: PA003
