@@ -160,7 +160,8 @@ class ApiController extends Dinkly
 					{
 						$county = new District();
 						$county->setName( $request->name );
-						$county->setCountyId( $request->county_id );
+						$county->setCounty( $request->county );
+						$county->setCity( $request->city );
 						if( $county->save() )
 						{
 							$response = $county->to_json();
@@ -180,11 +181,11 @@ class ApiController extends Dinkly
 						{
 							$county = new District();
 							$county->init($id);
-
 							if( isset( $county->Id ) )
 								{
 									$county->setName( $request->name );
-									$county->setCountyId( $request->county_id );
+									$county->setCounty( $request->county );
+									$county->setCity( $request->city );
 									if( $county->save() )
 										$response = $county->to_json();
 									else
@@ -359,6 +360,10 @@ class ApiController extends Dinkly
 		if ( is_null($sid) )
 			unset($sid);
 
+		$years = isset($params['year']) ? $params['year'] : NULL;
+		if( is_null($years))
+			unset($years);
+
 		$request = json_decode(file_get_contents('php://input'));
 
 		$response = null;
@@ -371,24 +376,30 @@ class ApiController extends Dinkly
 						$county->init($id);
 						$response = $county->to_json();
 					} 
-				else 
+				else if( isset($sid) )
 					{
-						if( isset($sid) )
-						{
-							$collection =DropoutCollection::getBySchool($sid);
-							if(count($collection) > 0)
-								$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
-							else
-								$response = "[]";
-						}
+						$collection =DropoutCollection::getBySchool($sid);
+						if(count($collection) > 0)
+							$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
 						else
-						{
-							$collection = DropoutCollection::getAll();
-							if(count($collection) > 0)
-								$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
-							else
-								$response = "[]";	
-						}
+							$response = "[]";
+					}
+				else if ( isset($years) )
+					{
+						$collection = DropoutCollection::getYearsSupported();
+						if(count($collection) > 0)
+							$response = json_encode($collection);
+						else
+							$response = "[]";
+					}
+				else
+					{
+						$collection = DropoutCollection::getAll();
+						if(count($collection) > 0)
+							$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
+						else
+							$response = "[]";	
+					
 					}
 				break;
 
@@ -604,6 +615,8 @@ class ApiController extends Dinkly
 			$this->handleResponse($response);
 			return false;
 	}
+
+
 
 
 	public function loadDefault()

@@ -6,5 +6,9 @@ class DropoutCollection extends BaseDropoutCollection
 		$peer_object = new Dropout();
 		return self::getCollection($peer_object, $peer_object->getSelectQuery() . " WHERE school_id=\"$sid\"" );
 	}
+
+	public static function getYearsSupported(){
+		
+	}
 }
 

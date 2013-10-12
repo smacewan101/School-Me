@@ -15,7 +15,8 @@ class District extends BaseDistrict
 		return array(
 					'id' => $this->Id,
 					'name' => $this->Name,
-					'county_id' => $this->CountyId
+					'county' => $this->County,
+					'city' => $this->City
 					);
 	}
 }
