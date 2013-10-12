@@ -30,6 +30,7 @@
 				<button class='btn'>Go!</button>
 			</form>
 		</div>
+		<marquee  behavior=scroll direction=right><img width="40" height="40" src="/img/bus.jpg" /></marquee>
 	</div>
 </div>
 
