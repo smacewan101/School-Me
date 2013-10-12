@@ -237,7 +237,7 @@ class ApiController extends Dinkly
 			return false;
 	}
 
-	public function loadSchool($params)
+	public function loadInstitute($params)
 	{
 		$id = isset($params['id']) ? $params['id'] : NULL;
 		if ( is_null($id) )
@@ -251,13 +251,13 @@ class ApiController extends Dinkly
 			case 'GET':
 				if ( isset($id) ) 
 					{
-						$county = new School();
+						$county = new Institute();
 						$county->init($id);
 						$response = $county->to_json();
 					} 
 				else 
 					{
-						$collection = SchoolCollection::getAll();
+						$collection = InstituteCollection::getAll();
 						if(count($collection) > 0)
 							$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
 						else
@@ -268,7 +268,7 @@ class ApiController extends Dinkly
 			case 'POST':
 				if ( isset( $request->name ) )
 					{
-						$county = new School();
+						$county = new Institute();
 						$county->setName( $request->name );
 						$county->setSchoolId( $request->school_id );
 						$county->setDistrictId( $request->district_id );
@@ -289,7 +289,7 @@ class ApiController extends Dinkly
 				{
 					if ( isset( $request->name ) )
 						{
-							$county = new School();
+							$county = new Institute();
 							$county->init($id);
 
 							if( isset( $county->Id ) )
@@ -315,7 +315,7 @@ class ApiController extends Dinkly
 			case 'DELETE':
 				if ( isset($id ) )
 				{
-					$county = new School();
+					$county = new Institute();
 					$county->init($id);
 					if( isset( $county->Id ) )
 						if ( $county->delete() )
@@ -344,7 +344,7 @@ class ApiController extends Dinkly
 
 		not_found:
 			header('HTTP/1.1 404 Not Found');
-			$response = "{ \"error\" : \"Could not find School\" }";
+			$response = "{ \"error\" : \"Could not find Institute\" }";
 			$this->handleResponse($response);
 			return false;
 	}
