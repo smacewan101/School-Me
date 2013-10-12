@@ -1,0 +1,10 @@
+table_name: completion
+registry:
+  - id
+  - created_at
+  - updated_at
+  - school_id: {type: varchar, length: 10, allow_null: true}
+  - year:  { type: int, allow_null: false }
+  - enrollment:  { type: int, allow_null: false }
+  - eventcomplete:  { type: float, allow_null: false }
+  - longitcomplete:  { type: float, allow_null: false }
