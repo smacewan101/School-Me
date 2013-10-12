@@ -73,10 +73,30 @@ function initialize() {
 		//window.location = '/main/county/name/'+name;
 	}
 
+		
+		$.ajax({
+				  type: "GET",
+				  url: '/api/api/institute/country/Windsor',
+				  success: function(res){
+				  	console.log(res);
+				  	for (var i = res.length - 1; i >= 0; i--) {
+				  		if(res[i].lat != 0){
+				  			latlng = new google.maps.LatLng(res[i].lat,res[i].lng);
+				  			console.log("hi");
+					  		littleWindow = new google.maps.InfoWindow();
+					  		littleWindow.setContent(res[i].name +"<br/>");
+					  		littleWindow.setPosition(latlng);
+					  		littleWindow.open(map);	
+				  		}
+				  	};
+				  }
+				});
+	
+
 }
 google.maps.event.addDomListener(window, 'load', initialize);
 
 $(document).ready(function(){
-	$('#data-stuff').dataTable();
+//	$('#data-stuff').dataTable();
 })
 </script>

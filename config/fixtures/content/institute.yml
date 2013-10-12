@@ -100,6 +100,8 @@ records:
         school_id: PS134
         name: Hartford High School
         county:  Windsor
+        lat: 43.5503
+        lng: -72.5684
     -
         school_id: PS007
         name: Albany Community School
@@ -120,6 +122,8 @@ records:
         school_id: PS087
         name: Dummerston Schools
         county: Windham
+        lat: 43.5801
+        lng: -72.5682
     -
         school_id: PS018
         name: Barnet Elementary School
@@ -136,6 +140,8 @@ records:
         school_id: PS361
         name: Weathersfield Middle School
         county: Windsor
+        lat: 43.5803
+        lng: -72.5684
     -
         school_id: PS316
         name: Walden School
