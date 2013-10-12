@@ -388,7 +388,7 @@ class ApiController extends Dinkly
 					{
 						$collection = DropoutCollection::getYearsSupported();
 						if(count($collection) > 0)
-							$response = json_encode($collection);
+							$response = json_encode(array_map(function($c){return $c['year'];},$collection));
 						else
 							$response = "[]";
 					}
