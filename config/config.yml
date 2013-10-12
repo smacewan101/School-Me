@@ -8,7 +8,7 @@ api:
     default_module: api
 content:
     app_name: School Me
-    app_description: See what school district is best for you.
+    app_description: See which school district is best for you.
     default_app: true
     base_href: /
     default_module: main
