@@ -19,17 +19,10 @@ $(document).ready(function() {
 <script type="text/javascript">
 $(document).ready(function() {
 	$('#necaps').change(function() {
-		$('#mycheckboxdiv').toggle();
+		$('#mycheckboxdiv1').toggle();
 	});
 });
 </script>
-
-<!--<script type="text/javascript">
-	$(document).ready(function(){
-		$('#necaps').change(function() {
-    		$('#mycheckboxdiv').toggle();
-    });
-</script>-->
 
 <div class='container-fluid'>
 	<div class='row-fluid'>
@@ -45,17 +38,19 @@ $(document).ready(function() {
               			Select Year
               			<span class='caret'></span>
               			</a>
-              			<ul class='dropdown-menu'>
+              			<ul class='dropdown-menu'>  
+
               				<? foreach($dropout_years as $year):?>
               				<li><?=$year['year']?></li>
               			<? endforeach;?>
 
               			</ul>
+
               			</div>
               		</div>
 
               <li><label class='checkbox'><input type='checkbox' name='necaps' id='necaps' value=''>Necap Scores</label></li>
-              	<div id="mycheckboxdiv" style="display:none">
+              	<div id="mycheckboxdiv1" style="display:none">
               		<div class='btn-group'>
               			<a class='btn dropdown-toggle' data-toggle='dropdown' href="#">
               				Select Year
