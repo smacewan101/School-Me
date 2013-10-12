@@ -34,17 +34,14 @@ $(document).ready(function() {
               	<li><label class="checkbox"><input type="checkbox" name='dropOuts' id='dropOuts' value="">Dropouts by year</label></li>
               		<div id="mycheckboxdiv" style="display:none">
               			<div class='btn-group'>
-              			<a class='btn dropdown-toggle' data-toggle='dropdown'href="#">
-              			Select Year
-              			<span class='caret'></span>
-              			</a>
-              			<ul class='dropdown-menu'>  
-
+              			
+              			<select class='yearclick dropdown-menu btn dropdown-toggle'>  
+              				<option>Select A Year</option>
               				<? foreach($dropout_years as $year):?>
-              				<li><?=$year['year']?></li>
+              				<option value="<?=$year['year']?>" ><?=$year['year']?></option>
               			<? endforeach;?>
 
-              			</ul>
+              			</select>
 
               			</div>
               		</div>
@@ -94,7 +91,7 @@ $(document).ready(function() {
 				zoom: 8,
 				mapTypeId: google.maps.MapTypeId.ROADMAP
 			};
-			var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+			map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
 
 			// 	The following code generate a
 			// 	GPolygon object
@@ -201,7 +198,28 @@ $(document).ready(function() {
 		}
 		google.maps.event.addDomListener(window, 'load', initialize);
 
-
+		$(document).ready(function(){
+			$('.yearclick').click(function(){
+				var year = $(this).val();
+				
+				$.ajax({
+				  type: "GET",
+				  url: '/api/api/dropout/byyear/'+year,
+				  success: function(res){
+				  	console.log(res);
+				  	for (var i = res.length - 1; i >= 0; i--) {
+				  		latlng = google.maps.LatLng(res[i].lat,res[i].lng);
+					  	littleWindow = new google.maps.InfoWindow();
+					  	littleWindow.setContent(res[i].county +"<br/>9-12th grade Drop out rate: " + Math.floor(res[i].n2t*100) +"%<br/>"+"7-12 grade drop out rate: " + Math.floor(res[i].s2t*100)+"%");
+					  	littleWindow.setPosition(latlng);
+					  	littleWindow.open(map);
+				  	};
+				  	
+				  	
+				  }
+				});
+			});
+		});
 	</script>
 
 		</div><!--map-canvas-->
