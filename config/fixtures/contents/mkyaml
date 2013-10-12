@@ -1,0 +1,105 @@
+#!/usr/bin/perl
+
+
+
+use strict;
+use warnings;
+use Data::Dumper;
+
+my (%completion,%dropout);
+my @dirs = `ls -p`;
+for my $dir (@dirs) {
+	chomp($dir);
+	next if $dir !~ /\/$/; #not a directory
+	my @files = `ls ./$dir`;
+	for my $file (@files) {
+		next if $file !~ /\d\dt\d.csv/;
+		my $path = "./$dir$file";
+		$file =~ s/\.csv\n//;
+		if ($file =~ /4$/) {
+			&ParseFile($path,\%dropout,4);
+		}
+		else {
+			&ParseFile($path,\%completion,6);
+		}
+	}
+}
+&MakeYAML(\%dropout,4);
+&MakeYAML(\%completion,6);
+
+
+sub ParseFile {
+	my ($inFile,$hash,$num) = @_;
+	open(my $IN,"<$inFile") or die("Error: $!");
+	my ($year) = $inFile =~ /(\d\d)t/;
+	$year += 2000;
+	while (<$IN>) {
+		chomp;
+		$_ =~ s/\r//g;
+		my @line = split(/,/);
+		&Clean(@line);
+		if ($line[0] !~ /^P/) { #hack because one of the files is special
+			if ($line[0] =~ /\d+/) {
+				#print "OH LAWDY WE GOT AN EDGE CASE: ".$line[0]."\n";
+				@line = @line[2..$#line];
+			}
+			else {
+				next;
+			}
+		}
+		if ($line[0] !~ /^P/) {
+			#print "skipping ".$line[0]."\n";
+			next;
+		}
+		$$hash{$line[0]} = {} if !exists($$hash{$line[0]});
+		$$hash{$line[0]}->{"name"} = $line[1];
+		$$hash{$line[0]}->{$year} = {} if !exists($$hash{$line[0]}->{$year});
+		if ($num == 4) {
+			$$hash{$line[0]}->{$year}->{"7thru12"} = &FixDecimal($line[2]); 
+			$$hash{$line[0]}->{$year}->{"9thru12"} = &FixDecimal($line[3]);
+		}
+		else {
+			$$hash{$line[0]}->{$year}->{"enrollment"} = $line[2]; 
+			$$hash{$line[0]}->{$year}->{"eventcomplete"} = &FixDecimal($line[3]);
+			$$hash{$line[0]}->{$year}->{"longitcomplete"} = &FixDecimal($line[4]);
+		}
+	}
+}
+
+sub MakeYAML {
+	my ($hash,$num) = @_;
+	mkdir("./yaml") if (! -d "./yaml");
+	my $file = $num == 4 ? "dropout" : "completion";
+	open(my $OUT,">./yaml/$file.yaml") or die("Error: $!");
+	for my $key (keys(%$hash)) {
+		print $OUT "school: $key\n";
+		print $OUT "\tname: ".$$hash{$key}->{"name"}."\n";
+		for (my $i = 2005;$i < 2012; $i++) { #LOL
+			print $OUT "\tyear: ".$i."\n";
+			if ($num == 4) {
+				print $OUT "\t\tseventhru12: ".$$hash{$key}->{$i}->{"7thru12"}."\n";
+				print $OUT "\t\tninethru12: ".$$hash{$key}->{$i}->{"9thru12"}."\n";
+			}
+			else {
+				print $OUT "\t\tenrollment: ".$$hash{$key}->{$i}->{"enrollment"}."\n";
+				print $OUT "\t\teventcomplete: ".$$hash{$key}->{$i}->{"eventcomplete"}."\n";
+				print $OUT "\t\tlongitcomplete: ".$$hash{$key}->{$i}->{"longitcomplete"}."\n";	
+			}
+		}
+	}
+}
+
+
+sub Clean {
+	for my $s (@_) {
+		$s =~ s/^\s+//;
+		$s =~ s/\s+$//;
+	}
+}
+
+sub FixDecimal {
+	my $num = $_[0];
+	$num =~ s/\%//;
+	$num = ($num eq "") ? $num : $num / 100;
+	return $num;
+}
