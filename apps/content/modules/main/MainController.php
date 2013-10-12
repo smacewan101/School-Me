@@ -11,4 +11,13 @@ class MainController extends Dinkly
 	{
 		return true;
 	}
+
+	public function loadCounty($parameters)
+	{
+		if(!isset($parameters['id'])){
+			return $this->loadModule('content', , 'main', 'map', true, true);
+		}
+
+		return true;
+	}
 }
