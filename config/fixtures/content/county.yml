@@ -1,0 +1,54 @@
+table_name: County
+records:
+    -   
+        created_at:     
+        updated_at:
+  		name: Chittenden
+  	-   
+        created_at:     
+        updated_at:
+  		name: Addison
+  	-   
+        created_at:     
+        updated_at:
+  		name: Bennington
+  	-   
+        created_at:     
+        updated_at:
+  		name: Caledonia
+  	-   
+        created_at:     
+        updated_at:
+  		name: Essex
+  	-   
+        created_at:     
+        updated_at:
+  		name: Franklin
+  	-   
+        created_at:     
+        updated_at:
+  		name: Grand Isle
+  	-   
+        created_at:     
+        updated_at:
+  		name: Orange
+  	-   
+        created_at:     
+        updated_at:
+  		name: Orleans
+  	-   
+        created_at:     
+        updated_at:
+  		name: Rutland
+  	-   
+        created_at:     
+        updated_at:
+  		name: Washington
+  	-   
+        created_at:     
+        updated_at:
+  		name: Windham
+  	-   
+        created_at:     
+        updated_at:
+  		name: Windsor
