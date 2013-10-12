@@ -1,54 +1,54 @@
-table_name: County
-records:
+table_name: county
+records:    
     -   
         created_at:     
         updated_at:
-  		name: Chittenden
-  	-   
+        name: Chittenden    
+    -
         created_at:     
         updated_at:
-  		name: Addison
-  	-   
+        name: Addison
+    -   
         created_at:     
         updated_at:
-  		name: Bennington
-  	-   
+        name: Bennington
+    -   
         created_at:     
         updated_at:
-  		name: Caledonia
-  	-   
+        name: Caledonia
+    -   
         created_at:     
         updated_at:
-  		name: Essex
-  	-   
+        name: Essex
+    -   
         created_at:     
         updated_at:
-  		name: Franklin
-  	-   
+        name: Franklin
+    -   
         created_at:     
         updated_at:
-  		name: Grand Isle
-  	-   
+        name: Grand Isle
+    -   
         created_at:     
         updated_at:
-  		name: Orange
-  	-   
+        name: Orange
+    -   
         created_at:     
         updated_at:
-  		name: Orleans
-  	-   
+        name: Orleans
+    -   
         created_at:     
         updated_at:
-  		name: Rutland
-  	-   
+        name: Rutland
+    -   
         created_at:     
         updated_at:
-  		name: Washington
-  	-   
+        name: Washington
+    -   
         created_at:     
         updated_at:
-  		name: Windham
-  	-   
+        name: Windham
+    -   
         created_at:     
         updated_at:
-  		name: Windsor
+        name: Windsor
