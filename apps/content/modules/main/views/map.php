@@ -23,10 +23,10 @@
               			<span class='caret'></span>
               			</a>
               			<ul class='dropdown-menu'>
-              				<!--Dropdown menu links -->	
+              				<!--Dropdown menu links -->
               			</ul>
               		</div>
-              	</a>   
+              	</a>
               </div>
 
               <li><label class='checkbox'><input type='checkbox' value=''>Necap Scores</label></li>
@@ -168,13 +168,13 @@
 			});
 
 			var chittidenPolygon = new google.maps.Polygon({
-				path: chittidenPoints,
+				path: chittendenPoints,
 				strokeColor: '#f33f00',
 				strokeOpacity: 1,
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#5D5FB2',
-				county_name: 'chittiden'
+				county_name: 'chittenden'
 			});
 
 			var essexPolygon = new google.maps.Polygon({
@@ -349,8 +349,8 @@
 			function seeDetailView(event)
 			{
 				var name = this.county_name;
-				alert( "Latitude: "+event.latLng.lat()+" "+", longitude: "+event.latLng.lng() );
-				//window.location = '/main/county/name/'+name;
+				//alert( "Latitude: "+event.latLng.lat()+" "+", longitude: "+event.latLng.lng() );
+				window.location = '/main/county/name/'+name;
 			}
 		}
 		google.maps.event.addDomListener(window, 'load', initialize);
