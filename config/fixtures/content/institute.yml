@@ -2,653 +2,653 @@ table_name: institute
 records:
     -
         school_id: PA003
-        district_id: Caledonia
+        county: Caledonia
         name: Lyndon Institute
     -
         school_id: PS051
-        district_id: Caledonia
+        county: Caledonia
         name: Burke Town School
     -
         school_id: PS066
-        district_id: Chittenden
+        county: Chittenden
         name: Champlain Valley UHSD #15
     -
         school_id: PS201
-        district_id: 
+        county: 
         name: Newark School
     -
         school_id: PS122
-        district_id: 
+        county: 
         name: Grand Isle Elem. School
     -
         school_id: PS015
         name: Bakersfield School
-        district_id: 
+        county: 
     -
         school_id: PS209
         name: North Hero Elem. School
-        district_id: 
+        county: 
     -
         school_id: PS085
         name: Dorset School
-        district_id: 
+        county: 
     -
         school_id: PS322
         name: Washington Village School
-        district_id: 
+        county: 
     -
         school_id: PS215
         name: Orange Center School
-        district_id: 
+        county: 
     -
         school_id: PS173
         name: Main Street School
-        district_id: 
+        county: 
     -
         school_id: PS368
         name: Woodstock Union Middle School
-        district_id: Windsor
+        county: Windsor
     -
         school_id: PS348
         name: Windsor High School
-        district_id: Windsor
+        county: Windsor
     -
         school_id: PS186
         name: Milton Sr High School
-        district_id: 
+        county: 
     -
         school_id: PS177
         name: Marlboro Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS044
         name: Brighton Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS304
         name: Twinfield USD #33
-        district_id: Washington
+        county: Washington
     -
         school_id: PS134
         name: Hartford High School
-        district_id: 
+        county: 
     -
         school_id: PS007
         name: Albany Community School
-        district_id: 
+        county: 
     -
         school_id: PS253
         name: Rutland Senior High School
-        district_id: Rutland
+        county: Rutland
     -
         school_id: PS195
         name: Mount Abraham UHSD #28
-        district_id: Addison
+        county: Addison
     -
         school_id: PS295
         name: Swanton Schools
-        district_id: 
+        county: 
     -
         school_id: PS087
         name: Dummerston Schools
-        district_id: 
+        county: 
     -
         school_id: PS018
         name: Barnet Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS040
         name: Brattleboro Sr. UHSD #6
-        district_id: Windham
+        county: Windham
     -
         school_id: PS361
         name: Weathersfield Middle School
-        district_id: 
+        county: 
     -
         school_id: PS316
         name: Walden School
-        district_id: Caledonia
+        county: Caledonia
     -
         school_id: PA005
         name: Thetford Academy
-        district_id: Orange
+        county: Orange
     -
         school_id: PS218
         name: Orwell Village School
-        district_id: 
+        county: 
     -
         school_id: PS324
         name: Waterford Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS273
         name: Frederick H. Tuttle Middle Sch
-        district_id: 
+        county: 
     -
         school_id: PS098
         name: Enosburg Falls Jr/Sr High Sch
-        district_id: Franklin
+        county: Franklin
     -
         school_id: PS404
         name: Lamoille Union Middle School
-        district_id: 
+        county: 
     -
         school_id: PI004
         name: Rivendell Academy
-        district_id: 
+        county: 
     -
         school_id: PS233
         name: Proctor Jr/Sr High School
-        district_id: Rutland
+        county: Rutland
     -
         school_id: PS073
         name: Colchester Middle School
-        district_id: Chittenden
+        county: Chittenden
     -
         school_id: PS407
         name: Weathersfield School
-        district_id: 
+        county: 
     -
         school_id: PS400
         name: St Johnsbury School
-        district_id: 
+        county: 
     -
         school_id: PS095
         name: Edmunds Middle School
-        district_id: 
+        county: 
     -
         school_id: PS068
         name: Charlotte Central School
-        district_id: 
+        county: 
     -
         school_id: PA002
         name: Burr And Burton Academy
-        district_id: Bennington
+        county: Bennington
     -
         school_id: PS247
         name: Rochester Elem/High School
-        district_id: Windsor
+        county: Windsor
     -
         school_id: PS220
         name: Oxbow UHSD #30
-        district_id: Orange
+        county: Orange
     -
         school_id: PS118
         name: Glover Village School
-        district_id: 
+        county: 
     -
         school_id: PS196
         name: Mt. Anthony Sr. UHSD #14
-        district_id: 
+        county: 
     -
         school_id: PS021
         name: Barstow Memorial School
-        district_id: 
+        county: 
     -
         school_id: PS071
         name: Clarendon Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS242
         name: Richford Jr/Sr High School
-        district_id: Franklin
+        county: Franklin
     -
         school_id: PS055
         name: Cabot School
-        district_id: Washington
+        county: Washington
     -
         school_id: PS101
         name: Essex Middle School
-        district_id: Chittenden
+        county: Chittenden
     -
         school_id: PS112
         name: Folsom Ed. And Community Ctr
-        district_id: 
+        county: 
     -
         school_id: PS183
         name: Mill River USD #40
-        district_id: Rutland
+        county: Rutland
     -
         school_id: PS240
         name: Readsboro Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS303
         name: Tunbridge Central School
-        district_id: 
+        county: 
     -
         school_id: PS067
         name: Charleston Elem. School
-        district_id: 
+        county: 
     -
         school_id: PS011
         name: Arlington Memorial
-        district_id: Bennington
+        county: Bennington
     -
         school_id: PS027
         name: Bellows Free Academy (Fairfax)
-        district_id: Franklin
+        county: Franklin
     -
         school_id: PS158
         name: Lamoille UHSD #18
-        district_id: 
+        county: 
     -
         school_id: PS217
         name: Orleans Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS206
         name: Newton Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS405
         name: Bellows Free Academy (Fairfax)
-        district_id: Franklin
+        county: Franklin
     -
         school_id: PS147
         name: Irasburg Village School
-        district_id: 
+        county: 
     -
         school_id: PS069
         name: Chelsea Elem. High School
-        district_id: Orange
+        county: Orange
     -
         school_id: PS104
         name: Fair Haven UHSD #16
-        district_id: 
+        county: 
     -
         school_id: PS180
         name: Middlebury Sr. UHSD #3
-        district_id: Addison
+        county: Addison
     -
         school_id: PS035
         name: Black River USD #39
-        district_id: Windsor
+        county: Windsor
     -
         school_id: PS394
         name: Peoples Academy Middle School
-        district_id: Lamoille
+        county: Lamoille
     -
         school_id: PS166
         name: Lowell Graded School
-        district_id: 
+        county: 
     -
         school_id: PS020
         name: Barre Town Middle And Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS049
         name: Brownington Central School
-        district_id: 
+        county: 
     -
         school_id: PS190
         name: Montgomery Center School
-        district_id: 
+        county: 
     -
         school_id: PS031
         name: Benson Village School
-        district_id: 
+        county: 
     -
         school_id: PS124
         name: Green Mountain UHSD #35
-        district_id: Windsor
+        county: Windsor
     -
         school_id: PS288
         name: St Albans City School
-        district_id: 
+        county: 
     -
         school_id: PS184
         name: Millers Run USD #37
-        district_id: 
+        county: 
     -
         school_id: PS022
         name: Barton Graded School
-        district_id: 
+        county: 
     -
         school_id: PS401
         name: Winooski Middle School
-        district_id: 
+        county: 
     -
         school_id: PS169
         name: Lyman C. Hunt Middle School
-        district_id: 
+        county: 
     -
         school_id: PS025
         name: Bellows Falls UHSD #27
-        district_id: Franklin
+        county: Franklin
     -
         school_id: PS349
         name: Windsor State Street School
-        district_id: 
+        county: 
     -
         school_id: PS266
         name: Sheldon Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS139
         name: Hazen UHSD #26
-        district_id: Caledonia
+        county: Caledonia
     -
         school_id: PS351
         name: Winooski High School
-        district_id: Chittenden
+        county: Chittenden
     -
         school_id: PS059
         name: Canaan Schools
-        district_id: Essex
+        county: Essex
     -
         school_id: PS264
         name: Shelburne Community School
-        district_id: 
+        county: 
     -
         school_id: PS305
         name: U-32 High School (UHSD #32)
-        district_id: 
+        county: 
     -
         school_id: Preliminary Report"
         name: 
-        district_id: 
+        county: 
     -
         school_id: PS117
         name: Georgia Elem/Middle School
-        district_id: 
+        county: 
     -
         school_id: PS245
         name: Riverside School
-        district_id: 
+        county: 
     -
         school_id: PS074
         name: Concord Schools
-        district_id: Essex
+        county: Essex
     -
         school_id: PS237
         name: Randolph UHSD #2
-        district_id: Orange
+        county: Orange
     -
         school_id: PS185
         name: Milton Middle School
-        district_id: 
+        county: 
     -
         school_id: PS234
         name: Putney Central School
-        district_id: Windham
+        county: Windham
     -
         school_id: PS367
         name: Bratt. Area Middle Sch UHSD #6
-        district_id: 
+        county: 
     -
         school_id: PS135
         name: Hartford Mem. Middle School
-        district_id: Windsor
+        county: Windsor
     -
         school_id: PS061
         name: Castleton-Hubbardton USD #42
-        district_id: 
+        county: 
     -
         school_id: PS170
         name: Lyndon Town School
-        district_id: Caledonia
+        county: Caledonia
     -
         school_id: PS381
         name: Barre City Elem/Middle School
-        district_id: 
+        county: 
     -
         school_id: PS208
         name: North Country Sr UHSD #22
-        district_id: Orleans
+        county: Orleans
     -
         school_id: PS090
         name: East Haven School
-        district_id: 
+        county: 
     -
         school_id: PS393
         name: Harwood Union Middle UHSD #19
-        district_id: 
+        county: 
     -
         school_id: PS105
         name: Fairfield Center School
-        district_id: 
+        county: 
     -
         school_id: PS161
         name: Leland And Gray UHSD #34
-        district_id: Windham
+        county: Windham
     -
         school_id: PS344
         name: Williamstown Middle/High Sch
-        district_id: Orange
+        county: Orange
     -
         school_id: PA004
         name: St Johnsbury Academy
-        district_id: Caledonia
+        county: Caledonia
     -
         school_id: PS356
         name: Woodstock Sr. UHSD #4
-        district_id: 
+        county: 
     -
         school_id: PS312
         name: Vergennes UHSD #5
-        district_id: Addison
+        county: Addison
     -
         school_id: PS338
         name: Whitcomb Jr/Sr High School
-        district_id: Windsor
+        county: Windsor
     -
         school_id: PS009
         name: Albert D. Lawton School
-        district_id: 
+        county: 
     -
         school_id: PS365
         name: Rutland Middle School
-        district_id: Rutland
+        county: Rutland
     -
         school_id: PS403
         name: Twin Valley Middle School
-        district_id: 
+        county: 
     -
         school_id: PS050
         name: Browns River Middle USD #17
-        district_id: 
+        county: 
     -
         school_id: PS077
         name: Coventry Village School
-        district_id: 
+        county: 
     -
         school_id: PS103
         name: Fair Haven Grade School
-        district_id: Rutland
+        county: Rutland
     -
         school_id: PA001
         name: Bellows Free Academy (St. Albans)
-        district_id: Franklin
+        county: Franklin
     -
         school_id: PS111
         name: Flood Brook USD #20
-        district_id: 
+        county: 
     -
         school_id: PS168
         name: Lunenburg Schools
-        district_id: 
+        county: 
     -
         school_id: PS274
         name: So. Royalton Elem/High School
-        district_id: Windsor
+        county: Windsor
     -
         school_id: PS010
         name: Alburgh Community Ed Center
-        district_id: 
+        county: 
     -
         school_id: PS219
         name: Otter Valley UHSD #8
-        district_id: Rutland
+        county: Rutland
     -
         school_id: PS278
         name: Springfield High School
-        district_id: Windsor
+        county: Windsor
     -
         school_id: PS406
         name: Bellows Free Academy (St Albans)
-        district_id: Franklin
+        county: Franklin
     -
         school_id: PS287
         name: Stowe Middle-High School
-        district_id: Lamoille
+        county: Lamoille
     -
         school_id: PS258
         name: Rutland Town Elem School
-        district_id: Rutland
+        county: Rutland
     -
         school_id: PS289
         name: St. Albans Town Educ. Center
-        district_id: 
+        county: 
     -
         school_id: PS078
         name: Craftsbury Schools
-        district_id: Orleans
+        county: Orleans
     -
         school_id: PS128
         name: Guilford Central School
-        district_id: 
+        county: 
     -
         school_id: PS082
         name: Danville School
-        district_id: Caledonia
+        county: Caledonia
     -
         school_id: PS175
         name: Manchester Elem/Middle School
-        district_id: 
+        county: 
     -
         school_id: PS197
         name: Mt. Anthony Union Middle Sch
-        district_id: 
+        county: 
     -
         school_id: PS224
         name: Peoples Academy
-        district_id: 
+        county: 
     -
         school_id: PS302
         name: Troy School
-        district_id: 
+        county: 
     -
         school_id: PS199
         name: Mt. Mansfield USD #17
-        district_id: Lamoille
+        county: Lamoille
     -
         school_id: PS230
         name: Poultney High School
-        district_id: Rutland
+        county: Rutland
     -
         school_id: PS388
         name: Essex Comm. Ed. Ctr. UHSD #46
-        district_id: Chittenden
+        county: Chittenden
     -
         school_id: PS024
         name: Bellows Falls Middle School
-        district_id: Windham
+        county: Windham
     -
         school_id: PS191
         name: Montpelier High School
-        district_id: Washington
+        county: Washington
     -
         school_id: PS398
         name: Williston Schools
-        district_id: 
+        county: 
     -
         school_id: PS331
         name: West Rutland School
-        district_id: Rutland
+        county: Rutland
     -
         school_id: PS369
         name: Ontop
-        district_id: 
+        county: 
     -
         school_id: PS129
         name: Halifax West School
-        district_id: 
+        county: 
     -
         school_id: PS187
         name: Missisquoi Valley UHSD #7
-        district_id: Franklin
+        county: Franklin
     -
         school_id: PS058
         name: Camels Hump Middle USD #17
-        district_id: 
+        county: 
     -
         school_id: PS364
         name: North Country Jr UHSD #22
-        district_id: 
+        county: 
     -
         school_id: PS036
         name: Blue Mountain USD #21
-        district_id: Orange
+        county: Orange
     -
         school_id: PS205
         name: Newport Town School
-        district_id: 
+        county: 
     -
         school_id: PS284
         name: Stamford Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS366
         name: Middlebury Union Middle Sch #3
-        district_id: 
+        county: 
     -
         school_id: PS138
         name: Harwood UHSD #19
-        district_id: Washington
+        county: Washington
     -
         school_id: PS333
         name: Westford Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS072
         name: Colchester High School
-        district_id: 
+        county: 
     -
         school_id: PS346
         name: Twin Valley High School
-        district_id: Windham    
+        county: Windham    
     -
         school_id: PS137
         name: Hartland Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS294
         name: Sutton Village School
-        district_id: 
+        county: 
     -
         school_id: PS143
         name: Hinesburg Community School
-        district_id: 
+        county: 
     -
         school_id: PS032
         name: Berkshire Elementary School
-        district_id: 
+        county: 
     -
         school_id: PS052
         name: Burlington Senior High Sch
-        district_id: Chittenden
+        county: Chittenden
     -
         school_id: PS391
         name: Crossett Brook Middle USD #45
-        district_id: 
+        county: 
     -
         school_id: PS276
         name: Spaulding Hsud #41
-        district_id: Washington
+        county: Washington
     -
         school_id: PS157
         name: Lake Region UHSD #24
-        district_id: Orleans
+        county: Orleans
     -
         school_id: PS272
         name: So. Burlington High School
-        district_id: Chittenden
+        county: Chittenden
     -
         school_id: PS310
         name: Waits River Valley USD #36
-        district_id: 
+        county: 
     -
         school_id: PS211
         name: Northfield Middle/High School
-        district_id: Washington
+        county: Washington
