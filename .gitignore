@@ -1,2 +1,5 @@
 .DS_Store
 vendor/*
+config/db.tml
+access.log
+error.log
