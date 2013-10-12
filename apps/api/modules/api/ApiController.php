@@ -237,7 +237,7 @@ class ApiController extends Dinkly
 			return false;
 	}
 
-	public function loadSchool($params)
+	public function loadInstitute($params)
 	{
 		$id = isset($params['id']) ? $params['id'] : NULL;
 		if ( is_null($id) )
@@ -251,13 +251,13 @@ class ApiController extends Dinkly
 			case 'GET':
 				if ( isset($id) ) 
 					{
-						$county = new School();
+						$county = new Institute();
 						$county->init($id);
 						$response = $county->to_json();
 					} 
 				else 
 					{
-						$collection = SchoolCollection::getAll();
+						$collection = InstituteCollection::getAll();
 						if(count($collection) > 0)
 							$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
 						else
@@ -268,7 +268,7 @@ class ApiController extends Dinkly
 			case 'POST':
 				if ( isset( $request->name ) )
 					{
-						$county = new School();
+						$county = new Institute();
 						$county->setName( $request->name );
 						$county->setSchoolId( $request->school_id );
 						$county->setDistrictId( $request->district_id );
@@ -289,7 +289,7 @@ class ApiController extends Dinkly
 				{
 					if ( isset( $request->name ) )
 						{
-							$county = new School();
+							$county = new Institute();
 							$county->init($id);
 
 							if( isset( $county->Id ) )
@@ -315,7 +315,7 @@ class ApiController extends Dinkly
 			case 'DELETE':
 				if ( isset($id ) )
 				{
-					$county = new School();
+					$county = new Institute();
 					$county->init($id);
 					if( isset( $county->Id ) )
 						if ( $county->delete() )
@@ -344,7 +344,7 @@ class ApiController extends Dinkly
 
 		not_found:
 			header('HTTP/1.1 404 Not Found');
-			$response = "{ \"error\" : \"Could not find School\" }";
+			$response = "{ \"error\" : \"Could not find Institute\" }";
 			$this->handleResponse($response);
 			return false;
 	}
@@ -383,8 +383,8 @@ class ApiController extends Dinkly
 						$county = new Dropout();
 						$county->setSchoolId( $request->school_id );
 						$county->setYear( $request->year );
-						$county->setNine2Twelve( $request->nine_2_twelve );
-						$county->setSeven2Twelve( $request->seven_2_twelve );
+						$county->setNine2Twelve( $request->nine2twelve );
+						$county->setSeven2Twelve( $request->seven2twelve );
 						if( $county->save() )
 						{
 							$response = $county->to_json();
@@ -409,8 +409,8 @@ class ApiController extends Dinkly
 								{
 									$county->setSchoolId( $request->school_id );
 									$county->setYear( $request->year );
-									$county->setNine2Twelve( $request->nine_2_twelve );
-									$county->setSeven2Twelve( $request->seven_2_twelve );
+									$county->setNine2Twelve( $request->nine2twelve );
+									$county->setSeven2Twelve( $request->seven2twelve );
 									if( $county->save() )
 										$response = $county->to_json();
 									else
@@ -459,6 +459,120 @@ class ApiController extends Dinkly
 		not_found:
 			header('HTTP/1.1 404 Not Found');
 			$response = "{ \"error\" : \"Could not find Dropout\" }";
+			$this->handleResponse($response);
+			return false;
+	}
+
+	public function loadCompletion($params)
+	{
+		$id = isset($params['id']) ? $params['id'] : NULL;
+		if ( is_null($id) )
+			unset($id);
+
+		$request = json_decode(file_get_contents('php://input'));
+
+		$response = null;
+		switch($_SERVER['REQUEST_METHOD'])
+		{
+			case 'GET':
+				if ( isset($id) ) 
+					{
+						$county = new Completion();
+						$county->init($id);
+						$response = $county->to_json();
+					} 
+				else 
+					{
+						$collection = CompletionCollection::getAll();
+						if(count($collection) > 0)
+							$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
+						else
+							$response = "[]";
+					}
+				break;
+
+			case 'POST':
+				if ( isset( $request->school_id ) )
+					{
+						$county = new Completion();
+						$county->setSchoolId( $request->school_id );
+						$county->setYear( $request->year );
+						$county->setNine2Twelve( $request->nine2twelve );
+						$county->setSeven2Twelve( $request->seven2twelve );
+						if( $county->save() )
+						{
+							$response = $county->to_json();
+						}
+						else
+							goto bad_request;
+					}
+				else
+					goto bad_request;
+				
+				break;
+
+			case 'PUT':
+				if ( isset($id) ) 
+				{
+					if ( isset( $request->school_id ) )
+						{
+							$county = new Completion();
+							$county->init($id);
+
+							if( isset( $county->Id ) )
+								{
+									$county->setSchoolId( $request->school_id );
+									$county->setYear( $request->year );
+									$county->setNine2Twelve( $request->nine2twelve );
+									$county->setSeven2Twelve( $request->seven2twelve );
+									if( $county->save() )
+										$response = $county->to_json();
+									else
+										goto bad_request;
+								}
+							else
+								goto not_found;
+						}
+					else
+						goto bad_request;
+				}
+				else
+					goto bad_request;
+				break;
+
+			case 'DELETE':
+				if ( isset($id ) )
+				{
+					$county = new Completion();
+					$county->init($id);
+					if( isset( $county->Id ) )
+						if ( $county->delete() )
+							$response = $county->to_json();
+						else
+							goto bad_request;
+					else
+						goto not_found;
+				}
+				else
+				{
+					goto bad_request;
+				}
+				break;
+		}
+
+		$this->handleResponse($response);
+
+		return false;
+
+		bad_request:
+			header('HTTP/1.1 400 Bad Request');
+			$response = "{ \"error\" : \"Bad Request\" }";
+			$this->handleResponse($response);
+			return false;
+
+		not_found:
+			header('HTTP/1.1 404 Not Found');
+			$response = "{ \"error\" : \"Could not find Completion\" }";
 			$this->handleResponse($response);
 			return false;
 	}

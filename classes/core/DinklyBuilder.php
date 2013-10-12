@@ -521,7 +521,7 @@ class DinklyBuilder extends Dinkly
 		if($has_id) { $sql .= " AUTO_INCREMENT=1"; }
 
 		$sql .= ";";
-
+		
 		//Create the table
 		$db->exec($sql);
 		

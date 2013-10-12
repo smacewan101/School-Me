@@ -1,8 +1,8 @@
-table_name: school
+table_name: institute
 registry:
   - id
   - created_at
   - updated_at
   - name: { type: varchar, length: 64, allow_null: false }
   - school_id: {type: varchar, length: 10, allow_null: true}
-  - district_id: { type: varchar, allow_null: false }
+  - district_id: { type: varchar, length: 10, allow_null: true }

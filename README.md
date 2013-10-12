@@ -113,11 +113,11 @@ Dropout has the following fields:
             <td>The year for this dropout statistics information</td>
         </tr>           
         <tr>
-            <td>nine_2_twelve</td>
+            <td>nine2twelve</td>
             <td>Percentage of drop outs that occured between 9-12th grade</td>
         </tr>           
         <tr>
-            <td>seven_2_twelve</td>
+            <td>seven2twelve</td>
             <td>Percentage of drop outs that occured between 7-12 grade</td>
         </tr>           
         <tr>
