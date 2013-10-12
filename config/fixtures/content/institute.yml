@@ -14,6 +14,11 @@ records:
         name: Champlain Valley UHSD #15
     -
         school_id: PS201
+        district_id: Caledonia
+        name: Newark School
+    -
+        school_id: PS122
+        district_id: Grand Isle  
         county: 
         name: Newark School
     -
@@ -23,6 +28,27 @@ records:
     -
         school_id: PS015
         name: Bakersfield School
+        district_id: Franklin
+    -
+        school_id: PS209
+        name: North Hero Elem. School
+        district_id: Grand Isle
+    -
+        school_id: PS085
+        name: Dorset School
+        district_id: Bennington
+    -
+        school_id: PS322
+        name: Washington Village School
+        district_id: Orange
+    -
+        school_id: PS215
+        name: Orange Center School
+        district_id: Washington
+    -
+        school_id: PS173
+        name: Main Street School
+        district_id: Washington
         county: 
     -
         school_id: PS209
@@ -59,8 +85,12 @@ records:
     -
         school_id: PS177
         name: Marlboro Elementary School
-        county: 
+        district_id: Windham
     -
+        school_id: PS044
+        name: Brighton Elementary School
+        county: Essex
+
         school_id: PS044
         name: Brighton Elementary School
         county: 
@@ -75,7 +105,7 @@ records:
     -
         school_id: PS007
         name: Albany Community School
-        county: 
+        county: Orleans
     -
         school_id: PS253
         name: Rutland Senior High School
@@ -91,7 +121,11 @@ records:
     -
         school_id: PS087
         name: Dummerston Schools
-        county: 
+        district_id: Windham
+    -
+        school_id: PS018
+        name: Barnet Elementary School
+        county: Caledonia
     -
         school_id: PS018
         name: Barnet Elementary School
@@ -103,7 +137,7 @@ records:
     -
         school_id: PS361
         name: Weathersfield Middle School
-        county: 
+        county: Windsor
     -
         school_id: PS316
         name: Walden School
@@ -115,7 +149,15 @@ records:
     -
         school_id: PS218
         name: Orwell Village School
-        county: 
+        district_id: Addison
+    -
+        school_id: PS324
+        name: Waterford Elementary School
+        district_id: Caledonia
+    -
+        school_id: PS273
+        name: Frederick H. Tuttle Middle Sch
+        county: Chittenden
     -
         school_id: PS324
         name: Waterford Elementary School
@@ -135,8 +177,8 @@ records:
     -
         school_id: PI004
         name: Rivendell Academy
-        county: 
-    -
+        county:: Orange
+
         school_id: PS233
         name: Proctor Jr/Sr High School
         county: Rutland
@@ -147,7 +189,7 @@ records:
     -
         school_id: PS407
         name: Weathersfield School
-        county: 
+        county: Windsor
     -
         school_id: PS400
         name: St Johnsbury School
@@ -175,7 +217,7 @@ records:
     -
         school_id: PS118
         name: Glover Village School
-        county: 
+        county: Orleans
     -
         school_id: PS196
         name: Mt. Anthony Sr. UHSD #14
@@ -183,7 +225,7 @@ records:
     -
         school_id: PS021
         name: Barstow Memorial School
-        county: 
+        county: Rutland
     -
         school_id: PS071
         name: Clarendon Elementary School
@@ -203,7 +245,7 @@ records:
     -
         school_id: PS112
         name: Folsom Ed. And Community Ctr
-        county: 
+        county: Grand Isle
     -
         school_id: PS183
         name: Mill River USD #40
@@ -239,7 +281,7 @@ records:
     -
         school_id: PS206
         name: Newton Elementary School
-        county: 
+        county: Orange
     -
         school_id: PS405
         name: Bellows Free Academy (Fairfax)
@@ -247,7 +289,7 @@ records:
     -
         school_id: PS147
         name: Irasburg Village School
-        county: 
+        county: Orleans
     -
         school_id: PS069
         name: Chelsea Elem. High School
@@ -315,6 +357,7 @@ records:
     -
         school_id: PS025
         name: Bellows Falls UHSD #27
+        district_id: Windham
         county: Franklin
     -
         school_id: PS349
@@ -375,7 +418,7 @@ records:
     -
         school_id: PS367
         name: Bratt. Area Middle Sch UHSD #6
-        county: 
+        county: Windham
     -
         school_id: PS135
         name: Hartford Mem. Middle School
@@ -383,7 +426,7 @@ records:
     -
         school_id: PS061
         name: Castleton-Hubbardton USD #42
-        county: 
+        county: Rutland
     -
         school_id: PS170
         name: Lyndon Town School
@@ -391,7 +434,7 @@ records:
     -
         school_id: PS381
         name: Barre City Elem/Middle School
-        county: 
+        county: Washington
     -
         school_id: PS208
         name: North Country Sr UHSD #22
@@ -399,7 +442,15 @@ records:
     -
         school_id: PS090
         name: East Haven School
-        county: 
+        district_id: Essex
+    -
+        school_id: PS393
+        name: Harwood Union Middle UHSD #19
+        district_id: Washington
+    -
+        school_id: PS105
+        name: Fairfield Center School
+        county: Franklin
     -
         school_id: PS393
         name: Harwood Union Middle UHSD #19
@@ -423,7 +474,7 @@ records:
     -
         school_id: PS356
         name: Woodstock Sr. UHSD #4
-        county: 
+        county: Windsor
     -
         school_id: PS312
         name: Vergennes UHSD #5
@@ -435,7 +486,7 @@ records:
     -
         school_id: PS009
         name: Albert D. Lawton School
-        county: 
+        county: Chittenden
     -
         school_id: PS365
         name: Rutland Middle School
@@ -443,7 +494,15 @@ records:
     -
         school_id: PS403
         name: Twin Valley Middle School
-        county: 
+        district_id: Windham
+    -
+        school_id: PS050
+        name: Browns River Middle USD #17
+        district_id: Chittenden
+    -
+        school_id: PS077
+        name: Coventry Village School
+        county: Orleans
     -
         school_id: PS050
         name: Browns River Middle USD #17
@@ -467,15 +526,15 @@ records:
     -
         school_id: PS168
         name: Lunenburg Schools
-        county: 
-    -
+        county: Essex
+
         school_id: PS274
         name: So. Royalton Elem/High School
         county: Windsor
     -
         school_id: PS010
         name: Alburgh Community Ed Center
-        county: 
+        county: Grand Isle
     -
         school_id: PS219
         name: Otter Valley UHSD #8
@@ -499,15 +558,15 @@ records:
     -
         school_id: PS289
         name: St. Albans Town Educ. Center
-        county: 
-    -
+        county: Franklin
+
         school_id: PS078
         name: Craftsbury Schools
         county: Orleans
     -
         school_id: PS128
         name: Guilford Central School
-        county: 
+        county: Windham
     -
         school_id: PS082
         name: Danville School
@@ -515,7 +574,19 @@ records:
     -
         school_id: PS175
         name: Manchester Elem/Middle School
-        county: 
+        district_id: Bennington
+    -
+        school_id: PS197
+        name: Mt. Anthony Union Middle Sch
+        district_id: Bennington
+    -
+        school_id: PS224
+        name: Peoples Academy
+        district_id: Lamoille
+    -
+        school_id: PS302
+        name: Troy School
+        county: Orleans
     -
         school_id: PS197
         name: Mt. Anthony Union Middle Sch
@@ -527,7 +598,7 @@ records:
     -
         school_id: PS302
         name: Troy School
-        county: 
+        county:
     -
         school_id: PS199
         name: Mt. Mansfield USD #17
@@ -551,7 +622,7 @@ records:
     -
         school_id: PS398
         name: Williston Schools
-        county: 
+        county: Chittenden
     -
         school_id: PS331
         name: West Rutland School
@@ -559,7 +630,11 @@ records:
     -
         school_id: PS369
         name: Ontop
-        county: 
+        district_id: Chittenden
+    -
+        school_id: PS129
+        name: Halifax West School
+        county: Windham
     -
         school_id: PS129
         name: Halifax West School
@@ -571,7 +646,11 @@ records:
     -
         school_id: PS058
         name: Camels Hump Middle USD #17
-        county: 
+        district_id: Chittenden
+    -
+        school_id: PS364
+        name: North Country Jr UHSD #22
+        county: Orleans
     -
         school_id: PS364
         name: North Country Jr UHSD #22
@@ -583,7 +662,15 @@ records:
     -
         school_id: PS205
         name: Newport Town School
-        county: 
+        district_id: Orleans
+    -
+        school_id: PS284
+        name: Stamford Elementary School
+        district_id: Bennington
+    -
+        school_id: PS366
+        name: Middlebury Union Middle Sch #3
+        county: Addison
     -
         school_id: PS284
         name: Stamford Elementary School
@@ -591,7 +678,7 @@ records:
     -
         school_id: PS366
         name: Middlebury Union Middle Sch #3
-        county: 
+        county: Addison
     -
         school_id: PS138
         name: Harwood UHSD #19
@@ -599,11 +686,15 @@ records:
     -
         school_id: PS333
         name: Westford Elementary School
-        county: 
+        district_id: Chittenden
     -
         school_id: PS072
         name: Colchester High School
-        county: 
+        county: Chittenden
+    -
+        school_id: PS072
+        name: Colchester High School
+        county: Chittenden
     -
         school_id: PS346
         name: Twin Valley High School
@@ -611,7 +702,19 @@ records:
     -
         school_id: PS137
         name: Hartland Elementary School
-        county: 
+        district_id: Windsor
+    -
+        school_id: PS294
+        name: Sutton Village School
+        district_id: Caledonia
+    -
+        school_id: PS143
+        name: Hinesburg Community School
+        district_id: Chittenden
+    -
+        school_id: PS032
+        name: Berkshire Elementary School
+        county: Franklin
     -
         school_id: PS294
         name: Sutton Village School
@@ -631,7 +734,7 @@ records:
     -
         school_id: PS391
         name: Crossett Brook Middle USD #45
-        county: 
+        county: Washington
     -
         school_id: PS276
         name: Spaulding Hsud #41
