@@ -7,16 +7,25 @@
 	/*#map-canvas { height: 800px }
 */</style>
 
+<script type="text/javascript">
+$('.row .btn').on('click', function(e) {
+    e.preventDefault();
+    var $this = $(this);
+    var $collapse = $this.closest('.collapse-group').find('.collapse');
+    $collapse.collapse('toggle');
+});
+</script>
+
 <div class='container-fluid'>
 	<div class='row-fluid'>
 	<!--sidebar -->
-	 <div class="span3">
+	 <div class="span3 collapse-group">
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header">Parameters</li>
-              <div class='accordion-heading'>
-              	<li><label class="checkbox"><input type="checkbox" name='dropOuts' value="">Drop outs by year</label></li>
-              	<a class='accordion-toggle' data-toggle='collapse' data-parent='#accordionParent' href="#collapseone">
+              	<li><label class="checkbox"><input type="checkbox" name='dropOuts' value="">Dropouts by year</label></li>
+              		<p class='collapse'>this is a test</p>
+              	<a class='collapse'>
               		<div class='btn-group'>
               			<a class='btn dropdown-toggle' data-toggle='dropdown'href="#">
               			Select Year
@@ -24,10 +33,9 @@
               			</a>
               			<ul class='dropdown-menu'>
               				<!--Dropdown menu links -->	
-              			</ul>
+              			</ul>   
               		</div>
-              	</a>   
-              </div>
+              		</a>
 
               <li><label class='checkbox'><input type='checkbox' value=''>Necap Scores</label></li>
               <li><a href="#">Link</a></li>
