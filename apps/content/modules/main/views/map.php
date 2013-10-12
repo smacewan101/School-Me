@@ -10,31 +10,31 @@
 <div class='container-fluid'>
 	<div class='row-fluid'>
 	<!--sidebar -->
-	 <div class="span2">
-	          <div class="well sidebar-nav">
-	            <ul class="nav nav-list">
-	              <li class="nav-header">Sidebar</li>
-	              <li class="active"><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	              <li class="nav-header">Sidebar</li>
-	              <li><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	              <li class="nav-header">Sidebar</li>
-	              <li><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	              <li><a href="#">Link</a></li>
-	            </ul>
-	          </div><!--/.well -->
+	 <div class="span3">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">Sidebar</li>
+              <li class="active"><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li class="nav-header">Sidebar</li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li class="nav-header">Sidebar</li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+            </ul>
+          </div><!--/.well -->
 	 </div><!--/span-->
 
 	<!--map-->
-	<div class='span10'>
+	<div class='span9'>
 		<div class='map-content'>
 		<div id="map-canvas">
 		<script type="text/javascript" src="/js/counties.js"></script>

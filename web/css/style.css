@@ -9,9 +9,6 @@ body {
 	background-color: #00BF4B;
 }
 
-.container {
-	width: 1350px !important;
-}
 
 /*Set the navbar color to green */ 
 .navbar-inverse .navbar-inner {
