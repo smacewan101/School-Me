@@ -1,0 +1,11 @@
+/*Set the navbar color to green */ 
+
+.navbar-inverse .navbar-inner {
+	background-color: #003314;
+	background-image: none;
+}
+
+.navbar-brand {
+	background-color: #003314;
+}
+
