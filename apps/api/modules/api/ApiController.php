@@ -383,8 +383,8 @@ class ApiController extends Dinkly
 						$county = new Dropout();
 						$county->setSchoolId( $request->school_id );
 						$county->setYear( $request->year );
-						$county->setNine2Twelve( $request->nine_2_twelve );
-						$county->setSeven2Twelve( $request->seven_2_twelve );
+						$county->setNine2Twelve( $request->nine2twelve );
+						$county->setSeven2Twelve( $request->seven2twelve );
 						if( $county->save() )
 						{
 							$response = $county->to_json();
@@ -409,8 +409,8 @@ class ApiController extends Dinkly
 								{
 									$county->setSchoolId( $request->school_id );
 									$county->setYear( $request->year );
-									$county->setNine2Twelve( $request->nine_2_twelve );
-									$county->setSeven2Twelve( $request->seven_2_twelve );
+									$county->setNine2Twelve( $request->nine2twelve );
+									$county->setSeven2Twelve( $request->seven2twelve );
 									if( $county->save() )
 										$response = $county->to_json();
 									else
