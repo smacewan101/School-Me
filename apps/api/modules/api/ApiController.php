@@ -355,6 +355,10 @@ class ApiController extends Dinkly
 		if ( is_null($id) )
 			unset($id);
 
+		$sid = isset($params['school_id']) ? $params['school_id'] : NULL;
+		if ( is_null($sid) )
+			unset($sid);
+
 		$request = json_decode(file_get_contents('php://input'));
 
 		$response = null;
@@ -369,11 +373,22 @@ class ApiController extends Dinkly
 					} 
 				else 
 					{
-						$collection = DropoutCollection::getAll();
-						if(count($collection) > 0)
-							$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
+						if( isset($sid) )
+						{
+							$collection =DropoutCollection::getBySchool($sid);
+							if(count($collection) > 0)
+								$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
+							else
+								$response = "[]";
+						}
 						else
-							$response = "[]";
+						{
+							$collection = DropoutCollection::getAll();
+							if(count($collection) > 0)
+								$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
+							else
+								$response = "[]";	
+						}
 					}
 				break;
 
@@ -468,10 +483,12 @@ class ApiController extends Dinkly
 		$id = isset($params['id']) ? $params['id'] : NULL;
 		if ( is_null($id) )
 			unset($id);
+		
 		$sid = isset($params['school_id']) ? $params['school_id'] : NULL;
 		if ( is_null($sid) )
 			unset($sid);
-		error_log(print_r($params,1));
+
+		
 		$request = json_decode(file_get_contents('php://input'));
 
 		$response = null;
@@ -487,7 +504,7 @@ class ApiController extends Dinkly
 				else 
 					{
 						if( isset($sid) ){
-							$collection = CompletionCollection::getCompletionBySchool($sid);
+							$collection = CompletionCollection::getBySchool($sid);
 							if(count($collection) > 0)
 								$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
 							else
