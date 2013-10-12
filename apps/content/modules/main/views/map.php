@@ -88,7 +88,7 @@
 		];
 		var vermontPolygon = new google.maps.Polygon({
 			path: points,
-			strokeColor: '#f33f00',
+			strokeColor: '#000000',
 			strokeOpacity: 1,
 			strokeWeight: 1,
 			fillOpacity: 0.1
@@ -98,112 +98,126 @@
 			path: addisonPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#3D41FF'
 		});
 
 		var benningtonPolygon = new google.maps.Polygon({
 			path: benningtonPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#57B237'
 		});
 
 		var caledoniaPolygon = new google.maps.Polygon({
 			path: caledoniaPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#3D41FF'
 		});
 
 		var chittidenPolygon = new google.maps.Polygon({
 			path: chittidenPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#5D5FB2'
 		});
 
 		var essexPolygon = new google.maps.Polygon({
 			path: essexPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#CC5318'
 		});
 
 		var franklinPolygon = new google.maps.Polygon({
 			path: franklinPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#3D41FF'
 		});
 
 		var grandIslePolygon = new google.maps.Polygon({
 			path: grandIslePoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#CC5318'
 		});
 
 		var lamoillePolygon = new google.maps.Polygon({
 			path: lamoillePoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#57B237'
 		});
 
 		var orangePolygon = new google.maps.Polygon({
 			path: orangePoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#57B237'
 		});
 
 		var orleansPolygon = new google.maps.Polygon({
 			path: orleansPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#5D5FB2'
 		});
 
 		var rutlandPolygon = new google.maps.Polygon({
 			path: rutlandPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#CC5318'
 		});
 
 		var washingtonPolygon = new google.maps.Polygon({
 			path: washingtonPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#CC5318'
 		});
 
 		var windhamPolygon = new google.maps.Polygon({
 			path: windhamPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#3D41FF'
 		});
 
 		var windsorPolygon = new google.maps.Polygon({
 			path: windsorPoints,
 			strokeColor: '#f33f00',
 			strokeOpacity: 1,
-			strokeWeight: 1,
-			fillOpacity: 0.1
+			strokeWeight: 0,
+			fillOpacity: 0.1,
+			fillColor: '#5D5FB2'
 		});
 
 		vermontPolygon.setMap(map);
@@ -211,18 +225,44 @@
 		google.maps.event.addListener(addisonPolygon, 'mousemove', solidOpacity);
 		google.maps.event.addListener(addisonPolygon, 'mouseout', removeOpacity);
 		benningtonPolygon.setMap(map);
+		google.maps.event.addListener(benningtonPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(benningtonPolygon, 'mouseout', removeOpacity);
 		caledoniaPolygon.setMap(map);
+		google.maps.event.addListener(caledoniaPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(caledoniaPolygon, 'mouseout', removeOpacity);
 		chittidenPolygon.setMap(map);
+		google.maps.event.addListener(chittidenPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(chittidenPolygon, 'mouseout', removeOpacity);
 		essexPolygon.setMap(map);
+		google.maps.event.addListener(essexPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(essexPolygon, 'mouseout', removeOpacity);
 		franklinPolygon.setMap(map);
+		google.maps.event.addListener(franklinPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(franklinPolygon, 'mouseout', removeOpacity);
 		grandIslePolygon.setMap(map);
+		google.maps.event.addListener(grandIslePolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(grandIslePolygon, 'mouseout', removeOpacity);
 		lamoillePolygon.setMap(map);
+		google.maps.event.addListener(lamoillePolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(lamoillePolygon, 'mouseout', removeOpacity);
 		orangePolygon.setMap(map);
+		google.maps.event.addListener(orangePolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(orangePolygon, 'mouseout', removeOpacity);
 		orleansPolygon.setMap(map);
+		google.maps.event.addListener(orleansPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(orleansPolygon, 'mouseout', removeOpacity);
 		rutlandPolygon.setMap(map);
+		google.maps.event.addListener(rutlandPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(rutlandPolygon, 'mouseout', removeOpacity);
 		washingtonPolygon.setMap(map);
+		google.maps.event.addListener(washingtonPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(washingtonPolygon, 'mouseout', removeOpacity);
 		windhamPolygon.setMap(map);
+		google.maps.event.addListener(windhamPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(windhamPolygon, 'mouseout', removeOpacity);
 		windsorPolygon.setMap(map);
+		google.maps.event.addListener(windsorPolygon, 'mousemove', solidOpacity);
+		google.maps.event.addListener(windsorPolygon, 'mouseout', removeOpacity);
 		//infoWindow = new google.maps.InfoWindow();
 
 		function solidOpacity(event)
