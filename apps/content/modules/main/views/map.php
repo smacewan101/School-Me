@@ -13,9 +13,23 @@
 	 <div class="span3">
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
-              <li class="nav-header">Sidebar</li>
-              <li class="active"><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
+              <li class="nav-header">Parameters</li>
+              <div class='accordion-heading'>
+              	<li><label class="checkbox"><input type="checkbox" name='dropOuts' value="">Drop outs by year</label></li>
+              	<a class='accordion-toggle' data-toggle='collapse' data-parent='#accordionParent' href="#collapseone">
+              		<div class='btn-group'>
+              			<a class='btn dropdown-toggle' data-toggle='dropdown'href="#">
+              			Select Year
+              			<span class='caret'></span>
+              			</a>
+              			<ul class='dropdown-menu'>
+              				<!--Dropdown menu links -->	
+              			</ul>
+              		</div>
+              	</a>   
+              </div>
+
+              <li><label class='checkbox'><input type='checkbox' value=''>Necap Scores</label></li>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
               <li class="nav-header">Sidebar</li>

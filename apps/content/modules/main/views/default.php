@@ -18,12 +18,12 @@
 					<legend>Legend</legend>
 					<label>Select Filter</label>
 					<select>
-						<option>Counties</option>
+						<option>County</option>
 						<option>County0</option>
 						<option>County1</option>
 					</select>
 					<select>
-						<option>Schools</option>
+						<option>School</option>
 						<option>School1</option>
 					</select>
 				</fieldset>
