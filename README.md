@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 School-Me
 =========
 Built on top of the dinkly framwork. Hurray.
@@ -58,4 +57,3 @@ Contact
 
   - lewsid@lewsid.com
   - github.com/lewsid
->>>>>>> c6132b9eed394616989f00b83955b0e219180a0a

@@ -1,10 +1,10 @@
 dinkly:
     DB_HOST: localhost
     DB_USER: root
-    DB_PASS: sean
+    DB_PASS: root
     DB_NAME: schoolme_dinkly
-content: 
+content:
     DB_HOST: localhost
     DB_USER: root
-    DB_PASS: sean
+    DB_PASS: root
     DB_NAME: schoolme_dinkly
