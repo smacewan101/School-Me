@@ -9,6 +9,11 @@ body {
 	background-color: #00BF4B;
 }
 
+.container-fluid {
+	width: 1200px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
 
 /*Set the navbar color to green */ 
 .navbar-inverse .navbar-inner {
@@ -27,6 +32,6 @@ body {
 }
 #map-canvas {
 	margin-top: 25px;
-	height: 500px;
+	height: 600px;
 	border: 1px solid;
 }
