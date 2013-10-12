@@ -208,14 +208,13 @@ $(document).ready(function() {
 				  success: function(res){
 				  	console.log(res);
 				  	for (var i = res.length - 1; i >= 0; i--) {
-				  		latlng = google.maps.LatLng(res[i].lat,res[i].lng);
+				  		latlng = new google.maps.LatLng(res[i].lat,res[i].lng);
+				  		
 					  	littleWindow = new google.maps.InfoWindow();
 					  	littleWindow.setContent(res[i].county +"<br/>9-12th grade Drop out rate: " + Math.floor(res[i].n2t*100) +"%<br/>"+"7-12 grade drop out rate: " + Math.floor(res[i].s2t*100)+"%");
 					  	littleWindow.setPosition(latlng);
 					  	littleWindow.open(map);
 				  	};
-				  	
-				  	
 				  }
 				});
 			});
