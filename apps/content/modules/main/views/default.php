@@ -27,7 +27,7 @@
 						<option>School1</option>
 					</select>
 				</fieldset>
-				<button class='btn'>Go!</button>
+				<a href="/content/map" class='btn' type='button'>Go!</a>
 			</form>
 		</div>
 	</div>
