@@ -1,0 +1,728 @@
+table_name: town
+records:
+    -
+        town: Addison
+        county: Addison
+    -
+        town: Bridport
+        county: Addison
+    -
+        town: Bristol
+        county: Addison
+    -
+        town: Cornwall
+        county: Addison
+    -
+        town: Ferrisburg
+        county: Addison
+    -
+        town: Goshen
+        county: Addison
+    -
+        town: Granville
+        county: Addison
+    -
+        town: Hancock
+        county: Addison
+    -
+        town: Leicester
+        county: Addison
+    -
+        town: Lincoln
+        county: Addison
+    -
+        town: Middlebury
+        county: Addison
+    -
+        town: Monkton
+        county: Addison
+    -
+        town: New Haven
+        county: Addison
+    -
+        town: Orwell
+        county: Addison
+    -
+        town: Panton
+        county: Addison
+    -
+        town: Ripton
+        county: Addison
+    -
+        town: Salisbury
+        county: Addison
+    -
+        town: Shoreham
+        county: Addison
+    -
+        town: Starksboro
+        county: Addison
+    -
+        town: Waltham
+        county: Addison
+    -
+        town: Weybridge
+        county: Addison
+    -
+        town: Whiting
+        county: Addison
+    -
+        town: Arlington
+        county: Bennington
+    -
+        town: Bennington
+        county: Bennington
+    -
+        town: Dorset
+        county: Bennington
+    -
+        town: Glastenbury
+        county: Bennington
+    -
+        town: Landgrove
+        county: Bennington
+    -
+        town: Manchester
+        county: Bennington
+    -
+        town: Peru
+        county: Bennington
+    -
+        town: Pownal
+        county: Bennington
+    -
+        town: Readsboro
+        county: Bennington
+    -
+        town: Rupert
+        county: Bennington
+    -
+        town: Sandgate
+        county: Bennington
+    -
+        town: Searsburg
+        county: Bennington
+    -
+        town: Shaftsbury
+        county: Bennington
+    -
+        town: Stamford
+        county: Bennington
+    -
+        town: Sunderland
+        county: Bennington
+    -
+        town: Winhall
+        county: Bennington
+    -
+        town: Woodford
+        county: Bennington
+    -
+        town: Barnet
+        county: Caledonia
+    -
+        town: Burke
+        county: Caledonia
+    -
+        town: Danville
+        county: Caledonia
+    -
+        town: Groton
+        county: Caledonia
+    -
+        town: Hardwick
+        county: Caledonia
+    -
+        town: Kirby
+        county: Caledonia
+    -
+        town: Lyndon
+        county: Caledonia
+    -
+        town: Newark
+        county: Caledonia
+    -
+        town: Peacham
+        county: Caledonia
+    -
+        town: Ryegate
+        county: Caledonia
+    -
+        town: Sheffield
+        county: Caledonia
+    -
+        town: St. Johnsbury
+        county: Caledonia
+    -
+        town: Stannard
+        county: Caledonia
+    -
+        town: Sutton
+        county: Caledonia
+    -
+        town: Walden
+        county: Caledonia
+    -
+        town: Waterford
+        county: Caledonia
+    -
+        town: Wheelock
+        county: Caledonia
+    -
+        town: Bolton
+        county: Chittenden
+    -
+        town: Charlotte
+        county: Chittenden
+    -
+        town: Colchester
+        county: Chittenden
+    -
+        town: Essex
+        county: Chittenden
+    -
+        town: Hinesburg
+        county: Chittenden
+    -
+        town: Huntington
+        county: Chittenden
+    -
+        town: Jericho
+        county: Chittenden
+    -
+        town: Milton
+        county: Chittenden
+    -
+        town: Richmond
+        county: Chittenden
+    -
+        town: Shelburne
+        county: Chittenden
+    -
+        town: St. George
+        county: Chittenden
+    -
+        town: Underhill
+        county: Chittenden
+    -
+        town: Westford
+        county: Chittenden
+    -
+        town: Williston
+        county: Chittenden
+    -
+        town: Averill
+        county: Essex
+    -
+        town: Bloomfield
+        county: Essex
+    -
+        town: Brighton
+        county: Essex
+    -
+        town: Brunswick
+        county: Essex
+    -
+        town: Canaan
+        county: Essex
+    -
+        town: Concord
+        county: Essex
+    -
+        town: East Haven
+        county: Essex
+    -
+        town: Ferdinand
+        county: Essex
+    -
+        town: Granby
+        county: Essex
+    -
+        town: Guildhall
+        county: Essex
+    -
+        town: Lemington
+        county: Essex
+    -
+        town: Lewis
+        county: Essex
+    -
+        town: Lunenburg
+        county: Essex
+    -
+        town: Maidstone
+        county: Essex
+    -
+        town: Norton
+        county: Essex
+    -
+        town: Victory
+        county: Essex
+    -
+        town: Bakersfield
+        county: Franklin
+    -
+        town: Berkshire
+        county: Franklin
+    -
+        town: Enosburgh
+        county: Franklin
+    -
+        town: Fairfax
+        county: Franklin
+    -
+        town: Fairfield
+        county: Franklin
+    -
+        town: Fletcher
+        county: Franklin
+    -
+        town: Franklin
+        county: Franklin
+    -
+        town: Georgia
+        county: Franklin
+    -
+        town: Highgate
+        county: Franklin
+    -
+        town: Montgomery
+        county: Franklin
+    -
+        town: Richford
+        county: Franklin
+    -
+        town: Sheldon
+        county: Franklin
+    -
+        town: St. Albans
+        county: Franklin
+    -
+        town: Swanton
+        county: Franklin
+    -
+        town: Alburgh
+        county: Grand Isle
+    -
+        town: Grand Isle
+        county: Grand Isle
+    -
+        town: Isle La Motte
+        county: Grand Isle
+    -
+        town: North Hero
+        county: Grand Isle
+    -
+        town: South Hero
+        county: Grand Isle
+    -
+        town: Belvidere
+        county: Lamoille
+    -
+        town: Cambridge
+        county: Lamoille
+    -
+        town: Eden
+        county: Lamoille
+    -
+        town: Elmore
+        county: Lamoille
+    -
+        town: Hyde Park
+        county: Lamoille
+    -
+        town: Johnson
+        county: Lamoille
+    -
+        town: Morristown
+        county: Lamoille
+    -
+        town: Stowe
+        county: Lamoille
+    -
+        town: Waterville
+        county: Lamoille
+    -
+        town: Wolcott
+        county: Lamoille
+    -
+        town: Bradford
+        county: Orange
+    -
+        town: Braintree
+        county: Orange
+    -
+        town: Brookfield
+        county: Orange
+    -
+        town: Chelsea
+        county: Orange
+    -
+        town: Corinth
+        county: Orange
+    -
+        town: Fairlee
+        county: Orange
+    -
+        town: Newbury
+        county: Orange
+    -
+        town: Orange
+        county: Orange
+    -
+        town: Randolph
+        county: Orange
+    -
+        town: Strafford
+        county: Orange
+    -
+        town: Thetford
+        county: Orange
+    -
+        town: Topsham
+        county: Orange
+    -
+        town: Tunbridge
+        county: Orange
+    -
+        town: Vershire
+        county: Orange
+    -
+        town: Washington
+        county: Orange
+    -
+        town: West Fairlee
+        county: Orange
+    -
+        town: Williamstown
+        county: Orange
+    -
+        town: Albany
+        county: Orleans
+    -
+        town: Barton
+        county: Orleans
+    -
+        town: Brownington
+        county: Orleans
+    -
+        town: Charleston
+        county: Orleans
+    -
+        town: Coventry
+        county: Orleans
+    -
+        town: Craftsbury
+        county: Orleans
+    -
+        town: Derby
+        county: Orleans
+    -
+        town: Glover
+        county: Orleans
+    -
+        town: Greensboro
+        county: Orleans
+    -
+        town: Holland
+        county: Orleans
+    -
+        town: Irasburg
+        county: Orleans
+    -
+        town: Jay
+        county: Orleans
+    -
+        town: Lowell
+        county: Orleans
+    -
+        town: Morgan
+        county: Orleans
+    -
+        town: Newport
+        county: Orleans
+    -
+        town: Troy
+        county: Orleans
+    -
+        town: Westfield
+        county: Orleans
+    -
+        town: Westmore
+        county: Orleans
+    -
+        town: Benson
+        county: Rutland
+    -
+        town: Brandon
+        county: Rutland
+    -
+        town: Castleton
+        county: Rutland
+    -
+        town: Chittenden
+        county: Rutland
+    -
+        town: Clarendon
+        county: Rutland
+    -
+        town: Danby
+        county: Rutland
+    -
+        town: Fair Haven
+        county: Rutland
+    -
+        town: Hubbardton
+        county: Rutland
+    -
+        town: Ira
+        county: Rutland
+    -
+        town: Killington
+        county: Rutland
+    -
+        town: Mendon
+        county: Rutland
+    -
+        town: Middletown Springs
+        county: Rutland
+    -
+        town: Mount Holly
+        county: Rutland
+    -
+        town: Mount Tabor
+        county: Rutland
+    -
+        town: Pawlet
+        county: Rutland
+    -
+        town: Pittsfield
+        county: Rutland
+    -
+        town: Pittsford
+        county: Rutland
+    -
+        town: Poultney
+        county: Rutland
+    -
+        town: Proctor
+        county: Rutland
+    -
+        town: Rutland
+        county: Rutland
+    -
+        town: Shrewsbury
+        county: Rutland
+    -
+        town: Sudbury
+        county: Rutland
+    -
+        town: Tinmouth
+        county: Rutland
+    -
+        town: Wallingford
+        county: Rutland
+    -
+        town: Wells
+        county: Rutland
+    -
+        town: West Haven
+        county: Rutland
+    -
+        town: West Rutland
+        county: Rutland
+    -
+        town: Barre
+        county: Washington
+    -
+        town: Berlin
+        county: Washington
+    -
+        town: Cabot
+        county: Washington
+    -
+        town: Calais
+        county: Washington
+    -
+        town: Duxbury
+        county: Washington
+    -
+        town: East Montpelier
+        county: Washington
+    -
+        town: Fayston
+        county: Washington
+    -
+        town: Marshfield
+        county: Washington
+    -
+        town: Middlesex
+        county: Washington
+    -
+        town: Moretown
+        county: Washington
+    -
+        town: Northfield
+        county: Washington
+    -
+        town: Plainfield
+        county: Washington
+    -
+        town: Roxbury
+        county: Washington
+    -
+        town: Waitsfield
+        county: Washington
+    -
+        town: Warren
+        county: Washington
+    -
+        town: Waterbury
+        county: Washington
+    -
+        town: Woodbury
+        county: Washington
+    -
+        town: Worcester
+        county: Washington
+    -
+        town: Athens
+        county: Windham
+    -
+        town: Brattleboro
+        county: Windham
+    -
+        town: Brookline
+        county: Windham
+    -
+        town: Dover
+        county: Windham
+    -
+        town: Dummerston
+        county: Windham
+    -
+        town: Grafton
+        county: Windham
+    -
+        town: Guilford
+        county: Windham
+    -
+        town: Halifax
+        county: Windham
+    -
+        town: Jamaica
+        county: Windham
+    -
+        town: Londonderry
+        county: Windham
+    -
+        town: Marlboro
+        county: Windham
+    -
+        town: Newfane
+        county: Windham
+    -
+        town: Putney
+        county: Windham
+    -
+        town: Rockingham
+        county: Windham
+    -
+        town: Somerset
+        county: Windham
+    -
+        town: Stratton
+        county: Windham
+    -
+        town: Townshend
+        county: Windham
+    -
+        town: Vernon
+        county: Windham
+    -
+        town: Wardsboro
+        county: Windham
+    -
+        town: Westminster
+        county: Windham
+    -
+        town: Whitingham
+        county: Windham
+    -
+        town: Wilmington
+        county: Windham
+    -
+        town: Windham
+        county: Windham
+    -
+        town: Andover
+        county: Windsor
+    -
+        town: Baltimore
+        county: Windsor
+    -
+        town: Barnard
+        county: Windsor
+    -
+        town: Bethel
+        county: Windsor
+    -
+        town: Bridgewater
+        county: Windsor
+    -
+        town: Cavendish
+        county: Windsor
+    -
+        town: Chester
+        county: Windsor
+    -
+        town: Hartford
+        county: Windsor
+    -
+        town: Hartland
+        county: Windsor
+    -
+        town: Ludlow
+        county: Windsor
+    -
+        town: Norwich
+        county: Windsor
+    -
+        town: Plymouth
+        county: Windsor
+    -
+        town: Pomfret
+        county: Windsor
+    -
+        town: Reading
+        county: Windsor
+    -
+        town: Rochester
+        county: Windsor
+    -
+        town: Royalton
+        county: Windsor
+    -
+        town: Sharon
+        county: Windsor
+    -
+        town: Springfield
+        county: Windsor
+    -
+        town: Stockbridge
+        county: Windsor
+    -
+        town: Weathersfield
+        county: Windsor
+    -
+        town: West Windsor
+        county: Windsor
+    -
+        town: Weston
+        county: Windsor
+    -
+        town: Windsor
+        county: Windsor
+    -
+        town: Woodstock
+        county: Windsor

@@ -10,6 +10,7 @@ class MainController extends Dinkly
 	public function loadMap()
 	{
 		$this->counties = CountyCollection::getAll();
+		$this->dropout_years = DropoutCollection::getYearsSupported();
 		return true;
 	}
 

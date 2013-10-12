@@ -7,6 +7,7 @@
 	/*#map-canvas { height: 800px }
 */</style>
 
+<!--collapse checkboxes	 -->
 <script type="text/javascript">
 $(document).ready(function() {
     $('#dropOuts').change(function() {
@@ -14,6 +15,21 @@ $(document).ready(function() {
     });
 });
 </script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('#necaps').change(function() {
+		$('#mycheckboxdiv').toggle();
+	});
+});
+</script>
+
+<!--<script type="text/javascript">
+	$(document).ready(function(){
+		$('#necaps').change(function() {
+    		$('#mycheckboxdiv').toggle();
+    });
+</script>-->
 
 <div class='container-fluid'>
 	<div class='row-fluid'>
@@ -30,13 +46,26 @@ $(document).ready(function() {
               			<span class='caret'></span>
               			</a>
               			<ul class='dropdown-menu'>
-              				Dropdown menu links
+              				<? foreach($dropout_years as $year):?>
+              				<li><?=$year['year']?></li>
+              			<? endforeach;?>
 
               			</ul>
               			</div>
               		</div>
 
-              <li><label class='checkbox'><input type='checkbox' value=''>Necap Scores</label></li>
+              <li><label class='checkbox'><input type='checkbox' name='necaps' id='necaps' value=''>Necap Scores</label></li>
+              	<div id="mycheckboxdiv" style="display:none">
+              		<div class='btn-group'>
+              			<a class='btn dropdown-toggle' data-toggle='dropdown' href="#">
+              				Select Year
+              				<span class='caret'></span>
+              			</a>
+              			<ul class='dropdown-menu'>
+
+              			</ul>
+              		</div>
+              	</div>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
               <li class="nav-header">Sidebar</li>
@@ -142,9 +171,7 @@ $(document).ready(function() {
 				foreach($counties as $county)
 				{
 					$name = lcfirst(str_replace(' ', '', $county->getName()));
-					error_log($name);
 					$html = 'var '.$name.'Polygon = new google.maps.Polygon({path: '.$name.'Points, strokeColor: "#000000",strokeOpacity: 1,strokeWeight: 1, fillOpacity: 0.1, county_name: "'.$county->getName().'", county_id: '.$county->getId().', marker_lat:'.strval($county->getLat()).', marker_lng:'.strval($county->getLng()).'});';
-					error_log($html);
 					echo $html;
 					echo $name.'Polygon.setMap(map);';
 					echo 'google.maps.event.addListener('.$name.'Polygon, "mousemove", solidOpacity);';

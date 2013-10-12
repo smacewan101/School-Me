@@ -1,0 +1,7 @@
+table_name: town
+registry:
+  - id
+  - created_at
+  - updated_at
+  - town: {type: varchar, length: 30, allow_null: false}
+  - county:  { type: varchar, length: 30, allow_null: false }
