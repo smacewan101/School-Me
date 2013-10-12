@@ -7,27 +7,34 @@
 	/*#map-canvas { height: 800px }
 */</style>
 
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#dropOuts').change(function() {
+        $('#mycheckboxdiv').toggle();
+    });
+});
+</script>
+
 <div class='container-fluid'>
 	<div class='row-fluid'>
 	<!--sidebar -->
 	 <div class="span3">
-          <div class="well sidebar-nav">
+          <div class="well sidebar-nav collapse-group">
             <ul class="nav nav-list">
               <li class="nav-header">Parameters</li>
-              <div class='accordion-heading'>
-              	<li><label class="checkbox"><input type="checkbox" name='dropOuts' value="">Drop outs by year</label></li>
-              	<a class='accordion-toggle' data-toggle='collapse' data-parent='#accordionParent' href="#collapseone">
-              		<div class='btn-group'>
+              	<li><label class="checkbox"><input type="checkbox" name='dropOuts' id='dropOuts' value="">Dropouts by year</label></li>
+              		<div id="mycheckboxdiv" style="display:none">
+              			<div class='btn-group'>
               			<a class='btn dropdown-toggle' data-toggle='dropdown'href="#">
               			Select Year
               			<span class='caret'></span>
               			</a>
               			<ul class='dropdown-menu'>
-              				<!--Dropdown menu links -->
+              				Dropdown menu links
+
               			</ul>
+              			</div>
               		</div>
-              	</a>
-              </div>
 
               <li><label class='checkbox'><input type='checkbox' value=''>Necap Scores</label></li>
               <li><a href="#">Link</a></li>
@@ -144,7 +151,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#3D41FF',
-				county_name: 'addison'
+				county_name: 'addison',
+				marker_lat: 44.0362,
+				marker_lng: -73.1617
 			});
 
 			var benningtonPolygon = new google.maps.Polygon({
@@ -154,7 +163,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#57B237',
-				county_name: 'bennington'
+				county_name: 'bennington',
+				marker_lat: 43.0367,
+				marker_lng: -73.1452
 			});
 
 			var caledoniaPolygon = new google.maps.Polygon({
@@ -164,7 +175,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#3D41FF',
-				county_name: 'caledonia'
+				county_name: 'caledonia',
+				marker_lat: 44.4808,
+				marker_lng: -72.0905
 			});
 
 			var chittidenPolygon = new google.maps.Polygon({
@@ -174,7 +187,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#5D5FB2',
-				county_name: 'chittenden'
+				county_name: 'chittenden',
+				marker_lat: 44.4690,
+				marker_lng: -73.0903
 			});
 
 			var essexPolygon = new google.maps.Polygon({
@@ -184,7 +199,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#CC5318',
-				county_name: 'essex'
+				county_name: 'essex',
+				marker_lat: 44.7428,
+				marker_lng: -71.7280
 			});
 
 			var franklinPolygon = new google.maps.Polygon({
@@ -194,7 +211,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#3D41FF',
-				county_name: 'franklin'
+				county_name: 'franklin',
+				marker_lat: 44.8597,
+				marker_lng: -72.9365
 			});
 
 			var grandIslePolygon = new google.maps.Polygon({
@@ -204,7 +223,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#CC5318',
-				county_name: 'grand_isle'
+				county_name: 'grand_isle',
+				marker_lat: 44.8130,
+				marker_lng: -73.2990
 			});
 
 			var lamoillePolygon = new google.maps.Polygon({
@@ -214,7 +235,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#57B237',
-				county_name: 'lamoille'
+				county_name: 'lamoille',
+				marker_lat: 44.6217,
+				marker_lng: -72.6398
 			});
 
 			var orangePolygon = new google.maps.Polygon({
@@ -224,7 +247,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#57B237',
-				county_name: 'orange'
+				county_name: 'orange',
+				marker_lat: 43.9967,
+				marker_lng: -72.3597
 			});
 
 			var orleansPolygon = new google.maps.Polygon({
@@ -234,7 +259,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#5D5FB2',
-				county_name: 'orleans'
+				county_name: 'orleans',
+				marker_lat: 44.8675,
+				marker_lng: -72.2443
 			});
 
 			var rutlandPolygon = new google.maps.Polygon({
@@ -244,7 +271,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#CC5318',
-				county_name: 'rutland'
+				county_name: 'rutland',
+				marker_lat: 43.5684,
+				marker_lng: -73.0353
 			});
 
 			var washingtonPolygon = new google.maps.Polygon({
@@ -254,7 +283,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#CC5318',
-				county_name: 'washington'
+				county_name: 'washington',
+				marker_lat: 44.2845,
+				marker_lng: -72.6014
 			});
 
 			var windhamPolygon = new google.maps.Polygon({
@@ -264,7 +295,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#3D41FF',
-				county_name: 'windham'
+				county_name: 'windham',
+				marker_lat: 42.9845,
+				marker_lng: -72.7222
 			});
 
 			var windsorPolygon = new google.maps.Polygon({
@@ -274,7 +307,9 @@
 				strokeWeight: 0,
 				fillOpacity: 0.1,
 				fillColor: '#5D5FB2',
-				county_name: 'windsor'
+				county_name: 'windsor',
+				marker_lat: 43.5803,
+				marker_lng: -72.5684
 			});
 
 			vermontPolygon.setMap(map);
@@ -334,11 +369,18 @@
 			google.maps.event.addListener(windsorPolygon, 'mousemove', solidOpacity);
 			google.maps.event.addListener(windsorPolygon, 'mouseout', removeOpacity);
 			google.maps.event.addListener(windsorPolygon, 'click', seeDetailView);
-			//infoWindow = new google.maps.InfoWindow();
+
+			infoWindow = new google.maps.InfoWindow();
 
 			function solidOpacity(event)
 			{
 				this.setOptions({fillOpacity: 1});
+				var name = this.county_name.replace('_', ' ');
+				name = name.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+				infoWindow.setContent(name+ " County");
+				latLng = new google.maps.LatLng(this.marker_lat, this.marker_lng);
+  				infoWindow.setPosition(latLng);
+  				infoWindow.open(map);
 			}
 
 			function removeOpacity(event)
