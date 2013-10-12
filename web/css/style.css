@@ -9,6 +9,14 @@ body {
 	background-color: #00BF4B;
 }
 
+.jumbotron h1 {
+	color: #E5E5E5;
+	background-image: none;
+}
+
+.subhead {
+	color: black;
+}
 .container-fluid {
 	width: 1200px;
 	padding-left: 20px;

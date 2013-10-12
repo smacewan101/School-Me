@@ -1,14 +1,14 @@
 
-<div class="hero-unit">
-  <div>
+<header class="jumbotron subhead" id='overview'>
+ 
     <h1>
       <?php echo Dinkly::getConfigValue('app_name'); ?>
     </h1>
-    <p>
+    <p class='lead'>
       <?php echo Dinkly::getConfigValue('app_description'); ?>
     </p>
-  </div>
-</div>
+ 
+</header>
 
 <div class='main-form'>
 	<div class='row-fliud'>
