@@ -136,248 +136,30 @@ $(document).ready(function() {
 				new google.maps.LatLng(45.02083, -72.77888),
 				new google.maps.LatLng(45.00942, -73.35300)
 			];
-			var vermontPolygon = new google.maps.Polygon({
-				path: points,
-				strokeColor: '#000000',
-				strokeOpacity: 1,
-				strokeWeight: 1,
-				fillOpacity: 0.1
-			});
 
-			var addisonPolygon = new google.maps.Polygon({
-				path: addisonPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#3D41FF',
-				county_name: 'addison',
-				marker_lat: 44.0362,
-				marker_lng: -73.1617
-			});
 
-			var benningtonPolygon = new google.maps.Polygon({
-				path: benningtonPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#57B237',
-				county_name: 'bennington',
-				marker_lat: 43.0367,
-				marker_lng: -73.1452
-			});
+			<?
+				foreach($counties as $county)
+				{
+					$name = lcfirst(str_replace(' ', '', $county->getName()));
+					error_log($name);
+					$html = 'var '.$name.'Polygon = new google.maps.Polygon({path: '.$name.'Points, strokeColor: "#000000",strokeOpacity: 1,strokeWeight: 1, fillOpacity: 0.1, county_name: "'.$county->getName().'", county_id: '.$county->getId().', marker_lat:'.strval($county->getLat()).', marker_lng:'.strval($county->getLng()).'});';
+					error_log($html);
+					echo $html;
+					echo $name.'Polygon.setMap(map);';
+					echo 'google.maps.event.addListener('.$name.'Polygon, "mousemove", solidOpacity);';
+					echo 'google.maps.event.addListener('.$name.'Polygon, "mouseout", removeOpacity);';
+					echo 'google.maps.event.addListener('.$name.'Polygon, "click", seeDetailView);';
+				}
 
-			var caledoniaPolygon = new google.maps.Polygon({
-				path: caledoniaPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#3D41FF',
-				county_name: 'caledonia',
-				marker_lat: 44.4808,
-				marker_lng: -72.0905
-			});
-
-			var chittidenPolygon = new google.maps.Polygon({
-				path: chittendenPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#5D5FB2',
-				county_name: 'chittenden',
-				marker_lat: 44.4690,
-				marker_lng: -73.0903
-			});
-
-			var essexPolygon = new google.maps.Polygon({
-				path: essexPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#CC5318',
-				county_name: 'essex',
-				marker_lat: 44.7428,
-				marker_lng: -71.7280
-			});
-
-			var franklinPolygon = new google.maps.Polygon({
-				path: franklinPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#3D41FF',
-				county_name: 'franklin',
-				marker_lat: 44.8597,
-				marker_lng: -72.9365
-			});
-
-			var grandIslePolygon = new google.maps.Polygon({
-				path: grandIslePoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#CC5318',
-				county_name: 'grand_isle',
-				marker_lat: 44.8130,
-				marker_lng: -73.2990
-			});
-
-			var lamoillePolygon = new google.maps.Polygon({
-				path: lamoillePoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#57B237',
-				county_name: 'lamoille',
-				marker_lat: 44.6217,
-				marker_lng: -72.6398
-			});
-
-			var orangePolygon = new google.maps.Polygon({
-				path: orangePoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#57B237',
-				county_name: 'orange',
-				marker_lat: 43.9967,
-				marker_lng: -72.3597
-			});
-
-			var orleansPolygon = new google.maps.Polygon({
-				path: orleansPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#5D5FB2',
-				county_name: 'orleans',
-				marker_lat: 44.8675,
-				marker_lng: -72.2443
-			});
-
-			var rutlandPolygon = new google.maps.Polygon({
-				path: rutlandPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#CC5318',
-				county_name: 'rutland',
-				marker_lat: 43.5684,
-				marker_lng: -73.0353
-			});
-
-			var washingtonPolygon = new google.maps.Polygon({
-				path: washingtonPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#CC5318',
-				county_name: 'washington',
-				marker_lat: 44.2845,
-				marker_lng: -72.6014
-			});
-
-			var windhamPolygon = new google.maps.Polygon({
-				path: windhamPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#3D41FF',
-				county_name: 'windham',
-				marker_lat: 42.9845,
-				marker_lng: -72.7222
-			});
-
-			var windsorPolygon = new google.maps.Polygon({
-				path: windsorPoints,
-				strokeColor: '#f33f00',
-				strokeOpacity: 1,
-				strokeWeight: 0,
-				fillOpacity: 0.1,
-				fillColor: '#5D5FB2',
-				county_name: 'windsor',
-				marker_lat: 43.5803,
-				marker_lng: -72.5684
-			});
-
-			vermontPolygon.setMap(map);
-			addisonPolygon.setMap(map);
-			google.maps.event.addListener(addisonPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(addisonPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(addisonPolygon, 'click', seeDetailView);
-			benningtonPolygon.setMap(map);
-			google.maps.event.addListener(benningtonPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(benningtonPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(benningtonPolygon, 'click', seeDetailView);
-			caledoniaPolygon.setMap(map);
-			google.maps.event.addListener(caledoniaPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(caledoniaPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(caledoniaPolygon, 'click', seeDetailView);
-			chittidenPolygon.setMap(map);
-			google.maps.event.addListener(chittidenPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(chittidenPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(chittidenPolygon, 'click', seeDetailView);
-			essexPolygon.setMap(map);
-			google.maps.event.addListener(essexPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(essexPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(essexPolygon, 'click', seeDetailView);
-			franklinPolygon.setMap(map);
-			google.maps.event.addListener(franklinPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(franklinPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(franklinPolygon, 'click', seeDetailView);
-			grandIslePolygon.setMap(map);
-			google.maps.event.addListener(grandIslePolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(grandIslePolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(grandIslePolygon, 'click', seeDetailView);
-			lamoillePolygon.setMap(map);
-			google.maps.event.addListener(lamoillePolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(lamoillePolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(lamoillePolygon, 'click', seeDetailView);
-			orangePolygon.setMap(map);
-			google.maps.event.addListener(orangePolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(orangePolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(orangePolygon, 'click', seeDetailView);
-			orleansPolygon.setMap(map);
-			google.maps.event.addListener(orleansPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(orleansPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(orleansPolygon, 'click', seeDetailView);
-			rutlandPolygon.setMap(map);
-			google.maps.event.addListener(rutlandPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(rutlandPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(rutlandPolygon, 'click', seeDetailView);
-			washingtonPolygon.setMap(map);
-			google.maps.event.addListener(washingtonPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(washingtonPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(washingtonPolygon, 'click', seeDetailView);
-			windhamPolygon.setMap(map);
-			google.maps.event.addListener(windhamPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(windhamPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(windhamPolygon, 'click', seeDetailView);
-			windsorPolygon.setMap(map);
-			google.maps.event.addListener(windsorPolygon, 'mousemove', solidOpacity);
-			google.maps.event.addListener(windsorPolygon, 'mouseout', removeOpacity);
-			google.maps.event.addListener(windsorPolygon, 'click', seeDetailView);
+			?>
 
 			infoWindow = new google.maps.InfoWindow();
 
 			function solidOpacity(event)
 			{
 				this.setOptions({fillOpacity: 1});
-				var name = this.county_name.replace('_', ' ');
-				name = name.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
-				infoWindow.setContent(name+ " County");
+				infoWindow.setContent(this.county_name+ " County");
 				latLng = new google.maps.LatLng(this.marker_lat, this.marker_lng);
   				infoWindow.setPosition(latLng);
   				infoWindow.open(map);
@@ -390,9 +172,9 @@ $(document).ready(function() {
 
 			function seeDetailView(event)
 			{
-				var name = this.county_name;
+				//var name = this.county_id;
 				//alert( "Latitude: "+event.latLng.lat()+" "+", longitude: "+event.latLng.lng() );
-				window.location = '/main/county/name/'+name;
+				window.location = '/main/county/id/'+this.county_id;
 			}
 		}
 		google.maps.event.addDomListener(window, 'load', initialize);
