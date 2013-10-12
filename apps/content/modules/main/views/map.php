@@ -207,6 +207,7 @@ $(document).ready(function() {
 				  url: '/api/api/dropout/byyear/'+year,
 				  success: function(res){
 				  	console.log(res);
+		
 				  	for (var i = res.length - 1; i >= 0; i--) {
 				  		latlng = new google.maps.LatLng(res[i].lat,res[i].lng);
 				  		
