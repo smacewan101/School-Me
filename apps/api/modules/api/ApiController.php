@@ -467,6 +467,10 @@ class ApiController extends Dinkly
 		if ( is_null($id) )
 			unset($id);
 
+		$sid = isset($params['school_id']) ? $params['school_id'] : NULL;
+		if( is_null($sid) )
+			unset($sid);
+
 		$request = json_decode(file_get_contents('php://input'));
 
 		$response = null;
@@ -479,6 +483,14 @@ class ApiController extends Dinkly
 						$county->init($id);
 						$response = $county->to_json();
 					} 
+				else if ( isset($sid) )
+					{
+						$collection = InstituteCollection::getSchoolInfo($sid);
+						if(count($collection) > 0)
+							$response = json_encode($collection);
+						else
+							$response = "[]";	
+					}
 				else 
 					{
 						$collection = InstituteCollection::getAll();
