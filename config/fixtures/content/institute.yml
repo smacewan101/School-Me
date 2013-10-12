@@ -55,7 +55,7 @@ records:
     -
         school_id: PS186
         name: Milton Sr High School
-        county: 
+        county: Chittenden
     -
         school_id: PS177
         name: Marlboro Elementary School
@@ -71,7 +71,7 @@ records:
     -
         school_id: PS134
         name: Hartford High School
-        county: 
+        county:  Windsor
     -
         school_id: PS007
         name: Albany Community School
@@ -87,7 +87,7 @@ records:
     -
         school_id: PS295
         name: Swanton Schools
-        county: 
+        county: Franklin   
     -
         school_id: PS087
         name: Dummerston Schools
@@ -131,7 +131,7 @@ records:
     -
         school_id: PS404
         name: Lamoille Union Middle School
-        county: 
+        county: Lamoille
     -
         school_id: PI004
         name: Rivendell Academy
@@ -151,15 +151,15 @@ records:
     -
         school_id: PS400
         name: St Johnsbury School
-        county: 
+        county: Caledonia
     -
         school_id: PS095
         name: Edmunds Middle School
-        county: 
+        county: Chittenden
     -
         school_id: PS068
         name: Charlotte Central School
-        county: 
+        county: Chittenden
     -
         school_id: PA002
         name: Burr And Burton Academy
@@ -179,7 +179,7 @@ records:
     -
         school_id: PS196
         name: Mt. Anthony Sr. UHSD #14
-        county: 
+        county: Bennington
     -
         school_id: PS021
         name: Barstow Memorial School
@@ -187,7 +187,7 @@ records:
     -
         school_id: PS071
         name: Clarendon Elementary School
-        county: 
+        county: Rutland
     -
         school_id: PS242
         name: Richford Jr/Sr High School
@@ -215,11 +215,11 @@ records:
     -
         school_id: PS303
         name: Tunbridge Central School
-        county: 
+        county: Orange
     -
         school_id: PS067
         name: Charleston Elem. School
-        county: 
+        county: Orleans
     -
         school_id: PS011
         name: Arlington Memorial
@@ -231,11 +231,11 @@ records:
     -
         school_id: PS158
         name: Lamoille UHSD #18
-        county: 
+        county: Lamoille
     -
         school_id: PS217
         name: Orleans Elementary School
-        county: 
+        county: Orleans
     -
         school_id: PS206
         name: Newton Elementary School
@@ -255,7 +255,7 @@ records:
     -
         school_id: PS104
         name: Fair Haven UHSD #16
-        county: 
+        county: Rutland
     -
         school_id: PS180
         name: Middlebury Sr. UHSD #3
@@ -271,23 +271,23 @@ records:
     -
         school_id: PS166
         name: Lowell Graded School
-        county: 
+        county: Orleans
     -
         school_id: PS020
         name: Barre Town Middle And Elementary School
-        county: 
+        county: Washington
     -
         school_id: PS049
         name: Brownington Central School
-        county: 
+        county: Orleans
     -
         school_id: PS190
         name: Montgomery Center School
-        county: 
+        county: Orleans
     -
         school_id: PS031
         name: Benson Village School
-        county: 
+        county: Rutland
     -
         school_id: PS124
         name: Green Mountain UHSD #35
@@ -295,23 +295,23 @@ records:
     -
         school_id: PS288
         name: St Albans City School
-        county: 
+        county: Franklin
     -
         school_id: PS184
         name: Millers Run USD #37
-        county: 
+        county: Caledonia
     -
         school_id: PS022
         name: Barton Graded School
-        county: 
+        county: Orleans
     -
         school_id: PS401
         name: Winooski Middle School
-        county: 
+        county: Chittenden
     -
         school_id: PS169
         name: Lyman C. Hunt Middle School
-        county: 
+        county: Chittenden
     -
         school_id: PS025
         name: Bellows Falls UHSD #27
@@ -319,11 +319,11 @@ records:
     -
         school_id: PS349
         name: Windsor State Street School
-        county: 
+        county: Windsor
     -
         school_id: PS266
         name: Sheldon Elementary School
-        county: 
+        county: Franklin
     -
         school_id: PS139
         name: Hazen UHSD #26
@@ -339,11 +339,11 @@ records:
     -
         school_id: PS264
         name: Shelburne Community School
-        county: 
+        county: Chittenden
     -
         school_id: PS305
         name: U-32 High School (UHSD #32)
-        county: 
+        county: Washington
     -
         school_id: Preliminary Report"
         name: 
@@ -351,11 +351,11 @@ records:
     -
         school_id: PS117
         name: Georgia Elem/Middle School
-        county: 
+        county: Franklin
     -
         school_id: PS245
         name: Riverside School
-        county: 
+        county: Caledonia
     -
         school_id: PS074
         name: Concord Schools
@@ -367,7 +367,7 @@ records:
     -
         school_id: PS185
         name: Milton Middle School
-        county: 
+        county: Chittenden
     -
         school_id: PS234
         name: Putney Central School
