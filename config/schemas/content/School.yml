@@ -1,0 +1,8 @@
+table_name: school
+registry:
+  - id
+  - created_at
+  - updated_at
+  - name: { type: varchar, length: 64, allow_null: false }
+  - school_id: {type: varchar, length: 10, allow_null: true}
+  - district_id: { type: int, allow_null: false }

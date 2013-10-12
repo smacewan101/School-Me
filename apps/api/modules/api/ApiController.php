@@ -229,6 +229,115 @@ class ApiController extends Dinkly
 			return false;
 	}
 
+	public function loadSchool($params)
+	{
+		$id = isset($params['id']) ? $params['id'] : NULL;
+		if ( is_null($id) )
+			unset($id);
+
+		$request = json_decode(file_get_contents('php://input'));
+
+		$response = null;
+		switch($_SERVER['REQUEST_METHOD'])
+		{
+			case 'GET':
+				if ( isset($id) ) 
+					{
+						$county = new School();
+						$county->init($id);
+						$response = $county->to_json();
+					} 
+				else 
+					{
+						$collection = SchoolCollection::getAll();
+						if(count($collection) > 0)
+							$response = json_encode(array_map(function($c){return $c->to_array();}, $collection));
+						else
+							$response = "[]";
+					}
+				break;
+
+			case 'POST':
+				if ( isset( $request->name ) )
+					{
+						$county = new School();
+						$county->setName( $request->name );
+						$county->setSchoolId( $request->school_id );
+						$county->setDistrictId( $request->district_id );
+						if( $county->save() )
+						{
+							$response = $county->to_json();
+						}
+						else
+							goto bad_request;
+					}
+				else
+					goto bad_request;
+				
+				break;
+
+			case 'PUT':
+				if ( isset($id) ) 
+				{
+					if ( isset( $request->name ) )
+						{
+							$county = new School();
+							$county->init($id);
+
+							if( isset( $county->Id ) )
+								{
+									$county->setName( $request->name );
+									$county->setSchoolId( $request->school_id );
+									$county->setDistrictId( $request->district_id );
+									if( $county->save() )
+										$response = $county->to_json();
+									else
+										goto bad_request;
+								}
+							else
+								goto not_found;
+						}
+					else
+						goto bad_request;
+				}
+				else
+					goto bad_request;
+				break;
+
+			case 'DELETE':
+				if ( isset($id ) )
+				{
+					$county = new School();
+					$county->init($id);
+					if( isset( $county->Id ) )
+						if ( $county->delete() )
+							$response = $county->to_json();
+						else
+							goto bad_request;
+					else
+						goto not_found;
+				}
+				break;
+		}
+
+		$this->handleResponse($response);
+
+		return false;
+
+		bad_request:
+			header('HTTP/1.1 400 Bad Request');
+			$response = "{ \"error\" : \"Bad Request\" }";
+			$this->handleResponse($response);
+			return false;
+
+		not_found:
+			header('HTTP/1.1 404 Not Found');
+			$response = "{ \"error\" : \"Could not find School\" }";
+			$this->handleResponse($response);
+			return false;
+	}
+
+
 	public function loadDefault()
 	{	
 		$request = json_decode(file_get_contents('php://input'));
