@@ -1,0 +1,966 @@
+table_name: district        
+records:
+    -    
+        name: Addison School District   
+        city: Addison 
+        county: Addison
+    -    
+        name: Albany School District   
+        city: Albany  
+        county: Orleans
+    -    
+        name: Alburg School District    
+        city: Alburg  
+        county: Grand Isle
+    -    
+        name: Arlington School District Arlington   
+        city: county: Bennington
+    -    
+        name: Athens/Grafton Contract School District   
+        city: Grafton 
+        county: Windham
+    -    
+        name: Bakersfield School District  
+        city: Bakersfield 
+        county: Franklin
+    -    
+        name: Barnard School District   
+        city: Barnard 
+        county: Windsor
+    -    
+        name: Barnet School District    
+        city: Barnet  
+        county: Caledonia
+    -    
+        name: Barre City School District    
+        city: Barre   
+        county: Washington
+    -    
+        name: Barre Town School District    
+        city: Barre   
+        county: Washington
+    -    
+        name: Barstow Joint Contract District   
+        city: Chittenden  
+        county: Rutland
+    -    
+        name: Barton Id School District Barton  
+        city: county: Orleans
+    -    
+        name: Bellows Falls Union High School District 27   
+        city: Bellows Falls   
+        county: Windham
+    -    
+        name: Bellows Free Academy Union High School #48    
+        city: St. Albans  
+        county: Franklin
+    -    
+        name: Bennington Id School District 
+        city: Bennington  
+        county: Bennington
+    -    
+        name: Benson School District    
+        city: Benson  
+        county: Rutland
+    -    
+        name: Berkshire School District 
+        city: Richford    
+        county: Franklin
+    -    
+        name: Berlin School District    
+        city: Berlin  
+        county: Washington
+    -    
+        name: Bethel School District    
+        city: Bethel  
+        county: Windsor
+    -    
+        name: Black River Unified School District 39    
+        city: Ludlow  
+        county: Windsor
+    -    
+        name: Blue Mountain Unified School District 21  
+        city: Wells River 
+        county: Orange
+    -    
+        name: Bolton School District    
+        city: Bolton  
+        county: Chittenden
+    -    
+        name: Bradford Id School District   
+        city: Bradford    
+        county: Orange
+    -    
+        name: Braintree School District 
+        city: Braintree   
+        county: Orange
+    -    
+        name: Brandon School District   
+        city: Brandon 
+        county: Rutland
+    -    
+        name: Brattleboro School District   
+        city: Brattleboro 
+        county: Windham
+    -    
+        name: Brattleboro Union High School District 6  
+        city: Brattleboro 
+        county: Windham
+    -    
+        name: Bridgewater School District   
+        city: Bridgewater 
+        county: Windsor
+    -    
+        name: Bridport School District  
+        city: Bridport    
+        county: Addison
+    -    
+        name: Brighton School District  
+        city: Island Pond 
+        county: Essex
+    -    
+        name: Bristol School District   
+        city: Bristol 
+        county: Addison
+    -    
+        name: Brookfield School District    
+        city: Brookfield  
+        county: Orange
+    -    
+        name: Brookline School District 
+        city: Brookline   
+        county: Windham
+    -    
+        name: Brookline/Newfane Joint School Contract   
+        city: Newfane 
+        county: Windham
+    -    
+        name: Brownington School District   
+        city: Brownington 
+        county: Orleans
+    -    
+        name: Burke School District 
+        city: West Burke  
+        county: Caledonia
+    -    
+        name: Burlington School District    
+        city: Burlington  
+        county: Chittenden
+    -    
+        name: Burr & Burton Seminary
+        city: Manchester
+        county: Bennington
+    -    
+        name: Cabot School District 
+        city: Cabot   
+        county: Washington
+    -    
+        name: Calais School District    
+        city: Plainfield  
+        county: Washington
+    -    
+        name: Cambridge School District 
+        city: Jeffersonville  
+        county: Lamoille
+    -    
+        name: Canaan School District   
+        city: Canaan  
+        county: Essex
+    -    
+        name: Castleton-Hubbardton Unified School District 42   
+        city: Castleton   
+        county: Rutland
+    -    
+        name: Cavendish School District 
+        city: Proctorsville   
+        county: Windsor
+    -    
+        name: Champlain Valley Union High School District 15    
+        city: Hinesburg   
+        county: Chittenden
+    -    
+        name: Charleston School District    
+        city: West Charleston 
+        county: Orleans
+    -    
+        name: Charlotte School District 
+        city: Charlotte   
+        county: Chittenden
+    -    
+        name: Chelsea School District   
+        city: Chelsea 
+        county: Orange
+    -    
+        name: Chester-Andover Unified School District 29    
+        city: Chester 
+        county: Windsor
+    -    
+        name: Clarendon School District 
+        city: North Clarendon 
+        county: Rutland
+    -    
+        name: Colchester School District    
+        city: Colchester  
+        county: Chittenden
+    -    
+        name: Concord School District   
+        city: Concord 
+        county: Essex
+    -    
+        name: Cornwall School District  
+        city: Cornwall    
+        county: Addison
+    -    
+        name: Coventry School District  
+        city: Coventry    
+        county: Orleans
+    -    
+        name: Craftsbury School District    
+        city: Craftsbury Common   
+        county: Orleans
+    -    
+        name: Currier Memorial Unified School District 23   
+        city: Danby   
+        county: Rutland
+    -    
+        name: Danville School District  
+        city: Danville    
+        county: Caledonia
+    -    
+        name: Derby School District 
+        city: Derby Line  
+        county: Orleans
+    -    
+        name: Dorset School District    
+        city: Dorset  
+        county: Bennington
+    -    
+        name: Dover School District 
+        city: East Dover  
+        county: Windham
+    -    
+        name: Dummerston School District    
+        city: East Dummerston 
+        county: Windham
+    -    
+        name: Duxbury/Waterbury Union #45   
+        city: Duxbury 
+        county: Washington
+    -    
+        name: East Haven School District    
+        city: East Haven  
+        county: Essex
+    -    
+        name: East Montpelier School District   
+        city: East Montpelier 
+        county: Washington
+    -    
+        name: Eden School District  
+        city: Eden    
+        county: Lamoille
+    -    
+        name: Elmore School District    
+        city: Lake Elmore 
+        county: Lamoille
+    -    
+        name: Enosburgh Town School District    
+        city: Enosburg Falls  
+        county: Franklin
+    -    
+        name: Essex Community Education Center  
+        city: Essex Junction  
+        county: Chittenden
+    -    
+        name: Essex Junction Id School District 
+        city: Essex Junction  
+        county: Chittenden
+    -    
+        name: Essex Town School District    
+        city: Essex Junction  
+        county: Chittenden
+    -    
+        name: Fair Haven School District    
+        city: Fair Haven  
+        county: Rutland
+    -    
+        name: Fair Haven Union High School District 16  
+        city: Fair Haven  
+        county: Rutland
+    -    
+        name: Fairfax School District   
+        city: Fairfax 
+        county: Franklin
+    -    
+        name: Fairfield School District 
+        city: Fairfield   
+        county: Franklin
+    -    
+        name: Fayston School District   
+        city: Fayston 
+        county: Washington
+    -    
+        name: Ferrisburg School District    
+        city: Ferrisburgh 
+        county: Addison
+    -    
+        name: Fletcher School District  
+        city: Cambridge   
+        county: Franklin
+    -    
+        name: Flood Brook Unified School District 20    
+        city: Londonderry 
+        county: Windham
+    -    
+        name: Franklin School District  
+        city: Franklin    
+        county: Franklin
+    -    
+        name: Georgia School District   
+        city: St. Albans  
+        county: Franklin
+    -    
+        name: Glover School District    
+        city: Glover  
+        county: Orleans
+    -    
+        name: Grand Isle School District    
+        city: Grand Isle  
+        county: Grand Isle
+    -    
+        name: Granville/ Hancock Joint Contract District    
+        city: Granville   
+        county: Addison
+    -    
+        name: Green Mountain Union High School District 35  
+        city: Chester 
+        county: Windsor
+    -    
+        name: Guildhall School District 
+        city: Guildhall   
+        county: Essex
+    -    
+        name: Guilford School District  
+        city: Guilford    
+        county: Windham
+    -    
+        name: Halifax School District   
+        city: West Halifax    
+        county: Windham
+    -    
+        name: Hardwick School District  
+        city: Hardwick    
+        county: Caledonia
+    -    
+        name: Hartford School District  
+        city: White River Junction    
+        county: Windsor
+    -    
+        name: Hartland School District  
+        city: Hartland    
+        county: Windsor
+    -    
+        name: Harwood Union High School 
+        city: District 19 Duxbury 
+        county: Washington
+    -    
+        name: Hazen Union High School 
+        city: District 26   Hardwick    
+        county: Caledonia
+    -    
+        name: Highgate School District  
+        city: Highgate Center 
+        county: Franklin
+    -    
+        name: Hinesburg School District
+        city: Hinesburg   
+        county: Chittenden
+    -    
+        name: Holland School District
+        city: Derby Line  
+        county: Orleans
+    -    
+        name: Huntington School District
+        city: Huntington  
+        county: Chittenden
+    -    
+        name: Hyde Park School District
+        city: Hyde Park   
+        county: Lamoille
+    -    
+        name: Irasburg School District
+        city:  Irasburg    
+        county: Orleans
+    -    
+        name: Isle La Motte School District
+        city: Isle La Motte   Grand 
+        county: Isle
+    -    
+        name: Jamaica School District
+        city:   Jamaica 
+        county: Windham
+    -    
+        name: Jay/Westfield Joint Elementary    
+        city: Jay 
+        county: Orleans
+    -    
+        name: Jericho School District
+        city:   Jericho 
+        county: Chittenden
+    -    
+        name: Johnson School District
+        city:   Johnson 
+        county: Lamoille
+    -    
+        name: Lake Region Union High School District 24 
+        city: Orleans 
+        county: Orleans
+    -    
+        name: Lakeview Unified School District 43   
+        city: Greensboro  
+        county: Orleans
+    -    
+        name: Lamoille Union High School District 18    
+        city: Hyde Park   
+        county: Lamoille
+    -    
+        name: Leicester School District 
+        city: Leicester   
+        county: Rutland
+    -    
+        name: Leland and Gray Union High School District 34 
+        city: Townshend   
+        county: Windham
+    -    
+        name: Lincoln School District   
+        city: Lincoln 
+        county: Addison
+    -    
+        name: Lowell School District    
+        city: Lowell  
+        county: Orleans
+    -    
+        name: Ludlow School District    
+        city: Ludlow  
+        county: Windsor
+    -    
+        name: Lunenburg School District 
+        city: Gilman  
+        county: Essex
+    -    
+        name: Lyndon Institute  
+        city: Lyndon Center   
+        county: Caledonia
+    -    
+        name: Lyndon School District    
+        city: Lyndonville 
+        county: Caledonia
+    -    
+        name: Manchester School District    
+        city: Manchester Center   
+        county: Bennington
+    -    
+        name: Marlboro School District  
+        city: Marlboro    
+        county: Windham
+    -    
+        name: Mettawee Community School 
+        city: West Pawlet 
+        county: Rutland
+    -    
+        name: Middlebury Id School District 
+        city: Middlebury  
+        county: Addison
+    -    
+        name: Middlebury Union High School District 3   
+        city: Middlebury  
+        county: Addison
+    -    
+        name: Middlesex School District 
+        city: Middlesex   
+        county: Washington
+    -    
+        name: Middletown Springs School District    
+        city: Middletown Springs  
+        county: Rutland
+    -    
+        name: Mill River Unified School District 
+        city: 40 North Clarendon 
+        county: Rutland
+    -    
+        name: Millers Run Unified School District 37    Sheffield   
+        city: county: Caledonia
+    -    
+        name: Milton Id School District Milton  
+        city: county: Chittenden
+    -    
+        name: Missisquoi Valley Union High School District 7    Swanton 
+        city: county: Franklin
+    -    
+        name: Monkton School District   Monkton 
+        city: county: Addison
+    -    
+        name: Montgomery School District    Montgomery Center   
+        city: county: Franklin
+    -    
+        name: Montpelier School District    Montpelier  
+        city: county: Washington
+    -    
+        name: Moretown School District  
+        city: Moretown    
+        county: Washington
+    -    
+        name: Morgan School District    
+        city: Morgan  
+        county: Orleans
+    -    
+        name: Morristown School District    
+        city: Morrisville 
+        county: Lamoille
+    -    
+        name: Mount Abraham Union High School District 28   
+        city: Bristol 
+        county: Addison
+    -    
+        name: Mount Anthony Union High School District 14   
+        city: Bennington  
+        county: Bennington
+    -    
+        name: Mount Holly School District   
+        city: Mount Holly 
+        county: Rutland
+    -    
+        name: Mount Mansfield Unified School District 17    
+        city: Jericho 
+        county: Chittenden
+    -    
+        name: New Haven School District 
+        city: New Haven   
+        county: Addison
+    -    
+        name: Newark School District    
+        city: Newark  
+        county: Caledonia
+    -    
+        name: Newbury School District   
+        city: Newbury 
+        county: Orange
+    -    
+        name: Newfane School District   
+        city: Newfane 
+        county: Windham
+    -    
+        name: Newport City School District  
+        city: Newport 
+        county: Orleans
+    -    
+        name: Newport Town School District  
+        city: Newport Center  
+        county: Orleans
+    -    
+        name: North Bennington Id School District   
+        city: North Bennington    
+        county: Bennington
+    -    
+        name: North Country Junior Union High School District 22    
+        city: Derby   
+        county: Orleans
+    -    
+        name: North Country Senior Union High School District 22    
+        city: Newport 
+        county: Orleans
+    -    
+        name: North Hero School District    
+        city: North Hero
+        county: Grand Isle
+    -    
+        name: Northfield School District   
+        city: Northfield  
+        county: Washington
+    -    
+        name: Norwich School District   
+        city: Norwich 
+        county: Windsor
+    -    
+        name: Orange School District    
+        city: East Barre  
+        county: Orange
+    -    
+        name: Orleans Id School District    
+        city: Orleans 
+        county: Orleans
+    -    
+        name: Orwell School District    
+        city: Orwell  
+        county: Addison
+    -    
+        name: Otter Valley Union High School District 8 
+        city: Brandon 
+        county: Rutland
+    -    
+        name: Oxbow Union High School District 30   
+        city: Bradford    
+        county: Orange
+    -    
+        name: Patricia Hannaford Career Center School District  
+        city: Middlebury  
+        county: Addison
+    -    
+        name: Peacham School District   
+        city: Peacham 
+        county: Caledonia
+    -    
+        name: Pittsford School District 
+        city: Pittsford   
+        county: Rutland
+    -    
+        name: Plymouth School District  
+        city: Plymouth    
+        county: Windsor
+    -    
+        name: Pomfret School District   
+        city: South Pomfret   
+        county: Windsor
+    -    
+        name: Poultney School District  
+        city: Poultney    
+        county: Rutland
+    -    
+        name: Pownal School District    
+        city: Pownal  
+        county: Bennington
+    -    
+        name: Proctor School District   
+        city: Proctor 
+        county: Rutland
+    -    
+        name: Putney School District    
+        city: Putney  
+        county: Windham
+    -    
+        name: Randolph School District  
+        city: Randolph    
+        county: Orange
+    -    
+        name: Randolph Union High School District 2 
+        city: Randolph    
+        county: Orange
+    -    
+        name: Reading School District   
+        city: Reading 
+        county: Windsor
+    -    
+        name: Readsboro School District 
+        city: Readsboro   
+        county: Bennington
+    -    
+        name: Richford School District  
+        city: Richford    
+        county: Franklin
+    -    
+        name: Richmond School District  
+        city: Richmond    
+        county: Chittenden
+    -    
+        name: Ripton School District    
+        city: Ripton  
+        county: Addison
+    -    
+        name: Rochester School District 
+        city: Rochester   
+        county: Windsor
+    -    
+        name: Rockingham School District    
+        city: Bellows Falls   
+        county: Windham
+    -    
+        name: Roxbury School District   
+        city: Roxbury 
+        county: Washington
+    -    
+        name: Royalton School District  
+        city: South Royalton  
+        county: Windsor
+    -    
+        name: Rutland City School District  
+        city: Rutland 
+        county: Rutland
+    -    
+        name: Rutland Town School District  
+        city: Rutland 
+        county: Rutland
+    -    
+        name: Salisbury School District 
+        city: Salisbury   
+        county: Addison
+    -    
+        name: Shaftsbury School District    
+        city: Shaftsbury  
+        county: Bennington
+    -    
+        name: Sharon School District    
+        city: Sharon  
+        county: Windsor
+    -    
+        name: Shelburne School District 
+        city: Shelburne   
+        county: Chittenden
+    -    
+        name: Sheldon School District   
+        city: Sheldon 
+        county: Franklin
+    -    
+        name: Sherburne Town School District    
+        city: Killington  
+        county: Rutland
+    -    
+        name: Shoreham School District  
+        city: Shoreham    
+        county: Addison
+    -    
+        name: Shrewsbury School District    
+        city: Cuttingsville   
+        county: Rutland
+    -    
+        name: South Burlington School District  
+        city: South Burlington    
+        county: Chittenden
+    -    
+        name: South Hero School District    
+        city: South Hero  
+        county: Grand Isle
+    -    
+        name: Southwest Vermont Career Development Center   
+        city: Bennington  
+        county: Bennington
+    -    
+        name: Spaulding Union High School District 41   
+        city: Barre   
+        county: Washington
+    -    
+        name: Springfield School District   
+        city: Springfield 
+        county: Windsor
+    -    
+        name: St. Albans City School District   
+        city: St. Albans  
+        county: Franklin
+    -    
+        name: St. Albans Town School District   
+        city: St. Albans  
+        county: Franklin
+    -    
+        name: St. Johnsbury School District 
+        city: St. Johnsbury   
+        county: Caledonia
+    -    
+        name: Stamford School District  
+        city: Stamford    
+        county: Bennington
+    -    
+        name: Starksboro School District    
+        city: Starksboro  
+        county: Addison
+    -    
+        name: Stockbridge School District   
+        city: Stockbridge 
+        county: Windsor
+    -    
+        name: Stowe School District 
+        city: Stowe   
+        county: Lamoille
+    -    
+        name: Strafford School District 
+        city: South Strafford 
+        county: Orange
+    -    
+        name: Sudbury School District   
+        city: Sudbury 
+        county: Rutland
+    -    
+        name: Sunderland School District    
+        city: Sunderland  
+        county: Bennington
+    -    
+        name: Sutton School District    
+        city: Sutton  
+        county: Caledonia
+    -    
+        name: Swanton School District   
+        city: Swanton 
+        county: Franklin
+    -    
+        name: Thetford Academy  
+        city: Thetford    
+        county: Orange
+    -    
+        name: Thetford School District  
+        city: Thetford    
+        county: Orange
+    -    
+        name: Tinmouth School District  
+        city: Tinmouth    
+        county: Rutland
+    -    
+        name: Townshend School District 
+        city: Townshend   
+        county: Windham
+    -    
+        name: Troy School District  
+        city: North Troy  
+        county: Orleans
+    -    
+        name: Tunbridge School District 
+        city: Tunbridge   
+        county: Orange
+    -    
+        name: Twinfield Unified School District 33  
+        city: Plainfield  
+        county: Washington
+    -    
+        name: Underhill Id School District  
+        city: Jericho 
+        county: Chittenden
+    -    
+        name: Underhill Town School District    
+        city: Underhill Center    
+        county: Chittenden
+    -    
+        name: Union High School District 32 
+        city: Montpelier  
+        county: Washington
+    -    
+        name: Vergennes UESD #44    
+        city: Vergennes   
+        county: Addison
+    -    
+        name: Vergennes Union High School District 5    
+        city: Vergennes   
+        county: Addison
+    -    
+        name: Vernon School District    
+        city: Vernon  
+        county: Windham
+    -    
+        name: Waits River Valley 
+        city: USD#36 East Corinth    
+        county: Orange
+    -    
+        name: Waitsfield School District
+        city:     Waitsfield  
+        county: Washington
+    -    
+        name: Walden School District
+        city:     Walden  
+        county: Caledonia
+    -    
+        name: Wallingford School District
+        city:    Wallingford 
+        county: Rutland
+    -    
+        name: Wardsboro School District
+        city:  Wardsboro   
+        county: Windham
+    -    
+        name: Warren School District
+        city:     Warren  
+        county: Washington
+    -    
+        name: Washington School District
+        city:     Washington  
+        county: Orange
+    -    
+        name: Waterford School District
+        city:  Waterford   
+        county: Caledonia
+    -    
+        name: Waterville School District
+        city:     Waterville  
+        county: Lamoille
+    -    
+        name: Weathersfield School District
+        city:  Ascutney    
+        county: Windsor
+    -    
+        name: Wells School District
+        city:  Wells   
+        county: Rutland
+    -    
+        name: West Rutland School District
+        city:   West Rutland    
+        county: Rutland
+    -    
+        name: West Windsor School District
+        city:   Brownsville 
+        county: Windsor
+    -    
+        name: Westford School District
+        city:   Westford    
+        county: Chittenden
+    -    
+        name: Westminster School District
+        city:    Westminster 
+        county: Windham
+    -    
+        name: Weybridge School District
+        city:  Middlebury  
+        county: Addison
+    -    
+        name: Whiting School District
+        city:    Whiting 
+        county: Addison
+    -    
+        name: Whitingham School District
+        city:     Jacksonville    
+        county: Windham
+    -    
+        name: Whitingham/Wilmington Joint District
+        city:   Jacksonville    
+        county: Windham
+    -    
+        name: Williamstown School District
+        city:   Williamstown    
+        county: Orange
+    -    
+        name: Williston School District
+        city:  Williston   
+        county: Chittenden
+    -    
+        name: Wilmington School District
+        city:     Wilmington  
+        county: Windham
+    -    
+        name: Windham School District
+        city:    Windham 
+        county: Windham
+    -    
+        name: Windsor School District
+        city:    Windsor 
+        county: Windsor
+    -    
+        name: Winooski School District
+        city:   Winooski    
+        county: Chittenden
+    -    
+        name: Wolcott School District
+        city:    Wolcott 
+        county: Lamoille
+    -    
+        name: Woodbury School District
+        city:   Woodbury    
+        county: Washington
+    -    
+        name: Woodford School District
+        city:   Bennington  
+        county: Bennington
+    -    
+        name: Woodstock School District
+        city:  Woodstock   
+        county: Windsor
+    -    
+        name: Woodstock Union High School District 4    
+        city: Woodstock   
+        county: Windsor
+    -    
+        name: Worcester School District
+        city: Worcester   
+        county: Washington

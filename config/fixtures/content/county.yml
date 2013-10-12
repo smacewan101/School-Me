@@ -1,54 +1,86 @@
 table_name: county
-records:    
-    -   
-        created_at:     
-        updated_at:
-        name: Chittenden    
+records:
     -
-        created_at:     
+        created_at:
+        updated_at:
+        name: Chittenden
+        lat: 44.4690
+        lng: -73.0903
+    -
+        created_at:
         updated_at:
         name: Addison
-    -   
-        created_at:     
+        lat: 44.0362
+        lng: -73.1617
+    -
+        created_at:
         updated_at:
         name: Bennington
-    -   
-        created_at:     
+        lat: 43.0367
+        lng: -73.1452
+    -
+        created_at:
         updated_at:
         name: Caledonia
-    -   
-        created_at:     
+        lat: 44.4808
+        lng: -72.0905
+    -
+        created_at:
         updated_at:
         name: Essex
-    -   
-        created_at:     
+        lat: 44.7428
+        lng: -71.7280
+    -
+        created_at:
         updated_at:
         name: Franklin
-    -   
-        created_at:     
+        lat: 44.8597
+        lng: -72.9365
+    -
+        created_at:
         updated_at:
         name: Grand Isle
-    -   
-        created_at:     
+        lat: 44.8130
+        lng: -73.2990
+    -
+        created_at:
         updated_at:
         name: Orange
-    -   
-        created_at:     
+        lat: 43.9967
+        lng: -72.3597
+    -
+        created_at:
         updated_at:
         name: Orleans
-    -   
-        created_at:     
+        lat: 44.8675
+        lng: -72.2443
+    -
+        created_at:
         updated_at:
         name: Rutland
-    -   
-        created_at:     
+        lat: 43.5684
+        lng: -73.0353
+    -
+        created_at:
         updated_at:
         name: Washington
-    -   
-        created_at:     
+        lat: 44.2845
+        lng: -72.6014
+    -
+        created_at:
         updated_at:
         name: Windham
-    -   
-        created_at:     
+        lat: 43.5803
+        lng: -72.5684
+    -
+        created_at:
         updated_at:
         name: Windsor
+        lat: 42.9845
+        lng: -72.7222
+    -
+        created_at:
+        updated_at:
+        name: Lamoille
+        lat: 44.6217
+        lng: -72.6398
