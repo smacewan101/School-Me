@@ -1,0 +1,49 @@
+html{
+	height: 100%;
+}
+
+body {
+	/*height: 100%;
+	margin: 0px;
+	padding: 0px;*/
+	background-color: #00BF4B;
+}
+
+.jumbotron h1 {
+	color: #E5E5E5;
+	background-image: none;
+}
+
+.subhead {
+	color: black;
+}
+.container-fluid {
+	width: 1200px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+/*Set the navbar color to green */ 
+.navbar-inverse .navbar-inner {
+	background-color: #003314;
+	background-image: none;
+}
+
+.main-form {
+	margin-left: auto;
+	text-align: center;
+}
+
+.map-content {
+	margin:	30px auto;
+	/*padding-top: 5px;*/
+}
+#map-canvas {
+	margin-top: 25px;
+	height: 600px;
+	border: 1px solid;
+}
+
+.sidebar-nav {
+	margin-top: 45px;
+}

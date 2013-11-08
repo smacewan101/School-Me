@@ -1,0 +1,31 @@
+
+- Whats the purpose of our app? 
+-- Making it easier to decide where you or your family should get an
+education in vermont. 
+
+- How did we try to do it?
+-- Tried to do it in a visually intuitive way. 
+
+- The data sets.
+-- We had report data sets and csv and excel files. As well as HTML
+parsing. Enrollment information. Teacher-student ratios. drop out rates.
+NECAP test results. 
+
+- Tried to display pertenant data: Necap scores. Compare schools within
+  a county, view reports at a county level to narrow a search down.
+
+- RESTful backend for easy access by other projects wanting to make use
+  of the data we have. 
+
+- Color scheme is all vermont! Because it's a vermont app and not only
+  seeks to help vermonters, but others who want to come to vermont. 
+
+- Problems:
+-- The internet. Cutting out prevented us from pushing neccesary goods to
+each other 
+
+- Tech: 
+-- php framework called dinkly. jQuery. perl for scraping. mySQL. 
+
+Vermont theme.* innovation-. user experience+. quality presentation?.
+overall quality of app. 

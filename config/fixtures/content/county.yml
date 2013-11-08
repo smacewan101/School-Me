@@ -1,0 +1,87 @@
+table_name: county
+records:
+    -
+        created_at:
+        updated_at:
+        name: Chittenden
+        lat: 44.4690
+        lng: -73.0903
+    -
+        created_at:
+        updated_at:
+        name: Addison
+        lat: 44.0362
+        lng: -73.1617
+    -
+        created_at:
+        updated_at:
+        name: Bennington
+        lat: 43.0367
+        lng: -73.1452
+    -
+        created_at:
+        updated_at:
+        name: Caledonia
+        lat: 44.4808
+        lng: -72.0905
+    -
+        created_at:
+        updated_at:
+        name: Essex
+        lat: 44.7428
+        lng: -71.7280
+    -
+        created_at:
+        updated_at:
+        name: Franklin
+        lat: 44.8597
+        lng: -72.9365
+    -
+        created_at:
+        updated_at:
+        name: Grand Isle
+        lat: 44.8130
+        lng: -73.2990
+    -
+        created_at:
+        updated_at:
+        name: Orange
+        lat: 43.9967
+        lng: -72.3597
+    -
+        created_at:
+        updated_at:
+        name: Orleans
+        lat: 44.8675
+        lng: -72.2443
+    -
+        created_at:
+        updated_at:
+        name: Rutland
+        lat: 43.5684
+        lng: -73.0353
+    -
+        created_at:
+        updated_at:
+        name: Washington
+        lat: 44.2845
+        lng: -72.6014
+    -
+        created_at:
+        updated_at:
+        name: Windham
+        lat: 42.9845
+        lng: -72.7222
+
+    -
+        created_at:
+        updated_at:
+        name: Windsor
+        lat: 43.5803
+        lng: -72.5684
+    -
+        created_at:
+        updated_at:
+        name: Lamoille
+        lat: 44.6217
+        lng: -72.6398

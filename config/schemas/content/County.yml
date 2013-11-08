@@ -1,0 +1,8 @@
+table_name: county
+registry:
+  - id
+  - created_at
+  - updated_at
+  - name: { type: varchar, length: 64, allow_null: false }
+  - lat: {type: float, allow_null: false}
+  - lng: {type: float, allow_null: false}

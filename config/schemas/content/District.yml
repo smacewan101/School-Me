@@ -1,0 +1,8 @@
+table_name: district
+registry:
+  - id
+  - created_at
+  - updated_at
+  - name: { type: varchar, length: 64, allow_null: false }
+  - county: { type: varchar, length: 64, allow_null: false }
+  - city: { type: varchar, length: 64, allow_null: true }

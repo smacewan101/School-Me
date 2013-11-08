@@ -1,0 +1,9 @@
+table_name: dropout
+registry:
+  - id
+  - created_at
+  - updated_at
+  - year: { type: float, allow_null: false }
+  - nine2twelve: { type: float, allow_null: false }
+  - seven2twelve: { type: float, allow_null: false }
+  - school_id: {type: varchar, length: 10, allow_null: true}

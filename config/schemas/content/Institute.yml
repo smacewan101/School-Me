@@ -1,0 +1,11 @@
+table_name: institute
+registry:
+  - id
+  - created_at
+  - updated_at
+  - name: { type: varchar, length: 64, allow_null: false }
+  - county: {type: varchar, length: 20, allow_null: true}
+  - school_id: {type: varchar, length: 10, allow_null: true}
+  - lat: {type: float, allow_null: false}
+  - lng: {type: float, allow_null: false}
+
